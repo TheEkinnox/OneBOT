@@ -1,15 +1,17 @@
 ﻿#region MÉTADONNÉES
 
 // Nom du fichier : BaseCommands.cs
-// Auteur : Loick OBIANG (1832960)
-// Date de création : 2019-03-01
-// Date de modification : 2019-03-01
+// Auteur :  (Loïck Obiang Ndong)
+// Date de création : 2019-09-08
+// Date de modification : 2019-09-11
 
 #endregion
 
 #region USING
 
 using System;
+using System.Collections.Generic;
+using System.IO;
 using System.Reflection;
 using System.Threading.Tasks;
 using Discord;
@@ -52,20 +54,12 @@ namespace OneBotNet.Core.Commands
         [Command("plop")]
         public async Task SendOctoplop()
         {
-            // ReSharper disable once InconsistentNaming
-            string imgsPath = Assembly.GetEntryAssembly().Location.Replace(@"bin\Debug\netcoreapp2.1\AlterBotNet.dll", @"Data\Plop\");
-            string[] vectImgs = new string[]
-            {
-                $"{imgsPath}p0.jpg",
-                $"{imgsPath}p1.jpg",
-                $"{imgsPath}p2.jpg",
-                $"{imgsPath}p3.jpg",
-                $"{imgsPath}p4.jpg",
-                $"{imgsPath}p5.jpg",
-                $"{imgsPath}p6.jpg",
-                $"{imgsPath}p7.jpg",
-            };
-            string[] vectCapt = new String[]
+            string imgsPath = Assembly.GetEntryAssembly().Location.Replace(@"bin\Debug\netcoreapp2.1\OneBotNet.dll", @"Data\Plop\");
+            List<string> plopImgs = new List<string>();
+            foreach (string file in Directory.GetFiles(imgsPath, "*.jpg"))
+                plopImgs.Add(file);
+
+            List<string> captions = new List<string>()
             {
                 "POUUUUUUULPE!",
                 "Quelqu'un a parlé de Takoyakis?",
@@ -81,12 +75,11 @@ namespace OneBotNet.Core.Commands
             };
             try
             {
-                await this.Context.Channel.SendFileAsync(vectImgs[this._rand.Next(vectImgs.Length)], $"{vectCapt[this._rand.Next(vectCapt.Length)]}");
+                await this.Context.Channel.SendFileAsync(plopImgs[this._rand.Next(plopImgs.Count)], $"{captions[this._rand.Next(captions.Count)]}");
             }
             catch (Exception e)
             {
                 Logs.WriteLine(e.ToString());
-                return;
             }
         }
 
@@ -129,6 +122,38 @@ namespace OneBotNet.Core.Commands
                 Logs.WriteLine(e.ToString());
                 return;
             }
+        }
+
+        [Command("testwanted"), Alias("tw")]
+        public async Task SendTestWanted(string type = "Dead or alive")
+        {
+            await Global.ChargerDonneesPersosAsync();
+            Character persoTest = await Global.GetCharacterByNameAsync("test");
+            if (persoTest == null)
+            {
+                Global.Characters.Add(new Character
+                {
+                    Nom = "D. Test",
+                    Prenom = "Plop",
+                    CompteEnBanque = new BankAccount
+                    {
+                        Montant = 5000,
+                        Salaire = 0
+                    },
+                    Age = 25,
+                    Camps = Side.Revolutionnaire,
+                    NomImagePerso = "plopdtest.png",
+                    Prime = 100000000,
+                    Race = "Cyborg",
+                    OwnerId = 260385529474842626
+                });
+                await Global.EnregistrerDonneesPersosAsync();
+                persoTest = Global.Characters[Global.Characters.Count - 1];
+            }
+            bool dead = type.ToLower().Contains("dead");
+            bool alive = type.ToLower().Contains("alive");
+            await Global.GenererAvisDeRecherche(persoTest, dead, alive);
+            await this.Context.Channel.SendFileAsync(Global.CheminImagesWanted + persoTest.Prenom + ".png");
         }
 
         #endregion

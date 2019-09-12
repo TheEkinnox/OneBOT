@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCharacter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Character>
+    <Nom>D. Test</Nom>
+    <Prenom>Plop</Prenom>
+    <Age>25</Age>
+    <Race>Cyborg</Race>
+    <Camps>Revolutionnaire</Camps>
+    <Prime>100000000</Prime>
+    <CompteEnBanque>
+      <Montant>5000</Montant>
+      <Salaire>0</Salaire>
+    </CompteEnBanque>
+    <NomImagePerso>plopdtest.png</NomImagePerso>
+    <OwnerId>260385529474842626</OwnerId>
+  </Character>
+</ArrayOfCharacter>

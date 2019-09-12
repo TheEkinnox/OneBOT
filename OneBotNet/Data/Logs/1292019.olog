@@ -1,0 +1,630 @@
+
+2019-09-12 00:00:54 at Discord Discord.Net v2.0.1 (API v6)
+2019-09-12 00:01:02 at Rest GET voice/regions: 5706,5 ms
+2019-09-12 00:01:03 at Gateway Connecting
+2019-09-12 00:01:03 at Gateway Connecting ApiClient
+2019-09-12 00:01:03 at Rest GET gateway: 112,59 ms
+2019-09-12 00:01:04 at Gateway Received Hello
+2019-09-12 00:01:04 at Gateway Heartbeat Started
+2019-09-12 00:01:06 at Gateway Identifying
+2019-09-12 00:01:07 at Gateway Sent Heartbeat
+2019-09-12 00:01:08 at Gateway Received HeartbeatAck
+2019-09-12 00:01:08 at Gateway Latency = 2875 ms
+2019-09-12 00:01:08 at Gateway Received Dispatch (READY)
+2019-09-12 00:01:08 at Gateway GuildDownloader Started
+2019-09-12 00:01:08 at Gateway Sending Status
+2019-09-12 00:01:08 at Gateway Sent StatusUpdate
+2019-09-12 00:01:08 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:01:09 at Gateway Raising Event
+2019-09-12 00:01:09 at Gateway Connected to ServeurTest
+2019-09-12 00:01:09 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:01:09 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+2019-09-12 00:01:10 at Gateway GuildDownloader Stopped
+2019-09-12 00:01:10 at Gateway Sent StatusUpdate
+2019-09-12 00:01:11 at Gateway Ready
+2019-09-12 00:01:19 at Gateway Received Dispatch (TYPING_START)
+2019-09-12 00:01:19 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:02:05 at Gateway Sent Heartbeat
+2019-09-12 00:02:10 at Gateway Latency = 16765 ms
+2019-09-12 00:02:10 at Gateway A LatencyUpdated handler is blocking the gateway task.
+2019-09-12 00:02:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:02:44 at Gateway Heartbeat Stopped
+2019-09-12 00:02:44 at Gateway 
+2019-09-12 00:02:44 at Gateway Disconnecting
+2019-09-12 00:02:44 at Gateway Disconnecting ApiClient
+2019-09-12 00:02:44 at Gateway Waiting for heartbeater
+2019-09-12 00:02:44 at Gateway Waiting for guild downloader
+2019-09-12 00:02:44 at Gateway Clearing large guild queue
+2019-09-12 00:02:44 at Gateway Raising virtual GuildUnavailables
+2019-09-12 00:02:44 at Gateway Disconnected from ServeurTest
+2019-09-12 00:02:44 at Gateway Disconnected from One Piece | Nouvelle odyssée | RP
+2019-09-12 00:02:44 at Gateway Disconnected
+2019-09-12 00:02:45 at Gateway Connecting
+2019-09-12 00:02:45 at Gateway Connecting ApiClient
+2019-09-12 00:02:46 at Rest GET gateway: 131,64 ms
+2019-09-12 00:02:46 at Gateway Received Hello
+2019-09-12 00:02:46 at Gateway Heartbeat Started
+2019-09-12 00:02:46 at Gateway Resuming
+2019-09-12 00:02:46 at Gateway Sent Heartbeat
+2019-09-12 00:02:47 at Gateway Sent Resume
+2019-09-12 00:02:47 at Gateway Latency = 1485 ms
+2019-09-12 00:02:47 at Gateway Received Dispatch (RESUMED)
+2019-09-12 00:02:51 at Gateway Connected to ServeurTest
+2019-09-12 00:02:51 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+2019-09-12 00:02:51 at Gateway Sent StatusUpdate
+2019-09-12 00:02:51 at Gateway Connected
+2019-09-12 00:02:51 at Gateway Raising Event
+2019-09-12 00:03:28 at Gateway Sent Heartbeat
+2019-09-12 00:03:28 at Gateway Received HeartbeatAck
+2019-09-12 00:03:28 at Gateway Latency = 110 ms
+2019-09-12 00:04:10 at Gateway Sent Heartbeat
+2019-09-12 00:04:10 at Gateway Latency = 437 ms
+2019-09-12 00:04:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:05:14 at Discord Discord.Net v2.0.1 (API v6)
+2019-09-12 00:05:24 at Rest GET voice/regions: 8344,08 ms
+2019-09-12 00:05:25 at Gateway Connecting
+2019-09-12 00:05:25 at Gateway Connecting ApiClient
+2019-09-12 00:05:25 at Rest GET gateway: 422,98 ms
+2019-09-12 00:05:27 at Gateway Received Hello
+2019-09-12 00:05:27 at Gateway Heartbeat Started
+2019-09-12 00:05:28 at Gateway Identifying
+2019-09-12 00:05:28 at Gateway Sent Heartbeat
+2019-09-12 00:05:28 at Gateway Sent Identify
+2019-09-12 00:05:28 at Gateway Received HeartbeatAck
+2019-09-12 00:05:28 at Gateway Latency = 594 ms
+2019-09-12 00:05:28 at Gateway Received Dispatch (READY)
+2019-09-12 00:05:28 at Gateway GuildDownloader Started
+2019-09-12 00:05:28 at Gateway Sending Status
+2019-09-12 00:05:28 at Gateway Sent StatusUpdate
+2019-09-12 00:05:28 at Gateway Connected
+2019-09-12 00:05:28 at Gateway Raising Event
+2019-09-12 00:05:28 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:05:28 at Gateway Connected to ServeurTest
+2019-09-12 00:05:28 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:05:28 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+2019-09-12 00:05:28 at Gateway GuildDownloader Stopped
+2019-09-12 00:05:28 at Gateway Sent StatusUpdate
+2019-09-12 00:05:29 at Gateway Ready
+2019-09-12 00:05:40 at Gateway Received Dispatch (TYPING_START)
+2019-09-12 00:05:41 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:05:41 Enregistrement des personnages...
+2019-09-12 00:05:42 Enregistrement terminé.
+2019-09-12 00:06:09 at Gateway Sent Heartbeat
+2019-09-12 00:06:10 at Gateway Latency = 641 ms
+2019-09-12 00:06:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:07:51 at Discord Discord.Net v2.0.1 (API v6)
+2019-09-12 00:07:52 at Rest GET voice/regions: 621,9 ms
+2019-09-12 00:07:52 at Gateway Connecting
+2019-09-12 00:07:52 at Gateway Connecting ApiClient
+2019-09-12 00:07:52 at Rest GET gateway: 43,28 ms
+2019-09-12 00:07:53 at Gateway Received Hello
+2019-09-12 00:07:53 at Gateway Heartbeat Started
+2019-09-12 00:07:54 at Gateway Identifying
+2019-09-12 00:07:54 at Gateway Received HeartbeatAck
+2019-09-12 00:07:54 at Gateway Sent Identify
+2019-09-12 00:07:54 at Gateway Latency = 828 ms
+2019-09-12 00:07:55 at Gateway Received Dispatch (READY)
+2019-09-12 00:07:55 at Gateway GuildDownloader Started
+2019-09-12 00:07:55 at Gateway Sending Status
+2019-09-12 00:07:55 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:07:55 at Gateway Sent StatusUpdate
+2019-09-12 00:07:55 at Gateway Connected
+2019-09-12 00:07:55 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:07:55 at Gateway Raising Event
+2019-09-12 00:07:55 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+2019-09-12 00:07:55 at Gateway GuildDownloader Stopped
+2019-09-12 00:07:55 at Gateway Sent StatusUpdate
+2019-09-12 00:07:56 at Gateway Ready
+2019-09-12 00:08:24 at Gateway Received Dispatch (TYPING_START)
+2019-09-12 00:08:24 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:08:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:08:35 at Gateway Sent Heartbeat
+2019-09-12 00:08:35 at Gateway Received HeartbeatAck
+2019-09-12 00:08:35 at Gateway Latency = 79 ms
+2019-09-12 00:08:37 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:14:23 at Discord Discord.Net v2.0.1 (API v6)
+2019-09-12 00:14:24 at Rest GET voice/regions: 835,33 ms
+2019-09-12 00:14:24 at Gateway Connecting
+2019-09-12 00:14:24 at Gateway Connecting ApiClient
+2019-09-12 00:14:24 at Rest GET gateway: 41,23 ms
+2019-09-12 00:14:25 at Gateway Received Hello
+2019-09-12 00:14:25 at Gateway Heartbeat Started
+2019-09-12 00:14:26 at Gateway Identifying
+2019-09-12 00:14:26 at Gateway Sent Identify
+2019-09-12 00:14:26 at Gateway Received Dispatch (READY)
+2019-09-12 00:14:27 at Gateway GuildDownloader Started
+2019-09-12 00:14:27 at Gateway Sending Status
+2019-09-12 00:14:27 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:14:27 at Gateway Connected to ServeurTest
+2019-09-12 00:14:27 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:14:27 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+2019-09-12 00:14:28 at Gateway GuildDownloader Stopped
+2019-09-12 00:14:28 at Gateway Sent StatusUpdate
+2019-09-12 00:14:28 at Gateway Ready
+2019-09-12 00:14:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:15:07 at Gateway Sent Heartbeat
+2019-09-12 00:15:49 at Gateway Sent Heartbeat
+2019-09-12 00:15:49 at Gateway Received HeartbeatAck
+2019-09-12 00:15:49 at Gateway Latency = 94 ms
+2019-09-12 00:16:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:16:30 at Gateway Sent Heartbeat
+2019-09-12 00:16:30 at Gateway Received HeartbeatAck
+2019-09-12 00:16:30 at Gateway Latency = 78 ms
+2019-09-12 00:17:11 at Gateway Sent Heartbeat
+2019-09-12 00:17:11 at Gateway Received HeartbeatAck
+2019-09-12 00:17:11 at Gateway Latency = 78 ms
+2019-09-12 00:17:28 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:17:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:17:53 at Gateway Sent Heartbeat
+2019-09-12 00:17:53 at Gateway Received HeartbeatAck
+2019-09-12 00:17:53 at Gateway Latency = 78 ms
+2019-09-12 00:18:28 at Gateway Received Dispatch (TYPING_START)
+2019-09-12 00:18:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:18:29 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:18:34 at Gateway Sent Heartbeat
+2019-09-12 00:18:34 at Gateway Received HeartbeatAck
+2019-09-12 00:18:34 at Gateway Latency = 79 ms
+2019-09-12 00:18:48 at Gateway Received Dispatch (TYPING_START)
+2019-09-12 00:18:59 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:19:15 at Gateway Sent Heartbeat
+2019-09-12 00:19:57 at Gateway Sent Heartbeat
+2019-09-12 00:19:57 at Gateway Received HeartbeatAck
+2019-09-12 00:19:57 at Gateway Latency = 218 ms
+2019-09-12 00:20:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:20:39 at Gateway Sent Heartbeat
+2019-09-12 00:22:17 at Discord Discord.Net v2.0.1 (API v6)
+2019-09-12 00:22:18 at Rest GET voice/regions: 1369,5 ms
+2019-09-12 00:22:19 at Gateway Connecting
+2019-09-12 00:22:19 at Gateway Connecting ApiClient
+2019-09-12 00:22:19 at Rest GET gateway: 56,24 ms
+2019-09-12 00:22:20 at Gateway Received Hello
+2019-09-12 00:22:20 at Gateway Heartbeat Started
+2019-09-12 00:22:20 at Gateway Identifying
+2019-09-12 00:22:20 at Gateway Sent Heartbeat
+2019-09-12 00:22:20 at Gateway Sent Identify
+2019-09-12 00:22:20 at Gateway Received HeartbeatAck
+2019-09-12 00:22:20 at Gateway Latency = 218 ms
+2019-09-12 00:22:20 at Gateway Received Dispatch (READY)
+2019-09-12 00:22:20 at Gateway GuildDownloader Started
+2019-09-12 00:22:20 at Gateway Sending Status
+2019-09-12 00:22:20 at Gateway Sent StatusUpdate
+2019-09-12 00:22:20 at Gateway Connected to ServeurTest
+2019-09-12 00:22:20 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:22:20 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+2019-09-12 00:22:21 at Gateway GuildDownloader Stopped
+2019-09-12 00:22:21 at Gateway Sent StatusUpdate
+2019-09-12 00:22:21 at Gateway Ready
+2019-09-12 00:22:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:22:43 at Gateway Received Dispatch (TYPING_START)
+2019-09-12 00:22:46 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:22:47 Enregistrement des personnages...
+2019-09-12 00:22:47 Enregistrement terminé.
+2019-09-12 00:22:47 Enregistrement des personnages...
+2019-09-12 00:22:47 Enregistrement terminé.
+2019-09-12 00:22:52 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:22:52 at Rest POST channels/601131062378364950/messages: 1583,31 ms
+2019-09-12 00:23:01 at Gateway Sent Heartbeat
+2019-09-12 00:23:01 at Gateway Received HeartbeatAck
+2019-09-12 00:23:01 at Gateway Latency = 140 ms
+2019-09-12 00:23:03 at Gateway Received Dispatch (TYPING_START)
+2019-09-12 00:23:06 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:23:09 at Gateway Received Dispatch (TYPING_START)
+2019-09-12 00:23:23 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:23:42 at Gateway Sent Heartbeat
+2019-09-12 00:23:42 at Gateway Received HeartbeatAck
+2019-09-12 00:23:42 at Gateway Latency = 78 ms
+2019-09-12 00:24:24 at Gateway Sent Heartbeat
+2019-09-12 00:24:24 at Gateway Received HeartbeatAck
+2019-09-12 00:24:24 at Gateway Latency = 188 ms
+2019-09-12 00:24:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:25:05 at Gateway Sent Heartbeat
+2019-09-12 00:25:05 at Gateway Received HeartbeatAck
+2019-09-12 00:25:05 at Gateway Latency = 93 ms
+2019-09-12 00:25:46 at Gateway Sent Heartbeat
+2019-09-12 00:25:46 at Gateway Received HeartbeatAck
+2019-09-12 00:25:46 at Gateway Latency = 78 ms
+2019-09-12 00:26:28 at Gateway Sent Heartbeat
+2019-09-12 00:26:28 at Gateway Received HeartbeatAck
+2019-09-12 00:26:28 at Gateway Latency = 94 ms
+2019-09-12 00:26:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:27:09 at Gateway Sent Heartbeat
+2019-09-12 00:27:09 at Gateway Received HeartbeatAck
+2019-09-12 00:27:09 at Gateway Latency = 78 ms
+2019-09-12 00:27:17 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:27:50 at Gateway Sent Heartbeat
+2019-09-12 00:27:50 at Gateway Received HeartbeatAck
+2019-09-12 00:27:50 at Gateway Latency = 125 ms
+2019-09-12 00:28:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:28:31 at Gateway Sent Heartbeat
+2019-09-12 00:28:32 at Gateway Received HeartbeatAck
+2019-09-12 00:28:32 at Gateway Latency = 157 ms
+2019-09-12 00:29:13 at Gateway Sent Heartbeat
+2019-09-12 00:29:13 at Gateway Received HeartbeatAck
+2019-09-12 00:29:13 at Gateway Latency = 94 ms
+2019-09-12 00:29:17 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:29:54 at Gateway Sent Heartbeat
+2019-09-12 00:29:54 at Gateway Received HeartbeatAck
+2019-09-12 00:29:54 at Gateway Latency = 78 ms
+2019-09-12 00:30:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:30:35 at Gateway Sent Heartbeat
+2019-09-12 00:30:36 at Gateway Received HeartbeatAck
+2019-09-12 00:30:36 at Gateway Latency = 94 ms
+2019-09-12 00:31:17 at Gateway Sent Heartbeat
+2019-09-12 00:31:17 at Gateway Received HeartbeatAck
+2019-09-12 00:31:17 at Gateway Latency = 140 ms
+2019-09-12 00:31:58 at Gateway Sent Heartbeat
+2019-09-12 00:31:58 at Gateway Received HeartbeatAck
+2019-09-12 00:31:58 at Gateway Latency = 79 ms
+2019-09-12 00:32:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:32:40 at Gateway Sent Heartbeat
+2019-09-12 00:32:40 at Gateway Received HeartbeatAck
+2019-09-12 00:32:40 at Gateway Latency = 203 ms
+2019-09-12 00:33:21 at Gateway Sent Heartbeat
+2019-09-12 00:33:21 at Gateway Received HeartbeatAck
+2019-09-12 00:33:21 at Gateway Latency = 78 ms
+2019-09-12 00:33:55 at Discord Discord.Net v2.0.1 (API v6)
+2019-09-12 00:33:56 at Rest GET voice/regions: 918,04 ms
+2019-09-12 00:33:57 at Gateway Connecting
+2019-09-12 00:33:57 at Gateway Connecting ApiClient
+2019-09-12 00:33:57 at Rest GET gateway: 41,04 ms
+2019-09-12 00:33:58 at Gateway Received Hello
+2019-09-12 00:33:58 at Gateway Heartbeat Started
+2019-09-12 00:33:58 at Gateway Identifying
+2019-09-12 00:33:58 at Gateway Sent Heartbeat
+2019-09-12 00:33:58 at Gateway Sent Identify
+2019-09-12 00:33:58 at Gateway Received HeartbeatAck
+2019-09-12 00:33:58 at Gateway Latency = 219 ms
+2019-09-12 00:33:58 at Gateway Received Dispatch (READY)
+2019-09-12 00:33:58 at Gateway GuildDownloader Started
+2019-09-12 00:33:58 at Gateway Sending Status
+2019-09-12 00:33:58 at Gateway Sent StatusUpdate
+2019-09-12 00:33:58 at Gateway Connected
+2019-09-12 00:33:58 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:33:58 at Gateway Connected to ServeurTest
+2019-09-12 00:33:59 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:33:59 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+2019-09-12 00:33:59 at Gateway GuildDownloader Stopped
+2019-09-12 00:33:59 at Gateway Sent StatusUpdate
+2019-09-12 00:33:59 at Gateway Ready
+2019-09-12 00:34:09 at Gateway Received Dispatch (TYPING_START)
+2019-09-12 00:34:16 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:34:16 at Commands] Une erreur s'est produite en exécutant une commande. Texte: o!char | Erreur: The input text has too few parameters.
+2019-09-12 00:34:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:34:34 at Gateway Received Dispatch (TYPING_START)
+2019-09-12 00:34:37 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:34:37 Message d'erreur de la commande characterLe nom d'un personnage doit être entré.
+2019-09-12 00:34:37 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:34:39 at Gateway Sent Heartbeat
+2019-09-12 00:34:39 at Gateway Received HeartbeatAck
+2019-09-12 00:34:39 at Gateway Latency = 62 ms
+2019-09-12 00:34:42 at Gateway Received Dispatch (TYPING_START)
+2019-09-12 00:34:44 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:34:44 Message d'erreur de la commande characterObject reference not set to an instance of an object.
+2019-09-12 00:34:45 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:35:21 at Gateway Sent Heartbeat
+2019-09-12 00:35:21 at Gateway Received HeartbeatAck
+2019-09-12 00:35:21 at Gateway Latency = 78 ms
+2019-09-12 00:36:02 at Gateway Sent Heartbeat
+2019-09-12 00:36:02 at Gateway Received HeartbeatAck
+2019-09-12 00:36:02 at Gateway Latency = 79 ms
+2019-09-12 00:36:23 at Discord Discord.Net v2.0.1 (API v6)
+2019-09-12 00:36:23 at Rest GET voice/regions: 349,64 ms
+2019-09-12 00:36:24 at Gateway Connecting
+2019-09-12 00:36:24 at Gateway Connecting ApiClient
+2019-09-12 00:36:24 at Rest GET gateway: 37,51 ms
+2019-09-12 00:36:25 at Gateway Received Hello
+2019-09-12 00:36:25 at Gateway Heartbeat Started
+2019-09-12 00:36:25 at Gateway Identifying
+2019-09-12 00:36:25 at Gateway Sent Heartbeat
+2019-09-12 00:36:25 at Gateway Sent Identify
+2019-09-12 00:36:25 at Gateway Latency = 203 ms
+2019-09-12 00:36:25 at Gateway Received Dispatch (READY)
+2019-09-12 00:36:25 at Gateway GuildDownloader Started
+2019-09-12 00:36:25 at Gateway Sending Status
+2019-09-12 00:36:26 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:36:26 at Gateway Connected
+2019-09-12 00:36:26 at Gateway Raising Event
+2019-09-12 00:36:26 at Gateway Connected to ServeurTest
+2019-09-12 00:36:26 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:36:26 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+2019-09-12 00:36:26 at Gateway GuildDownloader Stopped
+2019-09-12 00:36:26 at Gateway Sent StatusUpdate
+2019-09-12 00:36:26 at Gateway Ready
+2019-09-12 00:36:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:36:33 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:36:34 Message d'erreur de la commande characterLe paramètre entré est invalide. character help pour voir la liste des paramètres valides
+2019-09-12 00:36:34 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:36:34 at Rest POST channels/601131062378364950/messages: 115,7 ms
+2019-09-12 00:36:37 at Gateway Received Dispatch (TYPING_START)
+2019-09-12 00:36:42 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:36:42 Message d'erreur de la commande characterObject reference not set to an instance of an object.
+2019-09-12 00:36:42 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:40:36 at Discord Discord.Net v2.0.1 (API v6)
+2019-09-12 00:40:37 at Rest GET voice/regions: 508,25 ms
+2019-09-12 00:40:37 at Gateway Connecting
+2019-09-12 00:40:37 at Gateway Connecting ApiClient
+2019-09-12 00:40:37 at Rest GET gateway: 39,41 ms
+2019-09-12 00:40:38 at Gateway Received Hello
+2019-09-12 00:40:38 at Gateway Heartbeat Started
+2019-09-12 00:40:38 at Gateway Identifying
+2019-09-12 00:40:38 at Gateway Sent Identify
+2019-09-12 00:40:38 at Gateway Received HeartbeatAck
+2019-09-12 00:40:38 at Gateway Latency = 172 ms
+2019-09-12 00:40:38 at Gateway Received Dispatch (READY)
+2019-09-12 00:40:38 at Gateway GuildDownloader Started
+2019-09-12 00:40:38 at Gateway Sending Status
+2019-09-12 00:40:38 at Gateway Sent StatusUpdate
+2019-09-12 00:40:38 at Gateway Connected
+2019-09-12 00:40:38 at Gateway Raising Event
+2019-09-12 00:40:38 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:40:47 at Discord Discord.Net v2.0.1 (API v6)
+2019-09-12 00:40:51 at Rest GET voice/regions: 3315,75 ms
+2019-09-12 00:40:52 at Gateway Connecting
+2019-09-12 00:40:53 at Gateway Connecting ApiClient
+2019-09-12 00:40:53 at Rest GET gateway: 309,96 ms
+2019-09-12 00:40:55 at Gateway Received Hello
+2019-09-12 00:40:55 at Gateway Heartbeat Started
+2019-09-12 00:40:55 at Gateway Identifying
+2019-09-12 00:40:55 at Gateway Sent Heartbeat
+2019-09-12 00:40:55 at Gateway Sent Identify
+2019-09-12 00:40:55 at Gateway Received HeartbeatAck
+2019-09-12 00:40:55 at Gateway Latency = 188 ms
+2019-09-12 00:40:55 at Gateway Received Dispatch (READY)
+2019-09-12 00:44:31 at Discord Discord.Net v2.0.1 (API v6)
+2019-09-12 00:44:37 at Rest GET voice/regions: 5166,87 ms
+2019-09-12 00:44:37 at Gateway Connecting
+2019-09-12 00:44:37 at Gateway Connecting ApiClient
+2019-09-12 00:44:37 at Rest GET gateway: 117,37 ms
+2019-09-12 00:44:39 at Gateway Received Hello
+2019-09-12 00:44:39 at Gateway Heartbeat Started
+2019-09-12 00:44:39 at Gateway Identifying
+2019-09-12 00:44:39 at Gateway Sent Identify
+2019-09-12 00:44:39 at Gateway Received HeartbeatAck
+2019-09-12 00:44:39 at Gateway Latency = 813 ms
+2019-09-12 00:44:39 at Gateway Received Dispatch (READY)
+2019-09-12 00:44:40 at Gateway GuildDownloader Started
+2019-09-12 00:44:40 at Gateway Sending Status
+2019-09-12 00:44:40 at Gateway Sent StatusUpdate
+2019-09-12 00:44:40 at Gateway Connected
+2019-09-12 00:44:40 at Gateway Raising Event
+2019-09-12 00:44:40 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:44:40 at Gateway Connected to ServeurTest
+2019-09-12 00:44:40 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:44:40 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+2019-09-12 00:44:40 at Gateway GuildDownloader Stopped
+2019-09-12 00:44:40 at Gateway Sent StatusUpdate
+2019-09-12 00:44:40 at Gateway Ready
+2019-09-12 00:44:43 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:44:44 Message d'erreur de la commande characterObject reference not set to an instance of an object.
+2019-09-12 00:44:44 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:44:44 at Rest POST channels/601131062378364950/messages: 401,91 ms
+2019-09-12 00:44:57 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:45:25 at Gateway Sent Heartbeat
+2019-09-12 00:45:26 at Gateway Latency = 3047 ms
+2019-09-12 00:45:41 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:48:35 at Discord Discord.Net v2.0.1 (API v6)
+2019-09-12 00:48:39 at Rest GET voice/regions: 3459,73 ms
+2019-09-12 00:48:40 at Gateway Connecting
+2019-09-12 00:48:40 at Gateway Connecting ApiClient
+2019-09-12 00:48:40 at Rest GET gateway: 206,32 ms
+2019-09-12 00:48:40 at Gateway Received Hello
+2019-09-12 00:48:40 at Gateway Heartbeat Started
+2019-09-12 00:48:41 at Gateway Identifying
+2019-09-12 00:48:41 at Gateway Sent Heartbeat
+2019-09-12 00:48:41 at Gateway Sent Identify
+2019-09-12 00:48:41 at Gateway Received HeartbeatAck
+2019-09-12 00:48:41 at Gateway Latency = 234 ms
+2019-09-12 00:48:41 at Gateway Received Dispatch (READY)
+2019-09-12 00:48:41 at Gateway GuildDownloader Started
+2019-09-12 00:48:41 at Gateway Sending Status
+2019-09-12 00:48:41 at Gateway Sent StatusUpdate
+2019-09-12 00:48:41 at Gateway Connected
+2019-09-12 00:48:41 at Gateway Raising Event
+2019-09-12 00:48:41 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:48:41 at Gateway Connected to ServeurTest
+2019-09-12 00:48:41 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:48:41 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+2019-09-12 00:48:41 at Gateway GuildDownloader Stopped
+2019-09-12 00:48:41 at Gateway Sent StatusUpdate
+2019-09-12 00:48:41 at Gateway Ready
+2019-09-12 00:48:46 at Gateway Received Dispatch (MESSAGE_DELETE_BULK)
+2019-09-12 00:48:48 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:49:08 Message d'erreur de la commande characterObject reference not set to an instance of an object.
+2019-09-12 00:51:22 at Discord Discord.Net v2.0.1 (API v6)
+2019-09-12 00:51:26 at Rest GET voice/regions: 3781,95 ms
+2019-09-12 00:51:27 at Gateway Connecting
+2019-09-12 00:51:27 at Gateway Connecting ApiClient
+2019-09-12 00:51:27 at Rest GET gateway: 113,79 ms
+2019-09-12 00:51:28 at Gateway Received Hello
+2019-09-12 00:51:28 at Gateway Heartbeat Started
+2019-09-12 00:51:28 at Gateway Identifying
+2019-09-12 00:51:28 at Gateway Sent Heartbeat
+2019-09-12 00:51:28 at Gateway Sent Identify
+2019-09-12 00:51:28 at Gateway Received HeartbeatAck
+2019-09-12 00:51:28 at Gateway Latency = 188 ms
+2019-09-12 00:51:28 at Gateway Received Dispatch (READY)
+2019-09-12 00:51:28 at Gateway GuildDownloader Started
+2019-09-12 00:51:28 at Gateway Sending Status
+2019-09-12 00:51:28 at Gateway Sent StatusUpdate
+2019-09-12 00:51:28 at Gateway Connected
+2019-09-12 00:51:28 at Gateway Raising Event
+2019-09-12 00:51:28 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:51:28 at Gateway Connected to ServeurTest
+2019-09-12 00:51:28 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:51:28 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+2019-09-12 00:51:29 at Gateway GuildDownloader Stopped
+2019-09-12 00:51:29 at Gateway Sent StatusUpdate
+2019-09-12 00:51:29 at Gateway Ready
+2019-09-12 00:51:31 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:53:19 at Discord Discord.Net v2.0.1 (API v6)
+2019-09-12 00:53:24 at Rest GET voice/regions: 4571,4 ms
+2019-09-12 00:53:25 at Gateway Connecting
+2019-09-12 00:53:25 at Gateway Connecting ApiClient
+2019-09-12 00:53:25 at Rest GET gateway: 123,05 ms
+2019-09-12 00:53:25 at Gateway Received Hello
+2019-09-12 00:53:25 at Gateway Heartbeat Started
+2019-09-12 00:53:25 at Gateway Identifying
+2019-09-12 00:53:26 at Gateway Sent Heartbeat
+2019-09-12 00:53:26 at Gateway Received HeartbeatAck
+2019-09-12 00:53:26 at Gateway Latency = 500 ms
+2019-09-12 00:53:26 at Gateway Received Dispatch (READY)
+2019-09-12 00:53:26 at Gateway GuildDownloader Started
+2019-09-12 00:53:26 at Gateway Sending Status
+2019-09-12 00:53:26 at Gateway Sent StatusUpdate
+2019-09-12 00:53:26 at Gateway Connected
+2019-09-12 00:53:26 at Gateway Raising Event
+2019-09-12 00:53:26 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:53:26 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+2019-09-12 00:53:26 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:53:26 at Gateway Connected to ServeurTest
+2019-09-12 00:53:26 at Gateway GuildDownloader Stopped
+2019-09-12 00:53:26 at Gateway Sent StatusUpdate
+2019-09-12 00:53:26 at Gateway Ready
+2019-09-12 00:53:28 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:53:41 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:53:42 at Rest POST channels/601131062378364950/messages: 583,15 ms
+2019-09-12 00:55:11 at Discord Discord.Net v2.0.1 (API v6)
+2019-09-12 00:55:11 at Rest GET voice/regions: 379,79 ms
+2019-09-12 00:55:12 at Gateway Connecting
+2019-09-12 00:55:12 at Gateway Connecting ApiClient
+2019-09-12 00:55:12 at Rest GET gateway: 56,77 ms
+2019-09-12 00:55:12 at Gateway Received Hello
+2019-09-12 00:55:12 at Gateway Heartbeat Started
+2019-09-12 00:55:12 at Gateway Identifying
+2019-09-12 00:55:12 at Gateway Sent Identify
+2019-09-12 00:55:12 at Gateway Received HeartbeatAck
+2019-09-12 00:55:12 at Gateway Latency = 172 ms
+2019-09-12 00:55:13 at Gateway Received Dispatch (READY)
+2019-09-12 00:55:13 at Gateway GuildDownloader Started
+2019-09-12 00:55:13 at Gateway Sending Status
+2019-09-12 00:55:13 at Gateway Sent StatusUpdate
+2019-09-12 00:55:13 at Gateway Connected
+2019-09-12 00:55:13 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:55:13 at Gateway Connected to ServeurTest
+2019-09-12 00:55:13 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:55:13 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+2019-09-12 00:55:13 at Gateway GuildDownloader Stopped
+2019-09-12 00:55:13 at Gateway Sent StatusUpdate
+2019-09-12 00:55:13 at Gateway Ready
+2019-09-12 00:55:19 at Gateway Received Dispatch (TYPING_START)
+2019-09-12 00:55:23 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:55:24 Message d'erreur de la commande characterUrl must be a well-formed URI.
+Parameter name: ImageUrl
+2019-09-12 00:55:24 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:55:24 at Rest POST channels/601131062378364950/messages: 319,64 ms
+2019-09-12 00:55:32 at Gateway Received Dispatch (TYPING_START)
+2019-09-12 00:55:54 at Gateway Sent Heartbeat
+2019-09-12 00:55:54 at Gateway Received HeartbeatAck
+2019-09-12 00:55:54 at Gateway Latency = 94 ms
+2019-09-12 00:56:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:56:35 at Gateway Sent Heartbeat
+2019-09-12 00:56:35 at Gateway Received HeartbeatAck
+2019-09-12 00:56:35 at Gateway Latency = 93 ms
+2019-09-12 00:57:19 at Discord Discord.Net v2.0.1 (API v6)
+2019-09-12 00:57:19 at Rest GET voice/regions: 349,54 ms
+2019-09-12 00:57:19 at Gateway Connecting
+2019-09-12 00:57:19 at Gateway Connecting ApiClient
+2019-09-12 00:57:20 at Rest GET gateway: 35,71 ms
+2019-09-12 00:57:20 at Gateway Received Hello
+2019-09-12 00:57:20 at Gateway Heartbeat Started
+2019-09-12 00:57:20 at Gateway Identifying
+2019-09-12 00:57:20 at Gateway Sent Heartbeat
+2019-09-12 00:57:20 at Gateway Sent Identify
+2019-09-12 00:57:20 at Gateway Received HeartbeatAck
+2019-09-12 00:57:20 at Gateway Latency = 172 ms
+2019-09-12 00:57:20 at Gateway Received Dispatch (READY)
+2019-09-12 00:57:20 at Gateway GuildDownloader Started
+2019-09-12 00:57:20 at Gateway Sending Status
+2019-09-12 00:57:21 at Gateway Sent StatusUpdate
+2019-09-12 00:57:21 at Gateway Connected to ServeurTest
+2019-09-12 00:57:21 at Gateway Connected
+2019-09-12 00:57:21 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 00:57:21 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+2019-09-12 00:57:21 at Gateway GuildDownloader Stopped
+2019-09-12 00:57:21 at Gateway Sent StatusUpdate
+2019-09-12 00:57:21 at Gateway Ready
+2019-09-12 00:57:22 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:57:23 Message d'erreur de la commande characterThe server responded with error 400: BadRequest
+2019-09-12 00:57:23 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 00:58:01 at Gateway Sent Heartbeat
+2019-09-12 00:58:01 at Gateway Received HeartbeatAck
+2019-09-12 00:58:01 at Gateway Latency = 94 ms
+2019-09-12 00:58:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 00:58:43 at Gateway Sent Heartbeat
+2019-09-12 00:58:43 at Gateway Received HeartbeatAck
+2019-09-12 00:58:43 at Gateway Latency = 78 ms
+2019-09-12 00:59:24 at Gateway Sent Heartbeat
+2019-09-12 00:59:24 at Gateway Received HeartbeatAck
+2019-09-12 00:59:24 at Gateway Latency = 78 ms
+2019-09-12 01:00:05 at Gateway Sent Heartbeat
+2019-09-12 01:00:05 at Gateway Received HeartbeatAck
+2019-09-12 01:00:05 at Gateway Latency = 63 ms
+2019-09-12 01:00:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 01:00:46 at Gateway Sent Heartbeat
+2019-09-12 01:00:47 at Gateway Received HeartbeatAck
+2019-09-12 01:00:47 at Gateway Latency = 78 ms
+2019-09-12 01:01:28 at Gateway Sent Heartbeat
+2019-09-12 01:01:28 at Gateway Received HeartbeatAck
+2019-09-12 01:01:28 at Gateway Latency = 78 ms
+2019-09-12 01:02:09 at Gateway Sent Heartbeat
+2019-09-12 01:02:09 at Gateway Received HeartbeatAck
+2019-09-12 01:02:09 at Gateway Latency = 78 ms
+2019-09-12 01:02:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 01:02:50 at Gateway Sent Heartbeat
+2019-09-12 01:02:50 at Gateway Received HeartbeatAck
+2019-09-12 01:02:50 at Gateway Latency = 62 ms
+2019-09-12 01:03:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 01:03:32 at Gateway Sent Heartbeat
+2019-09-12 01:03:32 at Gateway Received HeartbeatAck
+2019-09-12 01:03:32 at Gateway Latency = 63 ms
+2019-09-12 01:04:13 at Gateway Sent Heartbeat
+2019-09-12 01:04:13 at Gateway Received HeartbeatAck
+2019-09-12 01:04:13 at Gateway Latency = 63 ms
+2019-09-12 01:04:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 01:04:54 at Gateway Sent Heartbeat
+2019-09-12 01:04:54 at Gateway Received HeartbeatAck
+2019-09-12 01:04:54 at Gateway Latency = 62 ms
+2019-09-12 01:05:35 at Gateway Sent Heartbeat
+2019-09-12 01:05:35 at Gateway Received HeartbeatAck
+2019-09-12 01:05:35 at Gateway Latency = 78 ms
+2019-09-12 01:05:42 at Discord Discord.Net v2.0.1 (API v6)
+2019-09-12 01:05:44 at Rest GET voice/regions: 977,34 ms
+2019-09-12 01:05:44 at Gateway Connecting
+2019-09-12 01:05:44 at Gateway Connecting ApiClient
+2019-09-12 01:05:44 at Rest GET gateway: 99,54 ms
+2019-09-12 01:05:45 at Gateway Received Hello
+2019-09-12 01:05:45 at Gateway Heartbeat Started
+2019-09-12 01:05:45 at Gateway Identifying
+2019-09-12 01:05:45 at Gateway Sent Heartbeat
+2019-09-12 01:05:45 at Gateway Sent Identify
+2019-09-12 01:05:45 at Gateway Received HeartbeatAck
+2019-09-12 01:05:45 at Gateway Latency = 156 ms
+2019-09-12 01:05:45 at Gateway Received Dispatch (READY)
+2019-09-12 01:05:45 at Gateway GuildDownloader Started
+2019-09-12 01:05:45 at Gateway Sending Status
+2019-09-12 01:05:45 at Gateway Sent StatusUpdate
+2019-09-12 01:05:45 at Gateway Connected
+2019-09-12 01:05:45 at Gateway Raising Event
+2019-09-12 01:05:45 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 01:05:45 at Gateway Connected to ServeurTest
+2019-09-12 01:05:45 at Gateway Received Dispatch (GUILD_AVAILABLE)
+2019-09-12 01:05:45 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+2019-09-12 01:05:46 at Gateway GuildDownloader Stopped
+2019-09-12 01:05:46 at Gateway Sent StatusUpdate
+2019-09-12 01:05:46 at Gateway Ready
+2019-09-12 01:05:52 at Gateway Received Dispatch (TYPING_START)
+2019-09-12 01:05:52 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 01:05:52 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 01:05:52 at Gateway Received Dispatch (MESSAGE_UPDATE)
+2019-09-12 01:05:53 at Gateway Received Dispatch (MESSAGE_CREATE)
+2019-09-12 01:05:53 at Rest POST channels/601131062378364950/messages: 369,4 ms
+2019-09-12 01:06:26 at Gateway Sent Heartbeat
+2019-09-12 01:06:26 at Gateway Received HeartbeatAck
+2019-09-12 01:06:26 at Gateway Latency = 63 ms
+2019-09-12 01:06:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+2019-09-12 01:07:07 at Gateway Sent Heartbeat
+2019-09-12 01:07:07 at Gateway Received HeartbeatAck
+2019-09-12 01:07:07 at Gateway Latency = 78 ms
+2019-09-12 01:07:49 at Gateway Sent Heartbeat
+2019-09-12 01:07:49 at Gateway Received HeartbeatAck
+2019-09-12 01:07:49 at Gateway Latency = 78 ms

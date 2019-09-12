@@ -25,83 +25,54 @@ namespace OneBotNet.Core.Data.Classes
     /// </summary>
     public static class RepeatingTimer
     {
-        #region CONSTANTES ET ATTRIBUTS STATIQUES
-
         private static Timer _loopingTimer;
-        private static List<BankAccount> _initialBankAccounts;
-        private static SocketTextChannel[] _banques;
 
-        static string _cheminComptesEnBanque = Assembly.GetEntryAssembly().Location.Replace(@"bin\Debug\netcoreapp2.1\OneBotNet.dll", @"Ressources\Database\bank.altr");
-        static BankAccount _methodes = new BankAccount("");
-        private static bool _salaireVerse = false;
-        private const DayOfWeek jourSalaire = DayOfWeek.Friday;
-        private static int _heureSalaire = DateTime.Now.Hour;
-        private static int _minuteSalaire = DateTime.Now.Minute;
+        //internal static Task StartTimer()
+        //{
 
-        private static int _ticksPasses = 3;
-
-        #endregion
-
-        #region MÉTHODES
-
-        internal static Task StartTimer()
-        {
-            RepeatingTimer._initialBankAccounts = RepeatingTimer._methodes.ChargerDonneesPersosAsync(RepeatingTimer._cheminComptesEnBanque).GetAwaiter().GetResult();
-            RepeatingTimer._banques = new SocketTextChannel[]
-            {
-                //OnePieceRP
-                Global.Client.GetGuild(549301561478873105).GetTextChannel(551091430152470528),
-                //ServeurTest
-                Global.Client.GetGuild(360639832017338368).GetTextChannel(541493264180707338)
-            };
-
-            RepeatingTimer._loopingTimer = new Timer()
-            {
-                Interval = 15000,
-                AutoReset = true,
-                Enabled = true
-            };
-            RepeatingTimer._loopingTimer.Elapsed += RepeatingTimer.OnTimerTicked;
-            Logs.WriteLine("StartTimer");
-            return Task.CompletedTask;
-        }
+        //    RepeatingTimer._loopingTimer = new Timer()
+        //    {
+        //         Interval = 15000,
+        //         AutoReset = true,
+        //         Enabled=true
+        //    };
+        //RepeatingTimer._loopingTimer.Elapsed += RepeatingTimer.OnTimerTicked;
+        //    Logs.WriteLine("StartTimer");
+        //    return Task.CompletedTask;
+        //}
 
         private static void OnTimerTicked(object sender, ElapsedEventArgs e)
-            => RepeatingTimer.OnTimerTickedAsync(sender, e).GetAwaiter().GetResult();
+            => RepeatingTimer.OnTimerTickedAsync().GetAwaiter().GetResult();
 
-        private static async Task OnTimerTickedAsync(object sender, ElapsedEventArgs e)
+        private static bool _salaireVerse = false;
+        private const DayOfWeek jourSalaire = DayOfWeek.Sunday;
+        private static int _heureSalaire = 18;
+        private static int _minuteSalaire = 00;
+
+        private static int _ticksPasses = 120;
+
+        private static async Task OnTimerTickedAsync()
         {
             Logs.WriteLine("Timer ticked");
 
             // Todo: Versement automatique des salaires tous les lundi à minuit (Dimanche 18h au Canada)
-            // =============================================
-            // = Actualise la liste dans le channel banque =
-            // =============================================
-            List<BankAccount> updatedBankAccounts = RepeatingTimer._methodes.ChargerDonneesPersosAsync(RepeatingTimer._cheminComptesEnBanque).GetAwaiter().GetResult();
-            if (!updatedBankAccounts.Equals(RepeatingTimer._initialBankAccounts))
+            // =========================================
+            // = Verse les salaires à la date indiquée =
+            // =========================================
+            if (DateTime.Now.DayOfWeek == RepeatingTimer.jourSalaire && DateTime.Now.Hour == RepeatingTimer._heureSalaire && DateTime.Now.Minute == RepeatingTimer._minuteSalaire && !RepeatingTimer._salaireVerse && RepeatingTimer._ticksPasses >= 3)
             {
-                RepeatingTimer._ticksPasses++;
-                Logs.WriteLine(RepeatingTimer._ticksPasses.ToString());
-                if (RepeatingTimer._ticksPasses >= 120)
-                {
-                    try
-                    {
-                        RepeatingTimer._methodes.EnregistrerDonneesPersos(RepeatingTimer._cheminComptesEnBanque, updatedBankAccounts);
-                        RepeatingTimer._initialBankAccounts = updatedBankAccounts;
-                        Logs.WriteLine("Comptes en banque mis à jour");
-                        await Program.UpdateBank(RepeatingTimer._banques);
-                    }
-                    catch (Exception exception)
-                    {
-                        Logs.WriteLine(exception.ToString());
-                        throw;
-                    }
+                Logs.WriteLine("Versement des salaires");
+                await Global.VerserSalairesAsync();
 
-                    RepeatingTimer._ticksPasses = 0;
-                }
+                RepeatingTimer._ticksPasses = 120;
+                RepeatingTimer._salaireVerse = true;
+                Logs.WriteLine("Salaires versés");
             }
-        }
+            else if (DateTime.Now.Minute != RepeatingTimer._minuteSalaire && RepeatingTimer._salaireVerse)
+                RepeatingTimer._salaireVerse = false;
 
-        #endregion
+            if (Global.Client.LoginState != Discord.LoginState.LoggedIn)
+                Program.Main();
+        }
     }
 }

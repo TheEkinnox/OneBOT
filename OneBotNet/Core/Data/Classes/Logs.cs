@@ -21,14 +21,14 @@ namespace OneBotNet.Core.Data.Classes
     {
         #region CONSTANTES ET ATTRIBUTS STATIQUES
 
-        private static string _nomFichier = Assembly.GetEntryAssembly().Location.Replace(@"bin\Debug\netcoreapp2.1\AlterBotNet.dll", @"Data\Logs\");
-        private static string _date = $"{DateTime.Now.Day}{DateTime.Now.Month}{DateTime.Now.Year}.altr";
+        private static string _nomFichier = Assembly.GetEntryAssembly().Location.Replace(@"bin\Debug\netcoreapp2.1\OneBotNet.dll", @"Data\Logs\");
+        private static string _date = $"{DateTime.Now.Day}{DateTime.Now.Month}{DateTime.Now.Year}.olog";
 
         #endregion
 
         #region MÉTHODES
 
-        public static void WriteLine(string args)
+        public static void WriteLine(object args)
         {
             StreamWriter fluxEcriture = new StreamWriter(Logs._nomFichier + Logs._date, true);
             fluxEcriture.Close();
@@ -44,7 +44,7 @@ namespace OneBotNet.Core.Data.Classes
             Console.WriteLine($"{DateTime.Now} {args}");
         }
 
-        public static void Write(string args)
+        public static void Write(object args)
         {
             StreamWriter fluxEcriture = new StreamWriter(Logs._nomFichier + Logs._date, true);
             fluxEcriture.Close();
