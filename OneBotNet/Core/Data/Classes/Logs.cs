@@ -21,8 +21,8 @@ namespace OneBotNet.Core.Data.Classes
     {
         #region CONSTANTES ET ATTRIBUTS STATIQUES
 
-        private static string _nomFichier = Assembly.GetEntryAssembly().Location.Replace(@"bin\Debug\netcoreapp2.1\OneBotNet.dll", @"Data\Logs\");
-        private static string _date = $"{DateTime.Now.Day}{DateTime.Now.Month}{DateTime.Now.Year}.olog";
+        private readonly static string nomFichier = Assembly.GetEntryAssembly().Location.Replace(@"bin\Debug\netcoreapp2.1\OneBotNet.dll", @"Data\Logs\");
+        private readonly static string date = $"{DateTime.Now.Day}{DateTime.Now.Month}{DateTime.Now.Year}.olog";
 
         #endregion
 
@@ -30,13 +30,13 @@ namespace OneBotNet.Core.Data.Classes
 
         public static void WriteLine(object args)
         {
-            StreamWriter fluxEcriture = new StreamWriter(Logs._nomFichier + Logs._date, true);
+            StreamWriter fluxEcriture = new StreamWriter(Logs.nomFichier + Logs.date, true);
             fluxEcriture.Close();
-            StreamReader fluxLecture = new StreamReader(Logs._nomFichier + Logs._date);
+            StreamReader fluxLecture = new StreamReader(Logs.nomFichier + Logs.date);
             string fichierTexte = fluxLecture.ReadToEnd();
             fluxLecture.Close();
 
-            fluxEcriture = new StreamWriter(Logs._nomFichier + Logs._date, false);
+            fluxEcriture = new StreamWriter(Logs.nomFichier + Logs.date, false);
             fichierTexte = fichierTexte.EndsWith('\n') ? fichierTexte.Remove(fichierTexte.Length - 1) : fichierTexte;
             fichierTexte += $"\n{DateTime.Now} {args}";
             fluxEcriture.WriteLine($"{fichierTexte}");
@@ -46,12 +46,12 @@ namespace OneBotNet.Core.Data.Classes
 
         public static void Write(object args)
         {
-            StreamWriter fluxEcriture = new StreamWriter(Logs._nomFichier + Logs._date, true);
+            StreamWriter fluxEcriture = new StreamWriter(Logs.nomFichier + Logs.date, true);
             fluxEcriture.Close();
-            StreamReader fluxLecture = new StreamReader(Logs._nomFichier + Logs._date);
+            StreamReader fluxLecture = new StreamReader(Logs.nomFichier + Logs.date);
             string fichierTexte = fluxLecture.ReadToEnd().Replace("\r", "");
             fluxLecture.Close();
-            fluxEcriture = new StreamWriter(Logs._nomFichier + Logs._date, false);
+            fluxEcriture = new StreamWriter(Logs.nomFichier + Logs.date, false);
             fichierTexte = fichierTexte.EndsWith('\n') ? fichierTexte.Remove(fichierTexte.Length - 1) : fichierTexte;
             fichierTexte += $"\n{DateTime.Now} {args}";
             fluxEcriture.Write($"{fichierTexte}");

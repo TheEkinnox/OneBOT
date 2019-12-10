@@ -64,7 +64,7 @@ namespace OneBotNet
             {
                 CaseSensitiveCommands = false,
                 DefaultRunMode = RunMode.Async,
-                LogLevel = LogSeverity.Debug
+                LogLevel = LogSeverity.Info
             });
 
             this._client.MessageReceived += Client_MessageReceived;
@@ -85,36 +85,6 @@ namespace OneBotNet
             await this._client.StartAsync();
             Global.Client = this._client;
             await Task.Delay(-1);
-        }
-
-        /// <summary>
-        /// Mise à jour des channels banque
-        /// </summary>
-        public static async Task UpdateBank(SocketTextChannel[] banques)
-        {
-            try
-            {
-                foreach (SocketTextChannel banque in banques)
-                {
-                    foreach (IMessage message in await banque.GetMessagesAsync().FlattenAsync())
-                        await message.DeleteAsync();
-
-                    Global.ChargerDonneesBank();
-                    foreach (string msg in Global.BankAccountsList())
-                    {
-                        if (!string.IsNullOrEmpty(msg))
-                        {
-                            await banque.SendMessageAsync(msg);
-                            Logs.WriteLine(msg);
-                        }
-                    }
-                }
-            }
-            catch (Exception e)
-            {
-                Logs.WriteLine(e.ToString());
-                throw;
-            }
         }
 
         /// <summary>
@@ -145,18 +115,32 @@ namespace OneBotNet
         private async Task Client_Ready()
         {
             await this._client.SetGameAsync($"{Config.PrefixPrim} {Config.PrefixSec}");
-            //await RepeatingTimer.StartTimer();
-            Global.ChannelsBanques = new[]
+            await RepeatingTimer.StartTimer();
+            Global.ChannelsBanques = new List<SocketTextChannel>
             {
-                //Alternia
-                Global.Client.GetGuild(399539166364303380).GetTextChannel(411969883673329665),
+                //OPNO
+                Global.Client.GetGuild(549301561478873105).GetTextChannel(551091430152470528),
                 //ServeurTest
-                Global.Client.GetGuild(360639832017338368).GetTextChannel(541493264180707338)
+                Global.Client.GetGuild(360639832017338368).GetTextChannel(551490991127920653)
             };
-            Global.StuffLists = new[]
+            Global.ChannelsPrime = new List<SocketTextChannel>
             {
-                //Alternia
-                Global.Client.GetGuild(399539166364303380).GetTextChannel(553713542721962004),
+                //OPNO
+                Global.Client.GetGuild(549301561478873105).GetTextChannel(550370804878278666),
+                //ServeurTest
+                Global.Client.GetGuild(360639832017338368).GetTextChannel(552220317011935260)
+            };
+            Global.ChannelsReput = new List<SocketTextChannel>
+            {
+                //OPNO
+                Global.Client.GetGuild(549301561478873105).GetTextChannel(619146742453108739),
+                //ServeurTest
+                Global.Client.GetGuild(360639832017338368).GetTextChannel(623706699332845579)
+            };
+            Global.StuffLists = new List<SocketTextChannel>
+            {
+                //OPNO
+                Global.Client.GetGuild(549301561478873105).GetTextChannel(553713542721962004),
                 //ServeurTest
                 Global.Client.GetGuild(360639832017338368).GetTextChannel(557201110566174743)
             };
@@ -180,7 +164,7 @@ namespace OneBotNet
                 Logs.WriteLine($"at Commands] Une erreur s'est produite en exécutant une commande. Texte: {context.Message.Content} | Erreur: {result.ErrorReason}");
             }
 
-            if (!result.IsSuccess && result.ErrorReason.Contains("Unknown command") && context.Message.Content != "^^" && context.Message.Content != "a!")
+            if (!result.IsSuccess && result.ErrorReason.Contains("Unknown command") && context.Message.Content != Config.PrefixPrim && context.Message.Content != Config.PrefixSec && context.Message.Content != Config.PrefixPrim + "exit" && context.Message.Content != Config.PrefixSec + "exit")
             {
                 await context.Channel.SendMessageAsync($"La commande **{context.Message.Content}** n'existe pas");
             }

@@ -2,7 +2,8 @@
 <config>
   <version>0.01.00</version>
   <prefixprim>o!</prefixprim>
-  <prefixsec>^^</prefixsec>
+  <prefixsec>&amp;</prefixsec>
   <motd>tjif</motd>
-  <welcomemessage>Bienvenue sur le RP discord One Piece: Nouvelle Odyssée! Si tu as besoins d'aide pour faire ta fiche, n'hésites pas à demander à un membre du staff!</welcomemessage>
+  <welcomemessage>Bienvenue sur le RP discord One Piece: Nouvelle Odyssée! Penses à lire les &lt;#549304866355544095&gt; pour pouvoir accéder aux autres salons.
+Si tu as besoins d'aide pour faire ta fiche, n'hésites pas à demander à un membre du staff!</welcomemessage>
 </config>

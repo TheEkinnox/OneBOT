@@ -1,20 +1,18 @@
 ﻿#region MÉTADONNÉES
 
 // Nom du fichier : RepeatingTimer.cs
-// Auteur : Loick OBIANG (1832960)
-// Date de création : 2019-02-27
-// Date de modification : 2019-03-01
+// Auteur :  (Loïck Obiang Ndong)
+// Date de création : 2019-09-08
+// Date de modification : 2019-09-17
 
 #endregion
 
 #region USING
 
 using System;
-using System.Collections.Generic;
-using System.Reflection;
 using System.Threading.Tasks;
 using System.Timers;
-using Discord.WebSocket;
+using Discord;
 
 #endregion
 
@@ -25,41 +23,47 @@ namespace OneBotNet.Core.Data.Classes
     /// </summary>
     public static class RepeatingTimer
     {
+        #region CONSTANTES ET ATTRIBUTS STATIQUES
+
         private static Timer _loopingTimer;
 
-        //internal static Task StartTimer()
-        //{
+        private static bool _salaireVerse;
+        private const DayOfWeek jourSalaire = DayOfWeek.Sunday;
+        private static readonly int heureSalaire = 18;
+        private static readonly int minuteSalaire = 00;
 
-        //    RepeatingTimer._loopingTimer = new Timer()
-        //    {
-        //         Interval = 15000,
-        //         AutoReset = true,
-        //         Enabled=true
-        //    };
-        //RepeatingTimer._loopingTimer.Elapsed += RepeatingTimer.OnTimerTicked;
-        //    Logs.WriteLine("StartTimer");
-        //    return Task.CompletedTask;
-        //}
+        private static int _ticksPasses = 120;
+
+        #endregion
+
+        #region MÉTHODES
+
+        internal static Task StartTimer()
+        {
+            RepeatingTimer._loopingTimer = new Timer()
+            {
+                Interval = 15000,
+                AutoReset = true,
+                Enabled = true
+            };
+            RepeatingTimer._loopingTimer.Elapsed += RepeatingTimer.OnTimerTicked;
+            Logs.WriteLine("StartTimer");
+            return Task.CompletedTask;
+        }
 
         private static void OnTimerTicked(object sender, ElapsedEventArgs e)
             => RepeatingTimer.OnTimerTickedAsync().GetAwaiter().GetResult();
 
-        private static bool _salaireVerse = false;
-        private const DayOfWeek jourSalaire = DayOfWeek.Sunday;
-        private static int _heureSalaire = 18;
-        private static int _minuteSalaire = 00;
-
-        private static int _ticksPasses = 120;
-
         private static async Task OnTimerTickedAsync()
         {
-            Logs.WriteLine("Timer ticked");
-
             // Todo: Versement automatique des salaires tous les lundi à minuit (Dimanche 18h au Canada)
             // =========================================
             // = Verse les salaires à la date indiquée =
             // =========================================
-            if (DateTime.Now.DayOfWeek == RepeatingTimer.jourSalaire && DateTime.Now.Hour == RepeatingTimer._heureSalaire && DateTime.Now.Minute == RepeatingTimer._minuteSalaire && !RepeatingTimer._salaireVerse && RepeatingTimer._ticksPasses >= 3)
+            if (DateTime.UtcNow.DayOfWeek == RepeatingTimer.jourSalaire &&
+                DateTime.UtcNow.Hour == RepeatingTimer.heureSalaire &&
+                DateTime.UtcNow.Minute == RepeatingTimer.minuteSalaire && !RepeatingTimer._salaireVerse &&
+                RepeatingTimer._ticksPasses >= 3)
             {
                 Logs.WriteLine("Versement des salaires");
                 await Global.VerserSalairesAsync();
@@ -68,11 +72,13 @@ namespace OneBotNet.Core.Data.Classes
                 RepeatingTimer._salaireVerse = true;
                 Logs.WriteLine("Salaires versés");
             }
-            else if (DateTime.Now.Minute != RepeatingTimer._minuteSalaire && RepeatingTimer._salaireVerse)
+            else if (DateTime.Now.Minute != RepeatingTimer.minuteSalaire && RepeatingTimer._salaireVerse)
                 RepeatingTimer._salaireVerse = false;
 
-            if (Global.Client.LoginState != Discord.LoginState.LoggedIn)
+            if (Global.Client.LoginState != LoginState.LoggedIn)
                 Program.Main();
         }
+
+        #endregion
     }
 }

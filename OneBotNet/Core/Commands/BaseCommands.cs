@@ -3,7 +3,7 @@
 // Nom du fichier : BaseCommands.cs
 // Auteur :  (Loïck Obiang Ndong)
 // Date de création : 2019-09-08
-// Date de modification : 2019-09-11
+// Date de modification : 2019-09-22
 
 #endregion
 
@@ -16,6 +16,7 @@ using System.Reflection;
 using System.Threading.Tasks;
 using Discord;
 using Discord.Commands;
+using Discord.WebSocket;
 using OneBotNet.Core.Data.Classes;
 
 #endregion
@@ -26,8 +27,7 @@ namespace OneBotNet.Core.Commands
     {
         #region ATTRIBUTS
 
-        private Random _rand = new Random();
-
+        private readonly Random _rand = new Random();
         #endregion
 
         #region MÉTHODES
@@ -39,7 +39,7 @@ namespace OneBotNet.Core.Commands
         }
 
         [Command("testembed"), Alias("embed", "te", "emb")]
-        public async Task SendEmbed([Remainder] string input = "None")
+        public async Task SendEmbed()
         {
             EmbedBuilder embed = new EmbedBuilder();
             embed.WithAuthor("Test embed", this.Context.User.GetAvatarUrl());
@@ -125,37 +125,109 @@ namespace OneBotNet.Core.Commands
         }
 
         [Command("testwanted"), Alias("tw")]
-        public async Task SendTestWanted(string type = "Dead or alive")
+        public async Task SendTestWanted(string character = "test", string type = "Dead or alive")
         {
-            await Global.ChargerDonneesPersosAsync();
-            Character persoTest = await Global.GetCharacterByNameAsync("test");
-            if (persoTest == null)
+            try
             {
-                Global.Characters.Add(new Character
+                await Global.ChargerDonneesPersosAsync();
+                Character persoTest = await Global.GetCharacterByNameAsync(character);
+                if (persoTest == null && (character.Contains("test") || character.Contains("plop")))
                 {
-                    Nom = "D. Test",
-                    Prenom = "Plop",
-                    CompteEnBanque = new BankAccount
+                    Global.Characters.Add(new Character
                     {
-                        Montant = 5000,
-                        Salaire = 0
-                    },
-                    Age = 25,
-                    Camps = Side.Revolutionnaire,
-                    NomImagePerso = "plopdtest.png",
-                    Prime = 100000000,
-                    Race = "Cyborg",
-                    OwnerId = 260385529474842626
-                });
-                await Global.EnregistrerDonneesPersosAsync();
-                persoTest = Global.Characters[Global.Characters.Count - 1];
+                        Nom = "D. Test",
+                        Prenom = "Plop",
+                        CompteEnBanque = new BankAccount
+                        {
+                            Montant = 5000,
+                            Salaire = 0
+                        },
+                        Age = 25,
+                        Camps = Side.Revolutionnaire,
+                        NomImagePerso = "plopdtest.png",
+                        LienImage = "https://cdn.discordapp.com/attachments/549842832970612746/621728425799057420/plopdtest.png",
+                        Prime = 100000000,
+                        Race = "Cyborg",
+                        OwnerId = 260385529474842626,
+                        Dead = type.ToLower().Contains("dead"),
+                        Alive = type.ToLower().Contains("alive")
+                    });
+                    await Global.EnregistrerDonneesPersosAsync();
+                    persoTest = Global.Characters[Global.Characters.Count - 1];
+                }
+                else if (persoTest == null)
+                    throw new ArgumentNullException("Le personnage demandé est introuvable...");
+
+                await Global.GenererAvisDeRecherche(persoTest, persoTest.Dead, persoTest.Alive);
+                await this.Context.Channel.SendFileAsync(Global.CheminImagesWanted + persoTest.NomImagePerso);
             }
-            bool dead = type.ToLower().Contains("dead");
-            bool alive = type.ToLower().Contains("alive");
-            await Global.GenererAvisDeRecherche(persoTest, dead, alive);
-            await this.Context.Channel.SendFileAsync(Global.CheminImagesWanted + persoTest.Prenom + ".png");
+            catch (Exception e)
+            {
+                Logs.WriteLine("Erreur de la commande testwanted: " + e.Message);
+                await ReplyAsync(e.Message);
+            }
         }
 
+        [Command("ping")]
+        public async Task SendPing()
+        {
+            await ReplyAsync($"Latence: {Global.Context.Client.Latency}ms");
+        }
+        [Command("testdate")]
+        public async Task SendTestWanted()
+        {
+            ItemToSell toSell = new ItemToSell
+            {
+                Nom = "ObjTest",
+                Description = "DescTest",
+                DateAjout = DateTime.Parse("30/03/2002"),
+                NomVendeur = "VendeurTest",
+                PrixAchat = 5000,
+                PrixVente = 2500,
+                Quantite = 255,
+                TempsAffichage = new TimeSpan(8, 8, 8, 8)
+            };
+            string msg = $"Aujourd'hui: {DateTime.UtcNow.ToString()}\nFin d'affichage: {(toSell.DateAjout + toSell.TempsAffichage).ToString()}\nPlus tôt ajd?: {(DateTime.UtcNow < toSell.DateAjout + toSell.TempsAffichage).ToString()}";
+            Logs.WriteLine(msg);
+            await ReplyAsync(msg);
+        }
+
+        [Command("roll-race")]
+        public async Task RollRaceTask()
+        {
+            string race = Global.Random.Next(1,7) switch
+            {
+                1 => "Humain",
+                2 => "Homme poisson",
+                3 => "Géant",
+                4 => "Mink",
+                5 => "Nain",
+                6 => "Cyborg",
+                _ => throw new Exception()
+            };
+            await ReplyAsync($"Ton prochain perso sera un **{race}**!!");
+        }
+
+        [Command("roll-fruit")]
+        public async Task RollFruitTask(string strTier = "0")
+        {
+            if (!Global.HasRole(this.Context.User as SocketGuildUser, "Admin"))
+            {
+                await this.Context.Channel.SendMessageAsync($"La commande **{this.Context.Message.Content}** est réservée aux admins pour le moment.");
+                throw new UnauthorizedAccessException($"Seuls les admins peuvent roll fruit mais {this.Context.User.Username} à tenté.");
+            }
+
+            if (!int.TryParse(strTier, out int tier) || tier < 0)
+            {
+                await this.Context.Channel.SendMessageAsync($"Le rang du fruit doit être un nombre entier entre 0(random) et {Global.FruitTiers.Count}...");
+                throw new ArgumentException($"Le tier du fruit doit être un nombre entier entre 0(random) et {Global.FruitTiers.Count}.");
+            }
+            if (tier == 0)
+                tier = Global.Random.Next(1,Global.FruitTiers.Count+1);
+            
+            string fruit = Global.FruitTiers[tier-1][Global.Random.Next(0,Global.FruitTiers[tier-1].Count)];
+            await ReplyAsync($"Ton fruit sera le **{fruit}** !!");
+        }
         #endregion
     }
 }
