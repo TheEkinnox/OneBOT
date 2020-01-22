@@ -3,7 +3,7 @@
 // Nom du fichier : Roll.cs
 // Auteur : Loick OBIANG (1832960)
 // Date de création : 2019-04-20
-// Date de modification : 2019-06-04
+// Date de modification : 2020-01-22
 
 #endregion
 
@@ -13,11 +13,11 @@ using System;
 using System.Threading.Tasks;
 using Discord.Commands;
 using MathParserTK;
-using ShinoBotNet.Core.Data.Classes;
+using OneBotNet.Core.Data.Classes;
 
 #endregion
 
-namespace ShinoBotNet.Core.Commands
+namespace OneBotNet.Core.Commands
 {
     public class Roll : ModuleBase<SocketCommandContext>
     {
