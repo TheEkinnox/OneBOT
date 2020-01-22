@@ -174,7 +174,7 @@ namespace OneBotNet.Core.Commands
             await ReplyAsync($"Latence: {Global.Context.Client.Latency}ms");
         }
         [Command("testdate")]
-        public async Task SendTestWanted()
+        public async Task SendTestDate()
         {
             ItemToSell toSell = new ItemToSell
             {
@@ -187,7 +187,7 @@ namespace OneBotNet.Core.Commands
                 Quantite = 255,
                 TempsAffichage = new TimeSpan(8, 8, 8, 8)
             };
-            string msg = $"Aujourd'hui: {DateTime.UtcNow.ToString()}\nFin d'affichage: {(toSell.DateAjout + toSell.TempsAffichage).ToString()}\nPlus tôt ajd?: {(DateTime.UtcNow < toSell.DateAjout + toSell.TempsAffichage).ToString()}";
+            string msg = $"Aujourd'hui: {DateTime.UtcNow.ToString()}\nFin d'affichage: {(toSell.DateAjout + toSell.TempsAffichage).ToString()}\nPlus tôt ajd?: {(DateTime.UtcNow < toSell.DateAjout + toSell.TempsAffichage).ToString()}\nPlus tard ajd?: {(DateTime.UtcNow > toSell.DateAjout + toSell.TempsAffichage).ToString()}";
             Logs.WriteLine(msg);
             await ReplyAsync(msg);
         }

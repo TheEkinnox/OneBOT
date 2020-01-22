@@ -1,0 +1,2430 @@
+
+17/12/2019 18:38:21 at Discord Discord.Net v2.1.1 (API v6)
+17/12/2019 18:38:29 at Rest GET voice/regions: 7216,72 ms
+17/12/2019 18:38:33 at Rest GET users/@me: 71,53 ms
+17/12/2019 18:38:34 at Gateway Connecting
+17/12/2019 18:38:35 at Gateway Connecting ApiClient
+17/12/2019 18:38:35 at Rest GET gateway: 35,11 ms
+17/12/2019 18:38:37 at Gateway Received Hello
+17/12/2019 18:38:38 at Gateway Heartbeat Started
+17/12/2019 18:38:39 at Gateway Identifying
+17/12/2019 18:38:39 at Gateway Sent Heartbeat
+17/12/2019 18:38:39 at Gateway Received HeartbeatAck
+17/12/2019 18:38:40 at Gateway Sent Identify
+17/12/2019 18:38:40 at Gateway Latency = 1359 ms
+17/12/2019 18:38:40 at Gateway Received Dispatch (READY)
+17/12/2019 18:38:41 at Gateway GuildDownloader Started
+17/12/2019 18:38:41 at Gateway Sending Status
+17/12/2019 18:38:41 at Gateway Sent StatusUpdate
+17/12/2019 18:38:41 at Gateway Connected
+17/12/2019 18:38:42 at Gateway Raising Event
+17/12/2019 18:38:42 at Gateway Connected to ServeurTest
+17/12/2019 18:38:42 at Gateway Received Dispatch (GUILD_AVAILABLE)
+17/12/2019 18:38:42 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+17/12/2019 18:38:43 at Gateway GuildDownloader Stopped
+17/12/2019 18:38:43 at Gateway Sent StatusUpdate
+17/12/2019 18:38:43 StartTimer
+17/12/2019 18:38:43 at Gateway Ready
+17/12/2019 18:38:44 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:38:46 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:39:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:39:21 at Gateway Sent Heartbeat
+17/12/2019 18:39:21 at Gateway Received HeartbeatAck
+17/12/2019 18:39:21 at Gateway Latency = 187 ms
+17/12/2019 18:40:02 at Gateway Sent Heartbeat
+17/12/2019 18:40:02 at Gateway Received HeartbeatAck
+17/12/2019 18:40:02 at Gateway Latency = 46 ms
+17/12/2019 18:40:43 at Gateway Sent Heartbeat
+17/12/2019 18:40:43 at Gateway Received HeartbeatAck
+17/12/2019 18:40:43 at Gateway Latency = 31 ms
+17/12/2019 18:41:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:41:25 at Gateway Sent Heartbeat
+17/12/2019 18:42:06 at Gateway Received HeartbeatAck
+17/12/2019 18:42:06 at Gateway Latency = 172 ms
+17/12/2019 18:42:06 at Gateway Sent Heartbeat
+17/12/2019 18:42:48 at Gateway Sent Heartbeat
+17/12/2019 18:42:48 at Gateway Received HeartbeatAck
+17/12/2019 18:42:48 at Gateway Latency = 32 ms
+17/12/2019 18:43:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:43:29 at Gateway Sent Heartbeat
+17/12/2019 18:43:29 at Gateway Received HeartbeatAck
+17/12/2019 18:43:29 at Gateway Latency = 63 ms
+17/12/2019 18:44:10 at Gateway Sent Heartbeat
+17/12/2019 18:44:11 at Gateway Received HeartbeatAck
+17/12/2019 18:44:11 at Gateway Latency = 171 ms
+17/12/2019 18:44:52 at Gateway Sent Heartbeat
+17/12/2019 18:44:52 at Gateway Received HeartbeatAck
+17/12/2019 18:44:52 at Gateway Latency = 31 ms
+17/12/2019 18:45:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:45:33 at Gateway Sent Heartbeat
+17/12/2019 18:45:33 at Gateway Received HeartbeatAck
+17/12/2019 18:45:33 at Gateway Latency = 47 ms
+17/12/2019 18:46:14 at Gateway Sent Heartbeat
+17/12/2019 18:46:14 at Gateway Received HeartbeatAck
+17/12/2019 18:46:14 at Gateway Latency = 31 ms
+17/12/2019 18:46:55 at Gateway Sent Heartbeat
+17/12/2019 18:46:56 at Gateway Received HeartbeatAck
+17/12/2019 18:46:56 at Gateway Latency = 63 ms
+17/12/2019 18:47:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:47:37 at Gateway Sent Heartbeat
+17/12/2019 18:47:37 at Gateway Latency = 485 ms
+17/12/2019 18:48:19 at Gateway Sent Heartbeat
+17/12/2019 18:48:19 at Gateway Received HeartbeatAck
+17/12/2019 18:48:19 at Gateway Latency = 109 ms
+17/12/2019 18:49:00 at Gateway Sent Heartbeat
+17/12/2019 18:49:00 at Gateway Received HeartbeatAck
+17/12/2019 18:49:00 at Gateway Latency = 47 ms
+17/12/2019 18:49:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:49:41 at Gateway Sent Heartbeat
+17/12/2019 18:49:41 at Gateway Received HeartbeatAck
+17/12/2019 18:49:41 at Gateway Latency = 109 ms
+17/12/2019 18:50:00 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:50:22 at Gateway Sent Heartbeat
+17/12/2019 18:50:22 at Gateway Received HeartbeatAck
+17/12/2019 18:50:23 at Gateway Latency = 109 ms
+17/12/2019 18:51:04 at Gateway Sent Heartbeat
+17/12/2019 18:51:04 at Gateway Received HeartbeatAck
+17/12/2019 18:51:04 at Gateway Latency = 47 ms
+17/12/2019 18:51:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:51:28 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:51:45 at Gateway Sent Heartbeat
+17/12/2019 18:51:45 at Gateway Received HeartbeatAck
+17/12/2019 18:51:45 at Gateway Latency = 31 ms
+17/12/2019 18:52:26 at Gateway Sent Heartbeat
+17/12/2019 18:52:26 at Gateway Received HeartbeatAck
+17/12/2019 18:52:26 at Gateway Latency = 31 ms
+17/12/2019 18:52:26 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:53:07 at Gateway Sent Heartbeat
+17/12/2019 18:53:08 at Gateway Received HeartbeatAck
+17/12/2019 18:53:08 at Gateway Latency = 94 ms
+17/12/2019 18:53:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:53:49 at Gateway Sent Heartbeat
+17/12/2019 18:53:49 at Gateway Received HeartbeatAck
+17/12/2019 18:53:49 at Gateway Latency = 47 ms
+17/12/2019 18:54:30 at Gateway Sent Heartbeat
+17/12/2019 18:54:30 at Gateway Received HeartbeatAck
+17/12/2019 18:54:30 at Gateway Latency = 31 ms
+17/12/2019 18:55:11 at Gateway Sent Heartbeat
+17/12/2019 18:55:11 at Gateway Received HeartbeatAck
+17/12/2019 18:55:11 at Gateway Latency = 47 ms
+17/12/2019 18:55:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:55:25 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:55:53 at Gateway Sent Heartbeat
+17/12/2019 18:55:53 at Gateway Received HeartbeatAck
+17/12/2019 18:55:53 at Gateway Latency = 32 ms
+17/12/2019 18:56:34 at Gateway Sent Heartbeat
+17/12/2019 18:56:34 at Gateway Received HeartbeatAck
+17/12/2019 18:56:34 at Gateway Latency = 31 ms
+17/12/2019 18:57:15 at Gateway Sent Heartbeat
+17/12/2019 18:57:15 at Gateway Received HeartbeatAck
+17/12/2019 18:57:15 at Gateway Latency = 31 ms
+17/12/2019 18:57:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:57:56 at Gateway Sent Heartbeat
+17/12/2019 18:57:56 at Gateway Received HeartbeatAck
+17/12/2019 18:57:56 at Gateway Latency = 47 ms
+17/12/2019 18:58:38 at Gateway Sent Heartbeat
+17/12/2019 18:58:38 at Gateway Received HeartbeatAck
+17/12/2019 18:58:38 at Gateway Latency = 47 ms
+17/12/2019 18:59:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 18:59:19 at Gateway Sent Heartbeat
+17/12/2019 18:59:19 at Gateway Received HeartbeatAck
+17/12/2019 18:59:19 at Gateway Latency = 32 ms
+17/12/2019 19:00:00 at Gateway Sent Heartbeat
+17/12/2019 19:00:00 at Gateway Received HeartbeatAck
+17/12/2019 19:00:00 at Gateway Latency = 31 ms
+17/12/2019 19:00:05 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:00:41 at Gateway Sent Heartbeat
+17/12/2019 19:00:41 at Gateway Received HeartbeatAck
+17/12/2019 19:00:41 at Gateway Latency = 47 ms
+17/12/2019 19:01:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:01:23 at Gateway Sent Heartbeat
+17/12/2019 19:01:23 at Gateway Received HeartbeatAck
+17/12/2019 19:01:23 at Gateway Latency = 32 ms
+17/12/2019 19:02:04 at Gateway Sent Heartbeat
+17/12/2019 19:02:04 at Gateway Received HeartbeatAck
+17/12/2019 19:02:04 at Gateway Latency = 31 ms
+17/12/2019 19:02:45 at Gateway Sent Heartbeat
+17/12/2019 19:02:45 at Gateway Received HeartbeatAck
+17/12/2019 19:02:45 at Gateway Latency = 62 ms
+17/12/2019 19:03:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:03:26 at Gateway Sent Heartbeat
+17/12/2019 19:03:27 at Gateway Received HeartbeatAck
+17/12/2019 19:03:27 at Gateway Latency = 31 ms
+17/12/2019 19:04:08 at Gateway Sent Heartbeat
+17/12/2019 19:04:08 at Gateway Received HeartbeatAck
+17/12/2019 19:04:08 at Gateway Latency = 31 ms
+17/12/2019 19:04:49 at Gateway Sent Heartbeat
+17/12/2019 19:04:49 at Gateway Received HeartbeatAck
+17/12/2019 19:04:49 at Gateway Latency = 32 ms
+17/12/2019 19:05:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:05:30 at Gateway Sent Heartbeat
+17/12/2019 19:05:30 at Gateway Received HeartbeatAck
+17/12/2019 19:05:30 at Gateway Latency = 31 ms
+17/12/2019 19:06:12 at Gateway Sent Heartbeat
+17/12/2019 19:06:12 at Gateway Received HeartbeatAck
+17/12/2019 19:06:12 at Gateway Latency = 31 ms
+17/12/2019 19:06:53 at Gateway Sent Heartbeat
+17/12/2019 19:06:53 at Gateway Received HeartbeatAck
+17/12/2019 19:06:53 at Gateway Latency = 31 ms
+17/12/2019 19:07:10 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:07:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:07:25 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:07:34 at Gateway Sent Heartbeat
+17/12/2019 19:07:34 at Gateway Received HeartbeatAck
+17/12/2019 19:07:34 at Gateway Latency = 47 ms
+17/12/2019 19:08:15 at Gateway Sent Heartbeat
+17/12/2019 19:08:15 at Gateway Received HeartbeatAck
+17/12/2019 19:08:15 at Gateway Latency = 47 ms
+17/12/2019 19:08:57 at Gateway Sent Heartbeat
+17/12/2019 19:08:57 at Gateway Received HeartbeatAck
+17/12/2019 19:08:57 at Gateway Latency = 31 ms
+17/12/2019 19:09:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:09:38 at Gateway Sent Heartbeat
+17/12/2019 19:09:38 at Gateway Received HeartbeatAck
+17/12/2019 19:09:38 at Gateway Latency = 31 ms
+17/12/2019 19:10:19 at Gateway Sent Heartbeat
+17/12/2019 19:10:19 at Gateway Received HeartbeatAck
+17/12/2019 19:10:19 at Gateway Latency = 31 ms
+17/12/2019 19:10:46 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:10:49 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:11:00 at Gateway Sent Heartbeat
+17/12/2019 19:11:00 at Gateway Received HeartbeatAck
+17/12/2019 19:11:00 at Gateway Latency = 31 ms
+17/12/2019 19:11:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:11:42 at Gateway Sent Heartbeat
+17/12/2019 19:11:42 at Gateway Received HeartbeatAck
+17/12/2019 19:11:42 at Gateway Latency = 32 ms
+17/12/2019 19:12:23 at Gateway Sent Heartbeat
+17/12/2019 19:12:23 at Gateway Received HeartbeatAck
+17/12/2019 19:12:23 at Gateway Latency = 31 ms
+17/12/2019 19:12:55 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:13:04 at Gateway Sent Heartbeat
+17/12/2019 19:13:04 at Gateway Received HeartbeatAck
+17/12/2019 19:13:04 at Gateway Latency = 31 ms
+17/12/2019 19:13:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:13:45 at Gateway Sent Heartbeat
+17/12/2019 19:13:45 at Gateway Received HeartbeatAck
+17/12/2019 19:13:45 at Gateway Latency = 32 ms
+17/12/2019 19:14:27 at Gateway Sent Heartbeat
+17/12/2019 19:14:27 at Gateway Received HeartbeatAck
+17/12/2019 19:14:27 at Gateway Latency = 31 ms
+17/12/2019 19:14:55 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:15:08 at Gateway Sent Heartbeat
+17/12/2019 19:15:08 at Gateway Received HeartbeatAck
+17/12/2019 19:15:08 at Gateway Latency = 31 ms
+17/12/2019 19:15:10 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:15:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:15:49 at Gateway Sent Heartbeat
+17/12/2019 19:15:49 at Gateway Received HeartbeatAck
+17/12/2019 19:15:49 at Gateway Latency = 31 ms
+17/12/2019 19:16:30 at Gateway Sent Heartbeat
+17/12/2019 19:16:31 at Gateway Received HeartbeatAck
+17/12/2019 19:16:31 at Gateway Latency = 31 ms
+17/12/2019 19:17:12 at Gateway Sent Heartbeat
+17/12/2019 19:17:12 at Gateway Received HeartbeatAck
+17/12/2019 19:17:12 at Gateway Latency = 31 ms
+17/12/2019 19:17:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:17:53 at Gateway Sent Heartbeat
+17/12/2019 19:17:53 at Gateway Received HeartbeatAck
+17/12/2019 19:17:53 at Gateway Latency = 31 ms
+17/12/2019 19:18:29 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:18:34 at Gateway Sent Heartbeat
+17/12/2019 19:18:34 at Gateway Received HeartbeatAck
+17/12/2019 19:18:34 at Gateway Latency = 32 ms
+17/12/2019 19:19:16 at Gateway Sent Heartbeat
+17/12/2019 19:19:16 at Gateway Received HeartbeatAck
+17/12/2019 19:19:16 at Gateway Latency = 31 ms
+17/12/2019 19:19:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:19:57 at Gateway Sent Heartbeat
+17/12/2019 19:19:57 at Gateway Received HeartbeatAck
+17/12/2019 19:19:57 at Gateway Latency = 47 ms
+17/12/2019 19:20:38 at Gateway Sent Heartbeat
+17/12/2019 19:20:38 at Gateway Received HeartbeatAck
+17/12/2019 19:20:38 at Gateway Latency = 32 ms
+17/12/2019 19:21:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:21:19 at Gateway Sent Heartbeat
+17/12/2019 19:21:19 at Gateway Received HeartbeatAck
+17/12/2019 19:21:19 at Gateway Latency = 31 ms
+17/12/2019 19:22:01 at Gateway Sent Heartbeat
+17/12/2019 19:22:01 at Gateway Received HeartbeatAck
+17/12/2019 19:22:01 at Gateway Latency = 328 ms
+17/12/2019 19:22:42 at Gateway Sent Heartbeat
+17/12/2019 19:22:42 at Gateway Received HeartbeatAck
+17/12/2019 19:22:42 at Gateway Latency = 31 ms
+17/12/2019 19:23:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:23:23 at Gateway Sent Heartbeat
+17/12/2019 19:23:23 at Gateway Received HeartbeatAck
+17/12/2019 19:23:23 at Gateway Latency = 31 ms
+17/12/2019 19:24:05 at Gateway Sent Heartbeat
+17/12/2019 19:24:05 at Gateway Received HeartbeatAck
+17/12/2019 19:24:05 at Gateway Latency = 32 ms
+17/12/2019 19:24:46 at Gateway Sent Heartbeat
+17/12/2019 19:24:46 at Gateway Received HeartbeatAck
+17/12/2019 19:24:46 at Gateway Latency = 31 ms
+17/12/2019 19:25:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:25:27 at Gateway Sent Heartbeat
+17/12/2019 19:25:27 at Gateway Received HeartbeatAck
+17/12/2019 19:25:27 at Gateway Latency = 31 ms
+17/12/2019 19:26:08 at Gateway Sent Heartbeat
+17/12/2019 19:26:09 at Gateway Received HeartbeatAck
+17/12/2019 19:26:09 at Gateway Latency = 31 ms
+17/12/2019 19:26:50 at Gateway Sent Heartbeat
+17/12/2019 19:26:50 at Gateway Received HeartbeatAck
+17/12/2019 19:26:50 at Gateway Latency = 31 ms
+17/12/2019 19:27:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:27:31 at Gateway Sent Heartbeat
+17/12/2019 19:27:31 at Gateway Received HeartbeatAck
+17/12/2019 19:27:31 at Gateway Latency = 32 ms
+17/12/2019 19:28:12 at Gateway Sent Heartbeat
+17/12/2019 19:28:12 at Gateway Received HeartbeatAck
+17/12/2019 19:28:12 at Gateway Latency = 31 ms
+17/12/2019 19:28:54 at Gateway Sent Heartbeat
+17/12/2019 19:28:54 at Gateway Received HeartbeatAck
+17/12/2019 19:28:54 at Gateway Latency = 31 ms
+17/12/2019 19:29:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:29:35 at Gateway Sent Heartbeat
+17/12/2019 19:29:35 at Gateway Received HeartbeatAck
+17/12/2019 19:29:35 at Gateway Latency = 32 ms
+17/12/2019 19:30:16 at Gateway Sent Heartbeat
+17/12/2019 19:30:16 at Gateway Received HeartbeatAck
+17/12/2019 19:30:16 at Gateway Latency = 31 ms
+17/12/2019 19:30:57 at Gateway Sent Heartbeat
+17/12/2019 19:30:57 at Gateway Received HeartbeatAck
+17/12/2019 19:30:57 at Gateway Latency = 31 ms
+17/12/2019 19:31:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:31:32 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:31:39 at Gateway Sent Heartbeat
+17/12/2019 19:31:39 at Gateway Received HeartbeatAck
+17/12/2019 19:31:39 at Gateway Latency = 31 ms
+17/12/2019 19:32:20 at Gateway Sent Heartbeat
+17/12/2019 19:32:20 at Gateway Received HeartbeatAck
+17/12/2019 19:32:20 at Gateway Latency = 31 ms
+17/12/2019 19:33:01 at Gateway Sent Heartbeat
+17/12/2019 19:33:01 at Gateway Received HeartbeatAck
+17/12/2019 19:33:01 at Gateway Latency = 32 ms
+17/12/2019 19:33:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:33:42 at Gateway Sent Heartbeat
+17/12/2019 19:33:42 at Gateway Received HeartbeatAck
+17/12/2019 19:33:42 at Gateway Latency = 78 ms
+17/12/2019 19:34:24 at Gateway Sent Heartbeat
+17/12/2019 19:34:24 at Gateway Received HeartbeatAck
+17/12/2019 19:34:24 at Gateway Latency = 31 ms
+17/12/2019 19:35:05 at Gateway Sent Heartbeat
+17/12/2019 19:35:05 at Gateway Received HeartbeatAck
+17/12/2019 19:35:05 at Gateway Latency = 32 ms
+17/12/2019 19:35:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:35:46 at Gateway Sent Heartbeat
+17/12/2019 19:35:46 at Gateway Received HeartbeatAck
+17/12/2019 19:35:46 at Gateway Latency = 32 ms
+17/12/2019 19:36:27 at Gateway Sent Heartbeat
+17/12/2019 19:36:27 at Gateway Received HeartbeatAck
+17/12/2019 19:36:28 at Gateway Latency = 47 ms
+17/12/2019 19:37:09 at Gateway Sent Heartbeat
+17/12/2019 19:37:09 at Gateway Received HeartbeatAck
+17/12/2019 19:37:09 at Gateway Latency = 31 ms
+17/12/2019 19:37:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:37:50 at Gateway Sent Heartbeat
+17/12/2019 19:37:50 at Gateway Received HeartbeatAck
+17/12/2019 19:37:50 at Gateway Latency = 31 ms
+17/12/2019 19:37:58 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:38:31 at Gateway Sent Heartbeat
+17/12/2019 19:38:31 at Gateway Received HeartbeatAck
+17/12/2019 19:38:31 at Gateway Latency = 31 ms
+17/12/2019 19:39:13 at Gateway Sent Heartbeat
+17/12/2019 19:39:13 at Gateway Received HeartbeatAck
+17/12/2019 19:39:13 at Gateway Latency = 32 ms
+17/12/2019 19:39:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:39:54 at Gateway Sent Heartbeat
+17/12/2019 19:39:54 at Gateway Received HeartbeatAck
+17/12/2019 19:39:54 at Gateway Latency = 31 ms
+17/12/2019 19:40:35 at Gateway Sent Heartbeat
+17/12/2019 19:40:35 at Gateway Received HeartbeatAck
+17/12/2019 19:40:35 at Gateway Latency = 31 ms
+17/12/2019 19:41:16 at Gateway Sent Heartbeat
+17/12/2019 19:41:16 at Gateway Received HeartbeatAck
+17/12/2019 19:41:16 at Gateway Latency = 32 ms
+17/12/2019 19:41:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:41:58 at Gateway Sent Heartbeat
+17/12/2019 19:41:58 at Gateway Received HeartbeatAck
+17/12/2019 19:41:58 at Gateway Latency = 31 ms
+17/12/2019 19:42:39 at Gateway Sent Heartbeat
+17/12/2019 19:42:39 at Gateway Received HeartbeatAck
+17/12/2019 19:42:39 at Gateway Latency = 31 ms
+17/12/2019 19:43:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:43:20 at Gateway Sent Heartbeat
+17/12/2019 19:43:20 at Gateway Received HeartbeatAck
+17/12/2019 19:43:20 at Gateway Latency = 31 ms
+17/12/2019 19:44:01 at Gateway Sent Heartbeat
+17/12/2019 19:44:01 at Gateway Received HeartbeatAck
+17/12/2019 19:44:01 at Gateway Latency = 31 ms
+17/12/2019 19:44:43 at Gateway Sent Heartbeat
+17/12/2019 19:44:43 at Gateway Received HeartbeatAck
+17/12/2019 19:44:43 at Gateway Latency = 47 ms
+17/12/2019 19:45:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:45:24 at Gateway Sent Heartbeat
+17/12/2019 19:45:24 at Gateway Received HeartbeatAck
+17/12/2019 19:45:24 at Gateway Latency = 47 ms
+17/12/2019 19:46:05 at Gateway Sent Heartbeat
+17/12/2019 19:46:05 at Gateway Received HeartbeatAck
+17/12/2019 19:46:05 at Gateway Latency = 31 ms
+17/12/2019 19:46:46 at Gateway Sent Heartbeat
+17/12/2019 19:46:46 at Gateway Received HeartbeatAck
+17/12/2019 19:46:46 at Gateway Latency = 31 ms
+17/12/2019 19:47:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:47:28 at Gateway Sent Heartbeat
+17/12/2019 19:47:28 at Gateway Received HeartbeatAck
+17/12/2019 19:47:28 at Gateway Latency = 32 ms
+17/12/2019 19:48:09 at Gateway Sent Heartbeat
+17/12/2019 19:48:09 at Gateway Received HeartbeatAck
+17/12/2019 19:48:09 at Gateway Latency = 31 ms
+17/12/2019 19:48:50 at Gateway Sent Heartbeat
+17/12/2019 19:48:50 at Gateway Received HeartbeatAck
+17/12/2019 19:48:50 at Gateway Latency = 47 ms
+17/12/2019 19:49:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:49:31 at Gateway Sent Heartbeat
+17/12/2019 19:49:32 at Gateway Received HeartbeatAck
+17/12/2019 19:49:32 at Gateway Latency = 46 ms
+17/12/2019 19:50:13 at Gateway Sent Heartbeat
+17/12/2019 19:50:13 at Gateway Received HeartbeatAck
+17/12/2019 19:50:13 at Gateway Latency = 31 ms
+17/12/2019 19:50:54 at Gateway Sent Heartbeat
+17/12/2019 19:50:54 at Gateway Received HeartbeatAck
+17/12/2019 19:50:54 at Gateway Latency = 32 ms
+17/12/2019 19:51:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:51:35 at Gateway Sent Heartbeat
+17/12/2019 19:51:36 at Gateway Received HeartbeatAck
+17/12/2019 19:51:36 at Gateway Latency = 469 ms
+17/12/2019 19:52:17 at Gateway Sent Heartbeat
+17/12/2019 19:52:17 at Gateway Received HeartbeatAck
+17/12/2019 19:52:17 at Gateway Latency = 47 ms
+17/12/2019 19:52:58 at Gateway Sent Heartbeat
+17/12/2019 19:52:58 at Gateway Received HeartbeatAck
+17/12/2019 19:52:58 at Gateway Latency = 31 ms
+17/12/2019 19:53:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:53:39 at Gateway Sent Heartbeat
+17/12/2019 19:53:39 at Gateway Received HeartbeatAck
+17/12/2019 19:53:39 at Gateway Latency = 63 ms
+17/12/2019 19:54:20 at Gateway Sent Heartbeat
+17/12/2019 19:54:20 at Gateway Received HeartbeatAck
+17/12/2019 19:54:20 at Gateway Latency = 31 ms
+17/12/2019 19:55:02 at Gateway Sent Heartbeat
+17/12/2019 19:55:02 at Gateway Received HeartbeatAck
+17/12/2019 19:55:02 at Gateway Latency = 46 ms
+17/12/2019 19:55:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:55:43 at Gateway Sent Heartbeat
+17/12/2019 19:55:43 at Gateway Received HeartbeatAck
+17/12/2019 19:55:43 at Gateway Latency = 47 ms
+17/12/2019 19:56:24 at Gateway Sent Heartbeat
+17/12/2019 19:56:24 at Gateway Received HeartbeatAck
+17/12/2019 19:56:24 at Gateway Latency = 31 ms
+17/12/2019 19:57:05 at Gateway Sent Heartbeat
+17/12/2019 19:57:05 at Gateway Received HeartbeatAck
+17/12/2019 19:57:05 at Gateway Latency = 47 ms
+17/12/2019 19:57:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:57:47 at Gateway Sent Heartbeat
+17/12/2019 19:57:47 at Gateway Received HeartbeatAck
+17/12/2019 19:57:47 at Gateway Latency = 31 ms
+17/12/2019 19:58:28 at Gateway Sent Heartbeat
+17/12/2019 19:58:28 at Gateway Received HeartbeatAck
+17/12/2019 19:58:28 at Gateway Latency = 31 ms
+17/12/2019 19:59:09 at Gateway Sent Heartbeat
+17/12/2019 19:59:09 at Gateway Received HeartbeatAck
+17/12/2019 19:59:09 at Gateway Latency = 32 ms
+17/12/2019 19:59:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 19:59:50 at Gateway Sent Heartbeat
+17/12/2019 19:59:50 at Gateway Received HeartbeatAck
+17/12/2019 19:59:51 at Gateway Latency = 31 ms
+17/12/2019 20:00:32 at Gateway Sent Heartbeat
+17/12/2019 20:00:32 at Gateway Received HeartbeatAck
+17/12/2019 20:00:32 at Gateway Latency = 62 ms
+17/12/2019 20:01:13 at Gateway Sent Heartbeat
+17/12/2019 20:01:13 at Gateway Received HeartbeatAck
+17/12/2019 20:01:13 at Gateway Latency = 46 ms
+17/12/2019 20:01:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:01:54 at Gateway Sent Heartbeat
+17/12/2019 20:01:54 at Gateway Received HeartbeatAck
+17/12/2019 20:01:54 at Gateway Latency = 31 ms
+17/12/2019 20:02:36 at Gateway Sent Heartbeat
+17/12/2019 20:02:36 at Gateway Received HeartbeatAck
+17/12/2019 20:02:36 at Gateway Latency = 31 ms
+17/12/2019 20:03:17 at Gateway Sent Heartbeat
+17/12/2019 20:03:17 at Gateway Received HeartbeatAck
+17/12/2019 20:03:17 at Gateway Latency = 32 ms
+17/12/2019 20:03:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:03:58 at Gateway Sent Heartbeat
+17/12/2019 20:03:58 at Gateway Received HeartbeatAck
+17/12/2019 20:03:58 at Gateway Latency = 31 ms
+17/12/2019 20:04:39 at Gateway Sent Heartbeat
+17/12/2019 20:04:39 at Gateway Received HeartbeatAck
+17/12/2019 20:04:39 at Gateway Latency = 78 ms
+17/12/2019 20:05:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:05:21 at Gateway Sent Heartbeat
+17/12/2019 20:05:21 at Gateway Received HeartbeatAck
+17/12/2019 20:05:21 at Gateway Latency = 32 ms
+17/12/2019 20:06:02 at Gateway Sent Heartbeat
+17/12/2019 20:06:02 at Gateway Received HeartbeatAck
+17/12/2019 20:06:02 at Gateway Latency = 47 ms
+17/12/2019 20:06:43 at Gateway Sent Heartbeat
+17/12/2019 20:06:43 at Gateway Received HeartbeatAck
+17/12/2019 20:06:43 at Gateway Latency = 31 ms
+17/12/2019 20:07:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:07:24 at Gateway Sent Heartbeat
+17/12/2019 20:07:24 at Gateway Received HeartbeatAck
+17/12/2019 20:07:24 at Gateway Latency = 31 ms
+17/12/2019 20:08:06 at Gateway Sent Heartbeat
+17/12/2019 20:08:06 at Gateway Received HeartbeatAck
+17/12/2019 20:08:06 at Gateway Latency = 31 ms
+17/12/2019 20:08:47 at Gateway Sent Heartbeat
+17/12/2019 20:08:47 at Gateway Received HeartbeatAck
+17/12/2019 20:08:47 at Gateway Latency = 47 ms
+17/12/2019 20:09:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:09:28 at Gateway Sent Heartbeat
+17/12/2019 20:09:28 at Gateway Received HeartbeatAck
+17/12/2019 20:09:28 at Gateway Latency = 47 ms
+17/12/2019 20:10:09 at Gateway Sent Heartbeat
+17/12/2019 20:10:09 at Gateway Received HeartbeatAck
+17/12/2019 20:10:09 at Gateway Latency = 47 ms
+17/12/2019 20:10:51 at Gateway Sent Heartbeat
+17/12/2019 20:10:51 at Gateway Received HeartbeatAck
+17/12/2019 20:10:51 at Gateway Latency = 47 ms
+17/12/2019 20:11:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:11:32 at Gateway Sent Heartbeat
+17/12/2019 20:11:32 at Gateway Received HeartbeatAck
+17/12/2019 20:11:32 at Gateway Latency = 32 ms
+17/12/2019 20:12:13 at Gateway Sent Heartbeat
+17/12/2019 20:12:13 at Gateway Received HeartbeatAck
+17/12/2019 20:12:13 at Gateway Latency = 31 ms
+17/12/2019 20:12:54 at Gateway Sent Heartbeat
+17/12/2019 20:12:55 at Gateway Received HeartbeatAck
+17/12/2019 20:12:55 at Gateway Latency = 46 ms
+17/12/2019 20:13:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:13:36 at Gateway Sent Heartbeat
+17/12/2019 20:13:36 at Gateway Received HeartbeatAck
+17/12/2019 20:13:36 at Gateway Latency = 31 ms
+17/12/2019 20:14:17 at Gateway Sent Heartbeat
+17/12/2019 20:14:17 at Gateway Received HeartbeatAck
+17/12/2019 20:14:17 at Gateway Latency = 47 ms
+17/12/2019 20:14:58 at Gateway Sent Heartbeat
+17/12/2019 20:14:58 at Gateway Received HeartbeatAck
+17/12/2019 20:14:58 at Gateway Latency = 32 ms
+17/12/2019 20:15:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:15:40 at Gateway Sent Heartbeat
+17/12/2019 20:15:40 at Gateway Received HeartbeatAck
+17/12/2019 20:15:40 at Gateway Latency = 47 ms
+17/12/2019 20:16:21 at Gateway Sent Heartbeat
+17/12/2019 20:16:21 at Gateway Received HeartbeatAck
+17/12/2019 20:16:21 at Gateway Latency = 47 ms
+17/12/2019 20:17:02 at Gateway Sent Heartbeat
+17/12/2019 20:17:02 at Gateway Received HeartbeatAck
+17/12/2019 20:17:02 at Gateway Latency = 31 ms
+17/12/2019 20:17:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:17:43 at Gateway Sent Heartbeat
+17/12/2019 20:17:43 at Gateway Received HeartbeatAck
+17/12/2019 20:17:43 at Gateway Latency = 31 ms
+17/12/2019 20:18:25 at Gateway Sent Heartbeat
+17/12/2019 20:18:25 at Gateway Received HeartbeatAck
+17/12/2019 20:18:25 at Gateway Latency = 31 ms
+17/12/2019 20:19:06 at Gateway Sent Heartbeat
+17/12/2019 20:19:06 at Gateway Received HeartbeatAck
+17/12/2019 20:19:06 at Gateway Latency = 47 ms
+17/12/2019 20:19:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:19:47 at Gateway Sent Heartbeat
+17/12/2019 20:19:47 at Gateway Received HeartbeatAck
+17/12/2019 20:19:47 at Gateway Latency = 32 ms
+17/12/2019 20:20:28 at Gateway Sent Heartbeat
+17/12/2019 20:20:28 at Gateway Received HeartbeatAck
+17/12/2019 20:20:28 at Gateway Latency = 31 ms
+17/12/2019 20:21:10 at Gateway Sent Heartbeat
+17/12/2019 20:21:10 at Gateway Received HeartbeatAck
+17/12/2019 20:21:10 at Gateway Latency = 47 ms
+17/12/2019 20:21:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:21:51 at Gateway Sent Heartbeat
+17/12/2019 20:21:51 at Gateway Received HeartbeatAck
+17/12/2019 20:21:51 at Gateway Latency = 47 ms
+17/12/2019 20:22:32 at Gateway Sent Heartbeat
+17/12/2019 20:22:32 at Gateway Received HeartbeatAck
+17/12/2019 20:22:32 at Gateway Latency = 32 ms
+17/12/2019 20:23:13 at Gateway Sent Heartbeat
+17/12/2019 20:23:13 at Gateway Received HeartbeatAck
+17/12/2019 20:23:14 at Gateway Latency = 266 ms
+17/12/2019 20:23:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:23:55 at Gateway Sent Heartbeat
+17/12/2019 20:23:55 at Gateway Received HeartbeatAck
+17/12/2019 20:23:55 at Gateway Latency = 31 ms
+17/12/2019 20:24:36 at Gateway Sent Heartbeat
+17/12/2019 20:24:36 at Gateway Received HeartbeatAck
+17/12/2019 20:24:36 at Gateway Latency = 31 ms
+17/12/2019 20:25:18 at Gateway Sent Heartbeat
+17/12/2019 20:25:18 at Gateway Received HeartbeatAck
+17/12/2019 20:25:18 at Gateway Latency = 32 ms
+17/12/2019 20:25:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:25:59 at Gateway Sent Heartbeat
+17/12/2019 20:25:59 at Gateway Received HeartbeatAck
+17/12/2019 20:25:59 at Gateway Latency = 31 ms
+17/12/2019 20:26:40 at Gateway Sent Heartbeat
+17/12/2019 20:26:40 at Gateway Received HeartbeatAck
+17/12/2019 20:26:40 at Gateway Latency = 31 ms
+17/12/2019 20:27:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:27:21 at Gateway Sent Heartbeat
+17/12/2019 20:27:21 at Gateway Received HeartbeatAck
+17/12/2019 20:27:21 at Gateway Latency = 32 ms
+17/12/2019 20:28:03 at Gateway Sent Heartbeat
+17/12/2019 20:28:03 at Gateway Received HeartbeatAck
+17/12/2019 20:28:03 at Gateway Latency = 31 ms
+17/12/2019 20:28:44 at Gateway Sent Heartbeat
+17/12/2019 20:28:44 at Gateway Received HeartbeatAck
+17/12/2019 20:28:44 at Gateway Latency = 46 ms
+17/12/2019 20:29:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:29:25 at Gateway Sent Heartbeat
+17/12/2019 20:29:25 at Gateway Received HeartbeatAck
+17/12/2019 20:29:25 at Gateway Latency = 31 ms
+17/12/2019 20:29:30 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:30:06 at Gateway Sent Heartbeat
+17/12/2019 20:30:06 at Gateway Received HeartbeatAck
+17/12/2019 20:30:06 at Gateway Latency = 47 ms
+17/12/2019 20:30:48 at Gateway Sent Heartbeat
+17/12/2019 20:30:48 at Gateway Received HeartbeatAck
+17/12/2019 20:30:48 at Gateway Latency = 32 ms
+17/12/2019 20:31:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:31:29 at Gateway Sent Heartbeat
+17/12/2019 20:31:29 at Gateway Received HeartbeatAck
+17/12/2019 20:31:29 at Gateway Latency = 31 ms
+17/12/2019 20:32:10 at Gateway Sent Heartbeat
+17/12/2019 20:32:10 at Gateway Received HeartbeatAck
+17/12/2019 20:32:10 at Gateway Latency = 47 ms
+17/12/2019 20:32:51 at Gateway Sent Heartbeat
+17/12/2019 20:32:52 at Gateway Received HeartbeatAck
+17/12/2019 20:32:52 at Gateway Latency = 78 ms
+17/12/2019 20:33:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:33:33 at Gateway Sent Heartbeat
+17/12/2019 20:33:33 at Gateway Received HeartbeatAck
+17/12/2019 20:33:33 at Gateway Latency = 47 ms
+17/12/2019 20:34:14 at Gateway Sent Heartbeat
+17/12/2019 20:34:14 at Gateway Received HeartbeatAck
+17/12/2019 20:34:14 at Gateway Latency = 31 ms
+17/12/2019 20:34:55 at Gateway Sent Heartbeat
+17/12/2019 20:34:55 at Gateway Received HeartbeatAck
+17/12/2019 20:34:55 at Gateway Latency = 31 ms
+17/12/2019 20:35:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:35:37 at Gateway Sent Heartbeat
+17/12/2019 20:35:37 at Gateway Received HeartbeatAck
+17/12/2019 20:35:37 at Gateway Latency = 31 ms
+17/12/2019 20:36:18 at Gateway Sent Heartbeat
+17/12/2019 20:36:18 at Gateway Received HeartbeatAck
+17/12/2019 20:36:18 at Gateway Latency = 32 ms
+17/12/2019 20:36:59 at Gateway Sent Heartbeat
+17/12/2019 20:36:59 at Gateway Received HeartbeatAck
+17/12/2019 20:36:59 at Gateway Latency = 47 ms
+17/12/2019 20:37:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:37:40 at Gateway Sent Heartbeat
+17/12/2019 20:37:40 at Gateway Received HeartbeatAck
+17/12/2019 20:37:40 at Gateway Latency = 47 ms
+17/12/2019 20:37:58 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:38:22 at Gateway Sent Heartbeat
+17/12/2019 20:38:22 at Gateway Received HeartbeatAck
+17/12/2019 20:38:22 at Gateway Latency = 32 ms
+17/12/2019 20:39:03 at Gateway Sent Heartbeat
+17/12/2019 20:39:03 at Gateway Received HeartbeatAck
+17/12/2019 20:39:03 at Gateway Latency = 31 ms
+17/12/2019 20:39:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:39:44 at Gateway Sent Heartbeat
+17/12/2019 20:39:44 at Gateway Received HeartbeatAck
+17/12/2019 20:39:44 at Gateway Latency = 31 ms
+17/12/2019 20:40:25 at Gateway Sent Heartbeat
+17/12/2019 20:40:25 at Gateway Received HeartbeatAck
+17/12/2019 20:40:25 at Gateway Latency = 31 ms
+17/12/2019 20:41:07 at Gateway Sent Heartbeat
+17/12/2019 20:41:07 at Gateway Received HeartbeatAck
+17/12/2019 20:41:07 at Gateway Latency = 31 ms
+17/12/2019 20:41:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:41:48 at Gateway Sent Heartbeat
+17/12/2019 20:41:48 at Gateway Received HeartbeatAck
+17/12/2019 20:41:48 at Gateway Latency = 32 ms
+17/12/2019 20:42:29 at Gateway Sent Heartbeat
+17/12/2019 20:42:29 at Gateway Received HeartbeatAck
+17/12/2019 20:42:29 at Gateway Latency = 47 ms
+17/12/2019 20:43:10 at Gateway Sent Heartbeat
+17/12/2019 20:43:10 at Gateway Received HeartbeatAck
+17/12/2019 20:43:10 at Gateway Latency = 31 ms
+17/12/2019 20:43:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:43:52 at Gateway Sent Heartbeat
+17/12/2019 20:43:52 at Gateway Received HeartbeatAck
+17/12/2019 20:43:52 at Gateway Latency = 32 ms
+17/12/2019 20:44:33 at Gateway Sent Heartbeat
+17/12/2019 20:44:33 at Gateway Received HeartbeatAck
+17/12/2019 20:44:33 at Gateway Latency = 31 ms
+17/12/2019 20:45:14 at Gateway Sent Heartbeat
+17/12/2019 20:45:14 at Gateway Received HeartbeatAck
+17/12/2019 20:45:14 at Gateway Latency = 31 ms
+17/12/2019 20:45:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:45:55 at Gateway Sent Heartbeat
+17/12/2019 20:45:56 at Gateway Received HeartbeatAck
+17/12/2019 20:45:56 at Gateway Latency = 31 ms
+17/12/2019 20:46:37 at Gateway Sent Heartbeat
+17/12/2019 20:46:37 at Gateway Received HeartbeatAck
+17/12/2019 20:46:37 at Gateway Latency = 31 ms
+17/12/2019 20:47:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:47:18 at Gateway Received HeartbeatAck
+17/12/2019 20:47:19 at Gateway Latency = 406 ms
+17/12/2019 20:47:59 at Gateway Sent Heartbeat
+17/12/2019 20:47:59 at Gateway Received HeartbeatAck
+17/12/2019 20:47:59 at Gateway Latency = 31 ms
+17/12/2019 20:48:41 at Gateway Sent Heartbeat
+17/12/2019 20:48:41 at Gateway Received HeartbeatAck
+17/12/2019 20:48:41 at Gateway Latency = 46 ms
+17/12/2019 20:49:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:49:22 at Gateway Sent Heartbeat
+17/12/2019 20:49:22 at Gateway Received HeartbeatAck
+17/12/2019 20:49:22 at Gateway Latency = 31 ms
+17/12/2019 20:50:03 at Gateway Sent Heartbeat
+17/12/2019 20:50:03 at Gateway Received HeartbeatAck
+17/12/2019 20:50:03 at Gateway Latency = 31 ms
+17/12/2019 20:50:45 at Gateway Sent Heartbeat
+17/12/2019 20:50:45 at Gateway Received HeartbeatAck
+17/12/2019 20:50:45 at Gateway Latency = 32 ms
+17/12/2019 20:51:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:51:26 at Gateway Sent Heartbeat
+17/12/2019 20:51:26 at Gateway Received HeartbeatAck
+17/12/2019 20:51:26 at Gateway Latency = 31 ms
+17/12/2019 20:52:07 at Gateway Sent Heartbeat
+17/12/2019 20:52:07 at Gateway Received HeartbeatAck
+17/12/2019 20:52:07 at Gateway Latency = 125 ms
+17/12/2019 20:52:48 at Gateway Sent Heartbeat
+17/12/2019 20:52:48 at Gateway Received HeartbeatAck
+17/12/2019 20:52:48 at Gateway Latency = 31 ms
+17/12/2019 20:53:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:53:30 at Gateway Sent Heartbeat
+17/12/2019 20:53:30 at Gateway Received HeartbeatAck
+17/12/2019 20:53:30 at Gateway Latency = 31 ms
+17/12/2019 20:54:11 at Gateway Sent Heartbeat
+17/12/2019 20:54:11 at Gateway Received HeartbeatAck
+17/12/2019 20:54:11 at Gateway Latency = 63 ms
+17/12/2019 20:54:52 at Gateway Sent Heartbeat
+17/12/2019 20:54:52 at Gateway Received HeartbeatAck
+17/12/2019 20:54:52 at Gateway Latency = 31 ms
+17/12/2019 20:55:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:55:33 at Gateway Sent Heartbeat
+17/12/2019 20:55:33 at Gateway Received HeartbeatAck
+17/12/2019 20:55:33 at Gateway Latency = 47 ms
+17/12/2019 20:56:15 at Gateway Sent Heartbeat
+17/12/2019 20:56:15 at Gateway Received HeartbeatAck
+17/12/2019 20:56:15 at Gateway Latency = 32 ms
+17/12/2019 20:56:56 at Gateway Sent Heartbeat
+17/12/2019 20:56:56 at Gateway Received HeartbeatAck
+17/12/2019 20:56:56 at Gateway Latency = 31 ms
+17/12/2019 20:57:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:57:37 at Gateway Sent Heartbeat
+17/12/2019 20:57:37 at Gateway Received HeartbeatAck
+17/12/2019 20:57:37 at Gateway Latency = 31 ms
+17/12/2019 20:58:18 at Gateway Sent Heartbeat
+17/12/2019 20:58:19 at Gateway Received HeartbeatAck
+17/12/2019 20:58:19 at Gateway Latency = 31 ms
+17/12/2019 20:59:00 at Gateway Sent Heartbeat
+17/12/2019 20:59:00 at Gateway Received HeartbeatAck
+17/12/2019 20:59:00 at Gateway Latency = 47 ms
+17/12/2019 20:59:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 20:59:41 at Gateway Sent Heartbeat
+17/12/2019 20:59:41 at Gateway Received HeartbeatAck
+17/12/2019 20:59:41 at Gateway Latency = 31 ms
+17/12/2019 21:00:22 at Gateway Sent Heartbeat
+17/12/2019 21:00:22 at Gateway Received HeartbeatAck
+17/12/2019 21:00:22 at Gateway Latency = 32 ms
+17/12/2019 21:01:04 at Gateway Sent Heartbeat
+17/12/2019 21:01:04 at Gateway Received HeartbeatAck
+17/12/2019 21:01:04 at Gateway Latency = 62 ms
+17/12/2019 21:01:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:01:45 at Gateway Sent Heartbeat
+17/12/2019 21:01:45 at Gateway Received HeartbeatAck
+17/12/2019 21:01:45 at Gateway Latency = 31 ms
+17/12/2019 21:02:26 at Gateway Sent Heartbeat
+17/12/2019 21:02:26 at Gateway Received HeartbeatAck
+17/12/2019 21:02:26 at Gateway Latency = 31 ms
+17/12/2019 21:03:07 at Gateway Sent Heartbeat
+17/12/2019 21:03:07 at Gateway Received HeartbeatAck
+17/12/2019 21:03:07 at Gateway Latency = 47 ms
+17/12/2019 21:03:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:03:49 at Gateway Sent Heartbeat
+17/12/2019 21:03:49 at Gateway Received HeartbeatAck
+17/12/2019 21:03:49 at Gateway Latency = 47 ms
+17/12/2019 21:04:30 at Gateway Sent Heartbeat
+17/12/2019 21:04:30 at Gateway Received HeartbeatAck
+17/12/2019 21:04:30 at Gateway Latency = 31 ms
+17/12/2019 21:05:11 at Gateway Sent Heartbeat
+17/12/2019 21:05:11 at Gateway Received HeartbeatAck
+17/12/2019 21:05:11 at Gateway Latency = 31 ms
+17/12/2019 21:05:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:05:52 at Gateway Sent Heartbeat
+17/12/2019 21:05:52 at Gateway Received HeartbeatAck
+17/12/2019 21:05:52 at Gateway Latency = 32 ms
+17/12/2019 21:06:34 at Gateway Sent Heartbeat
+17/12/2019 21:06:34 at Gateway Received HeartbeatAck
+17/12/2019 21:06:34 at Gateway Latency = 31 ms
+17/12/2019 21:07:15 at Gateway Sent Heartbeat
+17/12/2019 21:07:15 at Gateway Received HeartbeatAck
+17/12/2019 21:07:15 at Gateway Latency = 31 ms
+17/12/2019 21:07:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:07:56 at Gateway Sent Heartbeat
+17/12/2019 21:07:56 at Gateway Received HeartbeatAck
+17/12/2019 21:07:56 at Gateway Latency = 31 ms
+17/12/2019 21:08:38 at Gateway Sent Heartbeat
+17/12/2019 21:08:38 at Gateway Received HeartbeatAck
+17/12/2019 21:08:38 at Gateway Latency = 47 ms
+17/12/2019 21:09:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:09:19 at Gateway Sent Heartbeat
+17/12/2019 21:09:19 at Gateway Received HeartbeatAck
+17/12/2019 21:09:19 at Gateway Latency = 32 ms
+17/12/2019 21:10:00 at Gateway Sent Heartbeat
+17/12/2019 21:10:00 at Gateway Received HeartbeatAck
+17/12/2019 21:10:00 at Gateway Latency = 47 ms
+17/12/2019 21:10:41 at Gateway Sent Heartbeat
+17/12/2019 21:10:41 at Gateway Received HeartbeatAck
+17/12/2019 21:10:41 at Gateway Latency = 31 ms
+17/12/2019 21:11:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:11:23 at Gateway Sent Heartbeat
+17/12/2019 21:11:23 at Gateway Received HeartbeatAck
+17/12/2019 21:11:23 at Gateway Latency = 141 ms
+17/12/2019 21:12:04 at Gateway Sent Heartbeat
+17/12/2019 21:12:04 at Gateway Received HeartbeatAck
+17/12/2019 21:12:04 at Gateway Latency = 31 ms
+17/12/2019 21:12:45 at Gateway Sent Heartbeat
+17/12/2019 21:12:45 at Gateway Received HeartbeatAck
+17/12/2019 21:12:45 at Gateway Latency = 46 ms
+17/12/2019 21:13:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:13:26 at Gateway Sent Heartbeat
+17/12/2019 21:13:26 at Gateway Received HeartbeatAck
+17/12/2019 21:13:26 at Gateway Latency = 31 ms
+17/12/2019 21:14:08 at Gateway Sent Heartbeat
+17/12/2019 21:14:08 at Gateway Received HeartbeatAck
+17/12/2019 21:14:08 at Gateway Latency = 31 ms
+17/12/2019 21:14:49 at Gateway Sent Heartbeat
+17/12/2019 21:14:49 at Gateway Received HeartbeatAck
+17/12/2019 21:14:49 at Gateway Latency = 32 ms
+17/12/2019 21:15:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:15:30 at Gateway Sent Heartbeat
+17/12/2019 21:15:30 at Gateway Received HeartbeatAck
+17/12/2019 21:15:30 at Gateway Latency = 31 ms
+17/12/2019 21:16:11 at Gateway Sent Heartbeat
+17/12/2019 21:16:11 at Gateway Received HeartbeatAck
+17/12/2019 21:16:11 at Gateway Latency = 31 ms
+17/12/2019 21:16:53 at Gateway Sent Heartbeat
+17/12/2019 21:16:53 at Gateway Received HeartbeatAck
+17/12/2019 21:16:53 at Gateway Latency = 32 ms
+17/12/2019 21:17:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:17:34 at Gateway Sent Heartbeat
+17/12/2019 21:17:34 at Gateway Received HeartbeatAck
+17/12/2019 21:17:34 at Gateway Latency = 47 ms
+17/12/2019 21:18:15 at Gateway Sent Heartbeat
+17/12/2019 21:18:15 at Gateway Received HeartbeatAck
+17/12/2019 21:18:15 at Gateway Latency = 31 ms
+17/12/2019 21:18:56 at Gateway Sent Heartbeat
+17/12/2019 21:19:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:19:38 at Gateway Sent Heartbeat
+17/12/2019 21:19:38 at Gateway Received HeartbeatAck
+17/12/2019 21:19:38 at Gateway Latency = 47 ms
+17/12/2019 21:20:19 at Gateway Sent Heartbeat
+17/12/2019 21:20:19 at Gateway Received HeartbeatAck
+17/12/2019 21:20:19 at Gateway Latency = 47 ms
+17/12/2019 21:21:01 at Gateway Sent Heartbeat
+17/12/2019 21:21:01 at Gateway Received HeartbeatAck
+17/12/2019 21:21:01 at Gateway Latency = 46 ms
+17/12/2019 21:21:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:21:42 at Gateway Sent Heartbeat
+17/12/2019 21:21:42 at Gateway Received HeartbeatAck
+17/12/2019 21:21:42 at Gateway Latency = 31 ms
+17/12/2019 21:22:23 at Gateway Sent Heartbeat
+17/12/2019 21:22:23 at Gateway Received HeartbeatAck
+17/12/2019 21:22:23 at Gateway Latency = 31 ms
+17/12/2019 21:23:04 at Gateway Sent Heartbeat
+17/12/2019 21:23:04 at Gateway Received HeartbeatAck
+17/12/2019 21:23:04 at Gateway Latency = 47 ms
+17/12/2019 21:23:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:23:46 at Gateway Sent Heartbeat
+17/12/2019 21:23:46 at Gateway Received HeartbeatAck
+17/12/2019 21:23:46 at Gateway Latency = 47 ms
+17/12/2019 21:24:27 at Gateway Sent Heartbeat
+17/12/2019 21:24:27 at Gateway Received HeartbeatAck
+17/12/2019 21:24:27 at Gateway Latency = 31 ms
+17/12/2019 21:25:08 at Gateway Sent Heartbeat
+17/12/2019 21:25:08 at Gateway Received HeartbeatAck
+17/12/2019 21:25:08 at Gateway Latency = 47 ms
+17/12/2019 21:25:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:25:49 at Gateway Sent Heartbeat
+17/12/2019 21:25:49 at Gateway Received HeartbeatAck
+17/12/2019 21:25:49 at Gateway Latency = 31 ms
+17/12/2019 21:26:31 at Gateway Sent Heartbeat
+17/12/2019 21:26:31 at Gateway Received HeartbeatAck
+17/12/2019 21:26:31 at Gateway Latency = 31 ms
+17/12/2019 21:27:12 at Gateway Sent Heartbeat
+17/12/2019 21:27:12 at Gateway Received HeartbeatAck
+17/12/2019 21:27:12 at Gateway Latency = 31 ms
+17/12/2019 21:27:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:27:53 at Gateway Sent Heartbeat
+17/12/2019 21:27:53 at Gateway Received HeartbeatAck
+17/12/2019 21:27:53 at Gateway Latency = 31 ms
+17/12/2019 21:28:35 at Gateway Sent Heartbeat
+17/12/2019 21:28:35 at Gateway Received HeartbeatAck
+17/12/2019 21:28:35 at Gateway Latency = 32 ms
+17/12/2019 21:29:16 at Gateway Sent Heartbeat
+17/12/2019 21:29:16 at Gateway Received HeartbeatAck
+17/12/2019 21:29:16 at Gateway Latency = 31 ms
+17/12/2019 21:29:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:29:57 at Gateway Sent Heartbeat
+17/12/2019 21:29:57 at Gateway Received HeartbeatAck
+17/12/2019 21:29:57 at Gateway Latency = 31 ms
+17/12/2019 21:30:38 at Gateway Sent Heartbeat
+17/12/2019 21:30:38 at Gateway Received HeartbeatAck
+17/12/2019 21:30:38 at Gateway Latency = 32 ms
+17/12/2019 21:31:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:31:20 at Gateway Sent Heartbeat
+17/12/2019 21:31:20 at Gateway Received HeartbeatAck
+17/12/2019 21:31:20 at Gateway Latency = 31 ms
+17/12/2019 21:32:01 at Gateway Sent Heartbeat
+17/12/2019 21:32:01 at Gateway Received HeartbeatAck
+17/12/2019 21:32:01 at Gateway Latency = 31 ms
+17/12/2019 21:32:42 at Gateway Sent Heartbeat
+17/12/2019 21:32:42 at Gateway Received HeartbeatAck
+17/12/2019 21:32:42 at Gateway Latency = 31 ms
+17/12/2019 21:33:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:33:23 at Gateway Sent Heartbeat
+17/12/2019 21:33:23 at Gateway Received HeartbeatAck
+17/12/2019 21:33:23 at Gateway Latency = 31 ms
+17/12/2019 21:34:05 at Gateway Sent Heartbeat
+17/12/2019 21:34:05 at Gateway Received HeartbeatAck
+17/12/2019 21:34:05 at Gateway Latency = 32 ms
+17/12/2019 21:34:46 at Gateway Sent Heartbeat
+17/12/2019 21:34:46 at Gateway Received HeartbeatAck
+17/12/2019 21:34:46 at Gateway Latency = 31 ms
+17/12/2019 21:35:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:35:27 at Gateway Sent Heartbeat
+17/12/2019 21:35:27 at Gateway Received HeartbeatAck
+17/12/2019 21:35:27 at Gateway Latency = 47 ms
+17/12/2019 21:36:08 at Gateway Sent Heartbeat
+17/12/2019 21:36:08 at Gateway Received HeartbeatAck
+17/12/2019 21:36:08 at Gateway Latency = 32 ms
+17/12/2019 21:36:50 at Gateway Sent Heartbeat
+17/12/2019 21:36:50 at Gateway Received HeartbeatAck
+17/12/2019 21:36:50 at Gateway Latency = 31 ms
+17/12/2019 21:37:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:37:31 at Gateway Sent Heartbeat
+17/12/2019 21:37:31 at Gateway Received HeartbeatAck
+17/12/2019 21:37:31 at Gateway Latency = 46 ms
+17/12/2019 21:37:59 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:38:12 at Gateway Sent Heartbeat
+17/12/2019 21:38:12 at Gateway Received HeartbeatAck
+17/12/2019 21:38:12 at Gateway Latency = 47 ms
+17/12/2019 21:38:54 at Gateway Sent Heartbeat
+17/12/2019 21:38:54 at Gateway Received HeartbeatAck
+17/12/2019 21:38:54 at Gateway Latency = 47 ms
+17/12/2019 21:39:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:39:35 at Gateway Sent Heartbeat
+17/12/2019 21:39:35 at Gateway Received HeartbeatAck
+17/12/2019 21:39:35 at Gateway Latency = 32 ms
+17/12/2019 21:40:16 at Gateway Sent Heartbeat
+17/12/2019 21:40:16 at Gateway Received HeartbeatAck
+17/12/2019 21:40:16 at Gateway Latency = 47 ms
+17/12/2019 21:40:57 at Gateway Sent Heartbeat
+17/12/2019 21:40:57 at Gateway Received HeartbeatAck
+17/12/2019 21:40:57 at Gateway Latency = 31 ms
+17/12/2019 21:41:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:41:39 at Gateway Sent Heartbeat
+17/12/2019 21:41:39 at Gateway Received HeartbeatAck
+17/12/2019 21:41:39 at Gateway Latency = 47 ms
+17/12/2019 21:42:20 at Gateway Sent Heartbeat
+17/12/2019 21:42:20 at Gateway Received HeartbeatAck
+17/12/2019 21:42:20 at Gateway Latency = 31 ms
+17/12/2019 21:43:01 at Gateway Sent Heartbeat
+17/12/2019 21:43:01 at Gateway Received HeartbeatAck
+17/12/2019 21:43:01 at Gateway Latency = 47 ms
+17/12/2019 21:43:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:43:42 at Gateway Sent Heartbeat
+17/12/2019 21:43:42 at Gateway Received HeartbeatAck
+17/12/2019 21:43:42 at Gateway Latency = 31 ms
+17/12/2019 21:44:24 at Gateway Sent Heartbeat
+17/12/2019 21:44:24 at Gateway Received HeartbeatAck
+17/12/2019 21:44:24 at Gateway Latency = 32 ms
+17/12/2019 21:45:05 at Gateway Sent Heartbeat
+17/12/2019 21:45:05 at Gateway Received HeartbeatAck
+17/12/2019 21:45:05 at Gateway Latency = 31 ms
+17/12/2019 21:45:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:45:46 at Gateway Sent Heartbeat
+17/12/2019 21:45:46 at Gateway Received HeartbeatAck
+17/12/2019 21:45:46 at Gateway Latency = 31 ms
+17/12/2019 21:46:27 at Gateway Sent Heartbeat
+17/12/2019 21:46:27 at Gateway Received HeartbeatAck
+17/12/2019 21:46:27 at Gateway Latency = 32 ms
+17/12/2019 21:47:09 at Gateway Sent Heartbeat
+17/12/2019 21:47:09 at Gateway Received HeartbeatAck
+17/12/2019 21:47:09 at Gateway Latency = 31 ms
+17/12/2019 21:47:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:47:50 at Gateway Sent Heartbeat
+17/12/2019 21:47:50 at Gateway Received HeartbeatAck
+17/12/2019 21:47:50 at Gateway Latency = 31 ms
+17/12/2019 21:48:31 at Gateway Sent Heartbeat
+17/12/2019 21:48:31 at Gateway Received HeartbeatAck
+17/12/2019 21:48:31 at Gateway Latency = 31 ms
+17/12/2019 21:49:13 at Gateway Sent Heartbeat
+17/12/2019 21:49:13 at Gateway Received HeartbeatAck
+17/12/2019 21:49:13 at Gateway Latency = 31 ms
+17/12/2019 21:49:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:49:54 at Gateway Sent Heartbeat
+17/12/2019 21:49:54 at Gateway Received HeartbeatAck
+17/12/2019 21:49:54 at Gateway Latency = 32 ms
+17/12/2019 21:50:35 at Gateway Sent Heartbeat
+17/12/2019 21:50:35 at Gateway Received HeartbeatAck
+17/12/2019 21:50:35 at Gateway Latency = 31 ms
+17/12/2019 21:51:16 at Gateway Sent Heartbeat
+17/12/2019 21:51:16 at Gateway Received HeartbeatAck
+17/12/2019 21:51:16 at Gateway Latency = 31 ms
+17/12/2019 21:51:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:51:58 at Gateway Sent Heartbeat
+17/12/2019 21:51:58 at Gateway Received HeartbeatAck
+17/12/2019 21:51:58 at Gateway Latency = 32 ms
+17/12/2019 21:52:39 at Gateway Sent Heartbeat
+17/12/2019 21:52:39 at Gateway Received HeartbeatAck
+17/12/2019 21:52:39 at Gateway Latency = 31 ms
+17/12/2019 21:53:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:53:20 at Gateway Sent Heartbeat
+17/12/2019 21:53:20 at Gateway Received HeartbeatAck
+17/12/2019 21:53:20 at Gateway Latency = 31 ms
+17/12/2019 21:54:01 at Gateway Sent Heartbeat
+17/12/2019 21:54:01 at Gateway Received HeartbeatAck
+17/12/2019 21:54:01 at Gateway Latency = 47 ms
+17/12/2019 21:54:43 at Gateway Sent Heartbeat
+17/12/2019 21:54:43 at Gateway Received HeartbeatAck
+17/12/2019 21:54:43 at Gateway Latency = 31 ms
+17/12/2019 21:55:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:55:24 at Gateway Sent Heartbeat
+17/12/2019 21:55:24 at Gateway Received HeartbeatAck
+17/12/2019 21:55:24 at Gateway Latency = 32 ms
+17/12/2019 21:56:05 at Gateway Sent Heartbeat
+17/12/2019 21:56:05 at Gateway Received HeartbeatAck
+17/12/2019 21:56:05 at Gateway Latency = 47 ms
+17/12/2019 21:56:46 at Gateway Sent Heartbeat
+17/12/2019 21:56:46 at Gateway Received HeartbeatAck
+17/12/2019 21:56:46 at Gateway Latency = 47 ms
+17/12/2019 21:57:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:57:28 at Gateway Sent Heartbeat
+17/12/2019 21:57:28 at Gateway Received HeartbeatAck
+17/12/2019 21:57:28 at Gateway Latency = 32 ms
+17/12/2019 21:58:09 at Gateway Sent Heartbeat
+17/12/2019 21:58:09 at Gateway Received HeartbeatAck
+17/12/2019 21:58:09 at Gateway Latency = 47 ms
+17/12/2019 21:58:50 at Gateway Sent Heartbeat
+17/12/2019 21:58:50 at Gateway Received HeartbeatAck
+17/12/2019 21:58:50 at Gateway Latency = 46 ms
+17/12/2019 21:59:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 21:59:31 at Gateway Sent Heartbeat
+17/12/2019 21:59:32 at Gateway Received HeartbeatAck
+17/12/2019 21:59:32 at Gateway Latency = 31 ms
+17/12/2019 22:00:13 at Gateway Sent Heartbeat
+17/12/2019 22:00:13 at Gateway Received HeartbeatAck
+17/12/2019 22:00:13 at Gateway Latency = 47 ms
+17/12/2019 22:00:54 at Gateway Sent Heartbeat
+17/12/2019 22:00:54 at Gateway Received HeartbeatAck
+17/12/2019 22:00:54 at Gateway Latency = 31 ms
+17/12/2019 22:01:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:01:28 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:01:35 at Gateway Sent Heartbeat
+17/12/2019 22:01:35 at Gateway Received HeartbeatAck
+17/12/2019 22:01:35 at Gateway Latency = 32 ms
+17/12/2019 22:02:17 at Gateway Sent Heartbeat
+17/12/2019 22:02:17 at Gateway Received HeartbeatAck
+17/12/2019 22:02:17 at Gateway Latency = 47 ms
+17/12/2019 22:02:58 at Gateway Sent Heartbeat
+17/12/2019 22:02:58 at Gateway Received HeartbeatAck
+17/12/2019 22:02:58 at Gateway Latency = 31 ms
+17/12/2019 22:03:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:03:39 at Gateway Sent Heartbeat
+17/12/2019 22:03:39 at Gateway Received HeartbeatAck
+17/12/2019 22:03:39 at Gateway Latency = 32 ms
+17/12/2019 22:04:20 at Gateway Sent Heartbeat
+17/12/2019 22:04:20 at Gateway Received HeartbeatAck
+17/12/2019 22:04:20 at Gateway Latency = 31 ms
+17/12/2019 22:05:02 at Gateway Sent Heartbeat
+17/12/2019 22:05:02 at Gateway Received HeartbeatAck
+17/12/2019 22:05:02 at Gateway Latency = 31 ms
+17/12/2019 22:05:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:05:43 at Gateway Sent Heartbeat
+17/12/2019 22:05:43 at Gateway Received HeartbeatAck
+17/12/2019 22:05:43 at Gateway Latency = 31 ms
+17/12/2019 22:06:24 at Gateway Sent Heartbeat
+17/12/2019 22:06:24 at Gateway Received HeartbeatAck
+17/12/2019 22:06:24 at Gateway Latency = 31 ms
+17/12/2019 22:07:05 at Gateway Sent Heartbeat
+17/12/2019 22:07:05 at Gateway Received HeartbeatAck
+17/12/2019 22:07:05 at Gateway Latency = 32 ms
+17/12/2019 22:07:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:07:47 at Gateway Sent Heartbeat
+17/12/2019 22:07:47 at Gateway Received HeartbeatAck
+17/12/2019 22:07:47 at Gateway Latency = 31 ms
+17/12/2019 22:08:28 at Gateway Sent Heartbeat
+17/12/2019 22:08:28 at Gateway Received HeartbeatAck
+17/12/2019 22:08:28 at Gateway Latency = 31 ms
+17/12/2019 22:09:09 at Gateway Sent Heartbeat
+17/12/2019 22:09:09 at Gateway Received HeartbeatAck
+17/12/2019 22:09:09 at Gateway Latency = 47 ms
+17/12/2019 22:09:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:09:50 at Gateway Sent Heartbeat
+17/12/2019 22:09:51 at Gateway Received HeartbeatAck
+17/12/2019 22:09:51 at Gateway Latency = 46 ms
+17/12/2019 22:10:32 at Gateway Sent Heartbeat
+17/12/2019 22:10:32 at Gateway Received HeartbeatAck
+17/12/2019 22:10:32 at Gateway Latency = 46 ms
+17/12/2019 22:11:13 at Gateway Sent Heartbeat
+17/12/2019 22:11:13 at Gateway Received HeartbeatAck
+17/12/2019 22:11:13 at Gateway Latency = 47 ms
+17/12/2019 22:11:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:11:54 at Gateway Sent Heartbeat
+17/12/2019 22:11:54 at Gateway Received HeartbeatAck
+17/12/2019 22:11:54 at Gateway Latency = 31 ms
+17/12/2019 22:12:36 at Gateway Sent Heartbeat
+17/12/2019 22:12:36 at Gateway Received HeartbeatAck
+17/12/2019 22:12:36 at Gateway Latency = 32 ms
+17/12/2019 22:13:17 at Gateway Sent Heartbeat
+17/12/2019 22:13:17 at Gateway Received HeartbeatAck
+17/12/2019 22:13:17 at Gateway Latency = 31 ms
+17/12/2019 22:13:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:13:58 at Gateway Sent Heartbeat
+17/12/2019 22:13:58 at Gateway Received HeartbeatAck
+17/12/2019 22:13:58 at Gateway Latency = 31 ms
+17/12/2019 22:14:39 at Gateway Sent Heartbeat
+17/12/2019 22:14:39 at Gateway Received HeartbeatAck
+17/12/2019 22:14:39 at Gateway Latency = 32 ms
+17/12/2019 22:15:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:15:21 at Gateway Sent Heartbeat
+17/12/2019 22:15:21 at Gateway Received HeartbeatAck
+17/12/2019 22:15:21 at Gateway Latency = 47 ms
+17/12/2019 22:16:02 at Gateway Sent Heartbeat
+17/12/2019 22:16:02 at Gateway Received HeartbeatAck
+17/12/2019 22:16:02 at Gateway Latency = 46 ms
+17/12/2019 22:16:43 at Gateway Sent Heartbeat
+17/12/2019 22:16:43 at Gateway Received HeartbeatAck
+17/12/2019 22:16:43 at Gateway Latency = 47 ms
+17/12/2019 22:17:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:17:24 at Gateway Sent Heartbeat
+17/12/2019 22:17:24 at Gateway Received HeartbeatAck
+17/12/2019 22:17:24 at Gateway Latency = 31 ms
+17/12/2019 22:18:06 at Gateway Sent Heartbeat
+17/12/2019 22:18:06 at Gateway Received HeartbeatAck
+17/12/2019 22:18:06 at Gateway Latency = 32 ms
+17/12/2019 22:18:47 at Gateway Sent Heartbeat
+17/12/2019 22:18:47 at Gateway Received HeartbeatAck
+17/12/2019 22:18:47 at Gateway Latency = 31 ms
+17/12/2019 22:19:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:19:28 at Gateway Sent Heartbeat
+17/12/2019 22:19:28 at Gateway Received HeartbeatAck
+17/12/2019 22:19:28 at Gateway Latency = 31 ms
+17/12/2019 22:20:09 at Gateway Sent Heartbeat
+17/12/2019 22:20:09 at Gateway Received HeartbeatAck
+17/12/2019 22:20:09 at Gateway Latency = 47 ms
+17/12/2019 22:20:51 at Gateway Sent Heartbeat
+17/12/2019 22:20:51 at Gateway Received HeartbeatAck
+17/12/2019 22:20:51 at Gateway Latency = 31 ms
+17/12/2019 22:21:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:21:32 at Gateway Sent Heartbeat
+17/12/2019 22:21:32 at Gateway Received HeartbeatAck
+17/12/2019 22:21:32 at Gateway Latency = 31 ms
+17/12/2019 22:22:13 at Gateway Sent Heartbeat
+17/12/2019 22:22:13 at Gateway Received HeartbeatAck
+17/12/2019 22:22:13 at Gateway Latency = 46 ms
+17/12/2019 22:22:54 at Gateway Sent Heartbeat
+17/12/2019 22:22:55 at Gateway Received HeartbeatAck
+17/12/2019 22:22:55 at Gateway Latency = 31 ms
+17/12/2019 22:23:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:23:36 at Gateway Sent Heartbeat
+17/12/2019 22:23:36 at Gateway Received HeartbeatAck
+17/12/2019 22:23:36 at Gateway Latency = 31 ms
+17/12/2019 22:24:17 at Gateway Sent Heartbeat
+17/12/2019 22:24:17 at Gateway Received HeartbeatAck
+17/12/2019 22:24:17 at Gateway Latency = 32 ms
+17/12/2019 22:24:58 at Gateway Sent Heartbeat
+17/12/2019 22:24:58 at Gateway Received HeartbeatAck
+17/12/2019 22:24:58 at Gateway Latency = 31 ms
+17/12/2019 22:25:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:25:40 at Gateway Sent Heartbeat
+17/12/2019 22:25:40 at Gateway Received HeartbeatAck
+17/12/2019 22:25:40 at Gateway Latency = 31 ms
+17/12/2019 22:26:21 at Gateway Sent Heartbeat
+17/12/2019 22:26:21 at Gateway Received HeartbeatAck
+17/12/2019 22:26:21 at Gateway Latency = 47 ms
+17/12/2019 22:27:02 at Gateway Sent Heartbeat
+17/12/2019 22:27:02 at Gateway Received HeartbeatAck
+17/12/2019 22:27:02 at Gateway Latency = 31 ms
+17/12/2019 22:27:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:27:43 at Gateway Sent Heartbeat
+17/12/2019 22:27:43 at Gateway Received HeartbeatAck
+17/12/2019 22:27:43 at Gateway Latency = 31 ms
+17/12/2019 22:28:25 at Gateway Sent Heartbeat
+17/12/2019 22:28:25 at Gateway Received HeartbeatAck
+17/12/2019 22:28:25 at Gateway Latency = 31 ms
+17/12/2019 22:29:06 at Gateway Sent Heartbeat
+17/12/2019 22:29:06 at Gateway Received HeartbeatAck
+17/12/2019 22:29:06 at Gateway Latency = 31 ms
+17/12/2019 22:29:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:29:47 at Gateway Sent Heartbeat
+17/12/2019 22:29:47 at Gateway Received HeartbeatAck
+17/12/2019 22:29:47 at Gateway Latency = 32 ms
+17/12/2019 22:30:28 at Gateway Sent Heartbeat
+17/12/2019 22:30:28 at Gateway Received HeartbeatAck
+17/12/2019 22:30:28 at Gateway Latency = 31 ms
+17/12/2019 22:31:10 at Gateway Sent Heartbeat
+17/12/2019 22:31:10 at Gateway Received HeartbeatAck
+17/12/2019 22:31:10 at Gateway Latency = 47 ms
+17/12/2019 22:31:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:31:51 at Gateway Sent Heartbeat
+17/12/2019 22:31:51 at Gateway Received HeartbeatAck
+17/12/2019 22:31:51 at Gateway Latency = 47 ms
+17/12/2019 22:32:32 at Gateway Sent Heartbeat
+17/12/2019 22:32:32 at Gateway Received HeartbeatAck
+17/12/2019 22:32:32 at Gateway Latency = 47 ms
+17/12/2019 22:33:13 at Gateway Sent Heartbeat
+17/12/2019 22:33:14 at Gateway Received HeartbeatAck
+17/12/2019 22:33:14 at Gateway Latency = 31 ms
+17/12/2019 22:33:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:33:55 at Gateway Sent Heartbeat
+17/12/2019 22:33:55 at Gateway Received HeartbeatAck
+17/12/2019 22:33:55 at Gateway Latency = 47 ms
+17/12/2019 22:34:36 at Gateway Sent Heartbeat
+17/12/2019 22:34:36 at Gateway Received HeartbeatAck
+17/12/2019 22:34:36 at Gateway Latency = 47 ms
+17/12/2019 22:35:17 at Gateway Sent Heartbeat
+17/12/2019 22:35:17 at Gateway Received HeartbeatAck
+17/12/2019 22:35:17 at Gateway Latency = 32 ms
+17/12/2019 22:35:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:35:59 at Gateway Sent Heartbeat
+17/12/2019 22:35:59 at Gateway Received HeartbeatAck
+17/12/2019 22:35:59 at Gateway Latency = 31 ms
+17/12/2019 22:36:40 at Gateway Sent Heartbeat
+17/12/2019 22:36:40 at Gateway Received HeartbeatAck
+17/12/2019 22:36:40 at Gateway Latency = 31 ms
+17/12/2019 22:37:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:37:21 at Gateway Sent Heartbeat
+17/12/2019 22:37:21 at Gateway Received HeartbeatAck
+17/12/2019 22:37:21 at Gateway Latency = 47 ms
+17/12/2019 22:37:58 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:38:02 at Gateway Sent Heartbeat
+17/12/2019 22:38:02 at Gateway Received HeartbeatAck
+17/12/2019 22:38:02 at Gateway Latency = 47 ms
+17/12/2019 22:38:44 at Gateway Sent Heartbeat
+17/12/2019 22:38:44 at Gateway Received HeartbeatAck
+17/12/2019 22:38:44 at Gateway Latency = 31 ms
+17/12/2019 22:39:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:39:25 at Gateway Sent Heartbeat
+17/12/2019 22:39:25 at Gateway Received HeartbeatAck
+17/12/2019 22:39:25 at Gateway Latency = 31 ms
+17/12/2019 22:40:06 at Gateway Sent Heartbeat
+17/12/2019 22:40:06 at Gateway Received HeartbeatAck
+17/12/2019 22:40:06 at Gateway Latency = 31 ms
+17/12/2019 22:40:47 at Gateway Sent Heartbeat
+17/12/2019 22:40:47 at Gateway Received HeartbeatAck
+17/12/2019 22:40:47 at Gateway Latency = 32 ms
+17/12/2019 22:41:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:41:29 at Gateway Sent Heartbeat
+17/12/2019 22:41:29 at Gateway Received HeartbeatAck
+17/12/2019 22:41:29 at Gateway Latency = 47 ms
+17/12/2019 22:42:10 at Gateway Sent Heartbeat
+17/12/2019 22:42:10 at Gateway Received HeartbeatAck
+17/12/2019 22:42:10 at Gateway Latency = 32 ms
+17/12/2019 22:42:51 at Gateway Sent Heartbeat
+17/12/2019 22:42:51 at Gateway Received HeartbeatAck
+17/12/2019 22:42:51 at Gateway Latency = 47 ms
+17/12/2019 22:43:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:43:32 at Gateway Sent Heartbeat
+17/12/2019 22:43:33 at Gateway Received HeartbeatAck
+17/12/2019 22:43:33 at Gateway Latency = 46 ms
+17/12/2019 22:44:14 at Gateway Sent Heartbeat
+17/12/2019 22:44:14 at Gateway Received HeartbeatAck
+17/12/2019 22:44:14 at Gateway Latency = 31 ms
+17/12/2019 22:44:55 at Gateway Sent Heartbeat
+17/12/2019 22:44:55 at Gateway Received HeartbeatAck
+17/12/2019 22:44:55 at Gateway Latency = 31 ms
+17/12/2019 22:45:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:45:36 at Gateway Sent Heartbeat
+17/12/2019 22:45:36 at Gateway Received HeartbeatAck
+17/12/2019 22:45:36 at Gateway Latency = 32 ms
+17/12/2019 22:46:18 at Gateway Sent Heartbeat
+17/12/2019 22:46:18 at Gateway Received HeartbeatAck
+17/12/2019 22:46:18 at Gateway Latency = 47 ms
+17/12/2019 22:46:59 at Gateway Sent Heartbeat
+17/12/2019 22:46:59 at Gateway Received HeartbeatAck
+17/12/2019 22:46:59 at Gateway Latency = 31 ms
+17/12/2019 22:47:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:47:40 at Gateway Sent Heartbeat
+17/12/2019 22:47:40 at Gateway Received HeartbeatAck
+17/12/2019 22:47:40 at Gateway Latency = 32 ms
+17/12/2019 22:48:21 at Gateway Sent Heartbeat
+17/12/2019 22:48:21 at Gateway Received HeartbeatAck
+17/12/2019 22:48:21 at Gateway Latency = 47 ms
+17/12/2019 22:49:03 at Gateway Sent Heartbeat
+17/12/2019 22:49:03 at Gateway Received HeartbeatAck
+17/12/2019 22:49:03 at Gateway Latency = 46 ms
+17/12/2019 22:49:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:49:44 at Gateway Sent Heartbeat
+17/12/2019 22:49:44 at Gateway Received HeartbeatAck
+17/12/2019 22:49:44 at Gateway Latency = 31 ms
+17/12/2019 22:50:25 at Gateway Sent Heartbeat
+17/12/2019 22:50:25 at Gateway Received HeartbeatAck
+17/12/2019 22:50:25 at Gateway Latency = 47 ms
+17/12/2019 22:51:06 at Gateway Sent Heartbeat
+17/12/2019 22:51:06 at Gateway Received HeartbeatAck
+17/12/2019 22:51:06 at Gateway Latency = 32 ms
+17/12/2019 22:51:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:51:48 at Gateway Sent Heartbeat
+17/12/2019 22:51:48 at Gateway Received HeartbeatAck
+17/12/2019 22:51:48 at Gateway Latency = 31 ms
+17/12/2019 22:52:29 at Gateway Sent Heartbeat
+17/12/2019 22:52:29 at Gateway Received HeartbeatAck
+17/12/2019 22:52:29 at Gateway Latency = 31 ms
+17/12/2019 22:53:10 at Gateway Sent Heartbeat
+17/12/2019 22:53:10 at Gateway Received HeartbeatAck
+17/12/2019 22:53:10 at Gateway Latency = 47 ms
+17/12/2019 22:53:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:53:51 at Gateway Sent Heartbeat
+17/12/2019 22:53:51 at Gateway Received HeartbeatAck
+17/12/2019 22:53:51 at Gateway Latency = 31 ms
+17/12/2019 22:54:33 at Gateway Sent Heartbeat
+17/12/2019 22:54:33 at Gateway Received HeartbeatAck
+17/12/2019 22:54:33 at Gateway Latency = 31 ms
+17/12/2019 22:55:14 at Gateway Sent Heartbeat
+17/12/2019 22:55:14 at Gateway Received HeartbeatAck
+17/12/2019 22:55:14 at Gateway Latency = 47 ms
+17/12/2019 22:55:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:55:55 at Gateway Sent Heartbeat
+17/12/2019 22:55:55 at Gateway Received HeartbeatAck
+17/12/2019 22:55:55 at Gateway Latency = 31 ms
+17/12/2019 22:56:37 at Gateway Sent Heartbeat
+17/12/2019 22:56:37 at Gateway Received HeartbeatAck
+17/12/2019 22:56:37 at Gateway Latency = 32 ms
+17/12/2019 22:57:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:57:18 at Gateway Sent Heartbeat
+17/12/2019 22:57:18 at Gateway Received HeartbeatAck
+17/12/2019 22:57:18 at Gateway Latency = 47 ms
+17/12/2019 22:57:59 at Gateway Sent Heartbeat
+17/12/2019 22:57:59 at Gateway Received HeartbeatAck
+17/12/2019 22:57:59 at Gateway Latency = 31 ms
+17/12/2019 22:58:40 at Gateway Sent Heartbeat
+17/12/2019 22:58:40 at Gateway Received HeartbeatAck
+17/12/2019 22:58:40 at Gateway Latency = 32 ms
+17/12/2019 22:59:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 22:59:22 at Gateway Sent Heartbeat
+17/12/2019 22:59:22 at Gateway Received HeartbeatAck
+17/12/2019 22:59:22 at Gateway Latency = 31 ms
+17/12/2019 23:00:03 at Gateway Sent Heartbeat
+17/12/2019 23:00:03 at Gateway Received HeartbeatAck
+17/12/2019 23:00:03 at Gateway Latency = 46 ms
+17/12/2019 23:00:44 at Gateway Sent Heartbeat
+17/12/2019 23:00:44 at Gateway Received HeartbeatAck
+17/12/2019 23:00:44 at Gateway Latency = 31 ms
+17/12/2019 23:01:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:01:25 at Gateway Sent Heartbeat
+17/12/2019 23:01:25 at Gateway Received HeartbeatAck
+17/12/2019 23:01:25 at Gateway Latency = 31 ms
+17/12/2019 23:02:07 at Gateway Sent Heartbeat
+17/12/2019 23:02:07 at Gateway Received HeartbeatAck
+17/12/2019 23:02:07 at Gateway Latency = 32 ms
+17/12/2019 23:02:48 at Gateway Sent Heartbeat
+17/12/2019 23:02:48 at Gateway Received HeartbeatAck
+17/12/2019 23:02:48 at Gateway Latency = 31 ms
+17/12/2019 23:03:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:03:29 at Gateway Sent Heartbeat
+17/12/2019 23:03:29 at Gateway Received HeartbeatAck
+17/12/2019 23:03:29 at Gateway Latency = 31 ms
+17/12/2019 23:04:10 at Gateway Sent Heartbeat
+17/12/2019 23:04:10 at Gateway Received HeartbeatAck
+17/12/2019 23:04:10 at Gateway Latency = 32 ms
+17/12/2019 23:04:52 at Gateway Sent Heartbeat
+17/12/2019 23:04:52 at Gateway Received HeartbeatAck
+17/12/2019 23:04:52 at Gateway Latency = 47 ms
+17/12/2019 23:05:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:05:33 at Gateway Sent Heartbeat
+17/12/2019 23:05:33 at Gateway Received HeartbeatAck
+17/12/2019 23:05:33 at Gateway Latency = 31 ms
+17/12/2019 23:06:14 at Gateway Sent Heartbeat
+17/12/2019 23:06:14 at Gateway Received HeartbeatAck
+17/12/2019 23:06:14 at Gateway Latency = 47 ms
+17/12/2019 23:06:56 at Gateway Sent Heartbeat
+17/12/2019 23:06:56 at Gateway Received HeartbeatAck
+17/12/2019 23:06:56 at Gateway Latency = 31 ms
+17/12/2019 23:07:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:07:37 at Gateway Sent Heartbeat
+17/12/2019 23:07:37 at Gateway Received HeartbeatAck
+17/12/2019 23:07:37 at Gateway Latency = 32 ms
+17/12/2019 23:08:18 at Gateway Sent Heartbeat
+17/12/2019 23:08:18 at Gateway Received HeartbeatAck
+17/12/2019 23:08:18 at Gateway Latency = 31 ms
+17/12/2019 23:08:59 at Gateway Sent Heartbeat
+17/12/2019 23:08:59 at Gateway Received HeartbeatAck
+17/12/2019 23:08:59 at Gateway Latency = 31 ms
+17/12/2019 23:09:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:09:41 at Gateway Sent Heartbeat
+17/12/2019 23:09:41 at Gateway Received HeartbeatAck
+17/12/2019 23:09:41 at Gateway Latency = 32 ms
+17/12/2019 23:10:22 at Gateway Sent Heartbeat
+17/12/2019 23:10:22 at Gateway Received HeartbeatAck
+17/12/2019 23:10:22 at Gateway Latency = 31 ms
+17/12/2019 23:11:03 at Gateway Sent Heartbeat
+17/12/2019 23:11:03 at Gateway Received HeartbeatAck
+17/12/2019 23:11:03 at Gateway Latency = 47 ms
+17/12/2019 23:11:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:11:44 at Gateway Sent Heartbeat
+17/12/2019 23:11:44 at Gateway Received HeartbeatAck
+17/12/2019 23:11:44 at Gateway Latency = 31 ms
+17/12/2019 23:12:26 at Gateway Sent Heartbeat
+17/12/2019 23:12:26 at Gateway Received HeartbeatAck
+17/12/2019 23:12:26 at Gateway Latency = 31 ms
+17/12/2019 23:13:07 at Gateway Sent Heartbeat
+17/12/2019 23:13:07 at Gateway Received HeartbeatAck
+17/12/2019 23:13:07 at Gateway Latency = 32 ms
+17/12/2019 23:13:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:13:48 at Gateway Sent Heartbeat
+17/12/2019 23:13:48 at Gateway Received HeartbeatAck
+17/12/2019 23:13:48 at Gateway Latency = 31 ms
+17/12/2019 23:14:29 at Gateway Sent Heartbeat
+17/12/2019 23:14:29 at Gateway Received HeartbeatAck
+17/12/2019 23:14:29 at Gateway Latency = 31 ms
+17/12/2019 23:15:11 at Gateway Sent Heartbeat
+17/12/2019 23:15:11 at Gateway Received HeartbeatAck
+17/12/2019 23:15:11 at Gateway Latency = 32 ms
+17/12/2019 23:15:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:15:52 at Gateway Sent Heartbeat
+17/12/2019 23:15:52 at Gateway Received HeartbeatAck
+17/12/2019 23:15:52 at Gateway Latency = 31 ms
+17/12/2019 23:16:33 at Gateway Sent Heartbeat
+17/12/2019 23:16:33 at Gateway Received HeartbeatAck
+17/12/2019 23:16:33 at Gateway Latency = 31 ms
+17/12/2019 23:17:14 at Gateway Sent Heartbeat
+17/12/2019 23:17:15 at Gateway Received HeartbeatAck
+17/12/2019 23:17:15 at Gateway Latency = 31 ms
+17/12/2019 23:17:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:17:56 at Gateway Sent Heartbeat
+17/12/2019 23:17:56 at Gateway Received HeartbeatAck
+17/12/2019 23:17:56 at Gateway Latency = 31 ms
+17/12/2019 23:18:37 at Gateway Sent Heartbeat
+17/12/2019 23:18:37 at Gateway Received HeartbeatAck
+17/12/2019 23:18:37 at Gateway Latency = 32 ms
+17/12/2019 23:19:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:19:18 at Gateway Sent Heartbeat
+17/12/2019 23:19:18 at Gateway Received HeartbeatAck
+17/12/2019 23:19:18 at Gateway Latency = 47 ms
+17/12/2019 23:20:00 at Gateway Sent Heartbeat
+17/12/2019 23:20:00 at Gateway Received HeartbeatAck
+17/12/2019 23:20:00 at Gateway Latency = 47 ms
+17/12/2019 23:20:41 at Gateway Sent Heartbeat
+17/12/2019 23:20:41 at Gateway Received HeartbeatAck
+17/12/2019 23:20:41 at Gateway Latency = 32 ms
+17/12/2019 23:21:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:21:22 at Gateway Sent Heartbeat
+17/12/2019 23:21:22 at Gateway Received HeartbeatAck
+17/12/2019 23:21:22 at Gateway Latency = 31 ms
+17/12/2019 23:22:03 at Gateway Sent Heartbeat
+17/12/2019 23:22:03 at Gateway Received HeartbeatAck
+17/12/2019 23:22:03 at Gateway Latency = 31 ms
+17/12/2019 23:22:45 at Gateway Sent Heartbeat
+17/12/2019 23:22:45 at Gateway Received HeartbeatAck
+17/12/2019 23:22:45 at Gateway Latency = 31 ms
+17/12/2019 23:23:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:23:26 at Gateway Sent Heartbeat
+17/12/2019 23:23:26 at Gateway Received HeartbeatAck
+17/12/2019 23:23:26 at Gateway Latency = 47 ms
+17/12/2019 23:24:07 at Gateway Sent Heartbeat
+17/12/2019 23:24:07 at Gateway Received HeartbeatAck
+17/12/2019 23:24:07 at Gateway Latency = 313 ms
+17/12/2019 23:24:48 at Gateway Sent Heartbeat
+17/12/2019 23:24:48 at Gateway Received HeartbeatAck
+17/12/2019 23:24:48 at Gateway Latency = 47 ms
+17/12/2019 23:25:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:25:30 at Gateway Sent Heartbeat
+17/12/2019 23:25:30 at Gateway Received HeartbeatAck
+17/12/2019 23:25:30 at Gateway Latency = 32 ms
+17/12/2019 23:26:11 at Gateway Sent Heartbeat
+17/12/2019 23:26:11 at Gateway Received HeartbeatAck
+17/12/2019 23:26:11 at Gateway Latency = 47 ms
+17/12/2019 23:26:52 at Gateway Sent Heartbeat
+17/12/2019 23:26:52 at Gateway Received HeartbeatAck
+17/12/2019 23:26:52 at Gateway Latency = 46 ms
+17/12/2019 23:27:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:27:34 at Gateway Sent Heartbeat
+17/12/2019 23:27:34 at Gateway Received HeartbeatAck
+17/12/2019 23:27:34 at Gateway Latency = 31 ms
+17/12/2019 23:28:15 at Gateway Sent Heartbeat
+17/12/2019 23:28:15 at Gateway Received HeartbeatAck
+17/12/2019 23:28:15 at Gateway Latency = 32 ms
+17/12/2019 23:28:56 at Gateway Sent Heartbeat
+17/12/2019 23:28:56 at Gateway Received HeartbeatAck
+17/12/2019 23:28:56 at Gateway Latency = 94 ms
+17/12/2019 23:29:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:29:37 at Gateway Sent Heartbeat
+17/12/2019 23:29:37 at Gateway Received HeartbeatAck
+17/12/2019 23:29:37 at Gateway Latency = 31 ms
+17/12/2019 23:30:19 at Gateway Sent Heartbeat
+17/12/2019 23:30:19 at Gateway Received HeartbeatAck
+17/12/2019 23:30:19 at Gateway Latency = 32 ms
+17/12/2019 23:31:00 at Gateway Sent Heartbeat
+17/12/2019 23:31:00 at Gateway Received HeartbeatAck
+17/12/2019 23:31:00 at Gateway Latency = 47 ms
+17/12/2019 23:31:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:31:41 at Gateway Sent Heartbeat
+17/12/2019 23:31:41 at Gateway Received HeartbeatAck
+17/12/2019 23:31:41 at Gateway Latency = 31 ms
+17/12/2019 23:32:22 at Gateway Sent Heartbeat
+17/12/2019 23:32:22 at Gateway Received HeartbeatAck
+17/12/2019 23:32:22 at Gateway Latency = 31 ms
+17/12/2019 23:33:04 at Gateway Sent Heartbeat
+17/12/2019 23:33:04 at Gateway Received HeartbeatAck
+17/12/2019 23:33:04 at Gateway Latency = 47 ms
+17/12/2019 23:33:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:33:45 at Gateway Sent Heartbeat
+17/12/2019 23:33:45 at Gateway Received HeartbeatAck
+17/12/2019 23:33:45 at Gateway Latency = 32 ms
+17/12/2019 23:34:26 at Gateway Sent Heartbeat
+17/12/2019 23:34:26 at Gateway Received HeartbeatAck
+17/12/2019 23:34:26 at Gateway Latency = 31 ms
+17/12/2019 23:35:07 at Gateway Sent Heartbeat
+17/12/2019 23:35:07 at Gateway Received HeartbeatAck
+17/12/2019 23:35:07 at Gateway Latency = 47 ms
+17/12/2019 23:35:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:35:49 at Gateway Sent Heartbeat
+17/12/2019 23:35:49 at Gateway Received HeartbeatAck
+17/12/2019 23:35:49 at Gateway Latency = 32 ms
+17/12/2019 23:36:30 at Gateway Sent Heartbeat
+17/12/2019 23:36:30 at Gateway Received HeartbeatAck
+17/12/2019 23:36:30 at Gateway Latency = 47 ms
+17/12/2019 23:37:11 at Gateway Sent Heartbeat
+17/12/2019 23:37:11 at Gateway Received HeartbeatAck
+17/12/2019 23:37:11 at Gateway Latency = 31 ms
+17/12/2019 23:37:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:37:52 at Gateway Sent Heartbeat
+17/12/2019 23:37:53 at Gateway Received HeartbeatAck
+17/12/2019 23:37:53 at Gateway Latency = 47 ms
+17/12/2019 23:37:58 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:38:34 at Gateway Sent Heartbeat
+17/12/2019 23:38:34 at Gateway Received HeartbeatAck
+17/12/2019 23:38:34 at Gateway Latency = 31 ms
+17/12/2019 23:39:09 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:39:15 at Gateway Sent Heartbeat
+17/12/2019 23:39:15 at Gateway Received HeartbeatAck
+17/12/2019 23:39:15 at Gateway Latency = 47 ms
+17/12/2019 23:39:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:39:56 at Gateway Sent Heartbeat
+17/12/2019 23:39:56 at Gateway Received HeartbeatAck
+17/12/2019 23:39:56 at Gateway Latency = 31 ms
+17/12/2019 23:40:38 at Gateway Sent Heartbeat
+17/12/2019 23:40:38 at Gateway Received HeartbeatAck
+17/12/2019 23:40:38 at Gateway Latency = 31 ms
+17/12/2019 23:41:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:41:19 at Gateway Sent Heartbeat
+17/12/2019 23:41:19 at Gateway Received HeartbeatAck
+17/12/2019 23:41:19 at Gateway Latency = 31 ms
+17/12/2019 23:42:00 at Gateway Sent Heartbeat
+17/12/2019 23:42:00 at Gateway Received HeartbeatAck
+17/12/2019 23:42:00 at Gateway Latency = 31 ms
+17/12/2019 23:42:41 at Gateway Sent Heartbeat
+17/12/2019 23:42:41 at Gateway Received HeartbeatAck
+17/12/2019 23:42:41 at Gateway Latency = 31 ms
+17/12/2019 23:43:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:43:23 at Gateway Sent Heartbeat
+17/12/2019 23:43:23 at Gateway Received HeartbeatAck
+17/12/2019 23:43:23 at Gateway Latency = 31 ms
+17/12/2019 23:44:04 at Gateway Sent Heartbeat
+17/12/2019 23:44:04 at Gateway Received HeartbeatAck
+17/12/2019 23:44:04 at Gateway Latency = 32 ms
+17/12/2019 23:44:45 at Gateway Sent Heartbeat
+17/12/2019 23:44:45 at Gateway Received HeartbeatAck
+17/12/2019 23:44:45 at Gateway Latency = 31 ms
+17/12/2019 23:45:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:45:26 at Gateway Sent Heartbeat
+17/12/2019 23:45:26 at Gateway Received HeartbeatAck
+17/12/2019 23:45:26 at Gateway Latency = 31 ms
+17/12/2019 23:46:08 at Gateway Sent Heartbeat
+17/12/2019 23:46:08 at Gateway Received HeartbeatAck
+17/12/2019 23:46:08 at Gateway Latency = 32 ms
+17/12/2019 23:46:49 at Gateway Sent Heartbeat
+17/12/2019 23:46:49 at Gateway Received HeartbeatAck
+17/12/2019 23:46:49 at Gateway Latency = 62 ms
+17/12/2019 23:47:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:47:30 at Gateway Sent Heartbeat
+17/12/2019 23:47:30 at Gateway Received HeartbeatAck
+17/12/2019 23:47:30 at Gateway Latency = 46 ms
+17/12/2019 23:48:11 at Gateway Sent Heartbeat
+17/12/2019 23:48:12 at Gateway Received HeartbeatAck
+17/12/2019 23:48:12 at Gateway Latency = 31 ms
+17/12/2019 23:48:53 at Gateway Sent Heartbeat
+17/12/2019 23:48:53 at Gateway Received HeartbeatAck
+17/12/2019 23:48:53 at Gateway Latency = 31 ms
+17/12/2019 23:49:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:49:34 at Gateway Sent Heartbeat
+17/12/2019 23:49:34 at Gateway Received HeartbeatAck
+17/12/2019 23:49:34 at Gateway Latency = 31 ms
+17/12/2019 23:50:15 at Gateway Sent Heartbeat
+17/12/2019 23:50:15 at Gateway Received HeartbeatAck
+17/12/2019 23:50:15 at Gateway Latency = 31 ms
+17/12/2019 23:50:57 at Gateway Sent Heartbeat
+17/12/2019 23:50:57 at Gateway Received HeartbeatAck
+17/12/2019 23:50:57 at Gateway Latency = 32 ms
+17/12/2019 23:51:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:51:38 at Gateway Sent Heartbeat
+17/12/2019 23:51:38 at Gateway Received HeartbeatAck
+17/12/2019 23:51:38 at Gateway Latency = 31 ms
+17/12/2019 23:52:19 at Gateway Sent Heartbeat
+17/12/2019 23:52:19 at Gateway Received HeartbeatAck
+17/12/2019 23:52:19 at Gateway Latency = 31 ms
+17/12/2019 23:52:50 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:53:00 at Gateway Sent Heartbeat
+17/12/2019 23:53:00 at Gateway Received HeartbeatAck
+17/12/2019 23:53:00 at Gateway Latency = 31 ms
+17/12/2019 23:53:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:53:42 at Gateway Sent Heartbeat
+17/12/2019 23:53:42 at Gateway Received HeartbeatAck
+17/12/2019 23:53:42 at Gateway Latency = 47 ms
+17/12/2019 23:54:23 at Gateway Sent Heartbeat
+17/12/2019 23:54:23 at Gateway Received HeartbeatAck
+17/12/2019 23:54:23 at Gateway Latency = 47 ms
+17/12/2019 23:55:04 at Gateway Sent Heartbeat
+17/12/2019 23:55:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:55:46 at Gateway Sent Heartbeat
+17/12/2019 23:55:46 at Gateway Received HeartbeatAck
+17/12/2019 23:55:46 at Gateway Latency = 31 ms
+17/12/2019 23:56:27 at Gateway Sent Heartbeat
+17/12/2019 23:56:27 at Gateway Received HeartbeatAck
+17/12/2019 23:56:27 at Gateway Latency = 62 ms
+17/12/2019 23:57:08 at Gateway Sent Heartbeat
+17/12/2019 23:57:08 at Gateway Received HeartbeatAck
+17/12/2019 23:57:08 at Gateway Latency = 46 ms
+17/12/2019 23:57:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:57:49 at Gateway Sent Heartbeat
+17/12/2019 23:57:49 at Gateway Received HeartbeatAck
+17/12/2019 23:57:50 at Gateway Latency = 297 ms
+17/12/2019 23:58:31 at Gateway Sent Heartbeat
+17/12/2019 23:58:31 at Gateway Received HeartbeatAck
+17/12/2019 23:58:31 at Gateway Latency = 47 ms
+17/12/2019 23:59:12 at Gateway Sent Heartbeat
+17/12/2019 23:59:12 at Gateway Received HeartbeatAck
+17/12/2019 23:59:12 at Gateway Latency = 31 ms
+17/12/2019 23:59:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:59:49 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:59:51 at Gateway Received Dispatch (PRESENCE_UPDATE)
+17/12/2019 23:59:53 at Gateway Sent Heartbeat
+17/12/2019 23:59:53 at Gateway Received HeartbeatAck
+17/12/2019 23:59:53 at Gateway Latency = 172 ms
+18/12/2019 00:00:34 at Gateway Sent Heartbeat
+18/12/2019 00:00:34 at Gateway Received HeartbeatAck
+18/12/2019 00:00:35 at Gateway Latency = 47 ms
+18/12/2019 00:01:16 at Gateway Sent Heartbeat
+18/12/2019 00:01:16 at Gateway Received HeartbeatAck
+18/12/2019 00:01:16 at Gateway Latency = 31 ms
+18/12/2019 00:01:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:01:57 at Gateway Sent Heartbeat
+18/12/2019 00:01:57 at Gateway Received HeartbeatAck
+18/12/2019 00:01:57 at Gateway Latency = 31 ms
+18/12/2019 00:02:30 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:02:38 at Gateway Sent Heartbeat
+18/12/2019 00:02:38 at Gateway Received HeartbeatAck
+18/12/2019 00:02:38 at Gateway Latency = 31 ms
+18/12/2019 00:03:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:03:20 at Gateway Sent Heartbeat
+18/12/2019 00:03:20 at Gateway Received HeartbeatAck
+18/12/2019 00:03:20 at Gateway Latency = 32 ms
+18/12/2019 00:04:01 at Gateway Sent Heartbeat
+18/12/2019 00:04:01 at Gateway Received HeartbeatAck
+18/12/2019 00:04:01 at Gateway Latency = 31 ms
+18/12/2019 00:04:42 at Gateway Sent Heartbeat
+18/12/2019 00:04:42 at Gateway Received HeartbeatAck
+18/12/2019 00:04:42 at Gateway Latency = 47 ms
+18/12/2019 00:04:51 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:05:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:05:23 at Gateway Sent Heartbeat
+18/12/2019 00:05:23 at Gateway Received HeartbeatAck
+18/12/2019 00:05:23 at Gateway Latency = 32 ms
+18/12/2019 00:06:05 at Gateway Sent Heartbeat
+18/12/2019 00:06:46 at Gateway Sent Heartbeat
+18/12/2019 00:06:46 at Gateway Received HeartbeatAck
+18/12/2019 00:06:46 at Gateway Latency = 31 ms
+18/12/2019 00:07:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:07:27 at Gateway Sent Heartbeat
+18/12/2019 00:07:27 at Gateway Received HeartbeatAck
+18/12/2019 00:07:27 at Gateway Latency = 32 ms
+18/12/2019 00:08:08 at Gateway Sent Heartbeat
+18/12/2019 00:08:09 at Gateway Received HeartbeatAck
+18/12/2019 00:08:09 at Gateway Latency = 47 ms
+18/12/2019 00:08:28 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:08:50 at Gateway Sent Heartbeat
+18/12/2019 00:08:50 at Gateway Received HeartbeatAck
+18/12/2019 00:08:50 at Gateway Latency = 31 ms
+18/12/2019 00:09:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:09:31 at Gateway Sent Heartbeat
+18/12/2019 00:09:31 at Gateway Received HeartbeatAck
+18/12/2019 00:09:31 at Gateway Latency = 32 ms
+18/12/2019 00:10:05 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:10:12 at Gateway Sent Heartbeat
+18/12/2019 00:10:12 at Gateway Received HeartbeatAck
+18/12/2019 00:10:12 at Gateway Latency = 32 ms
+18/12/2019 00:10:54 at Gateway Sent Heartbeat
+18/12/2019 00:10:54 at Gateway Received HeartbeatAck
+18/12/2019 00:10:54 at Gateway Latency = 63 ms
+18/12/2019 00:11:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:11:35 at Gateway Sent Heartbeat
+18/12/2019 00:11:35 at Gateway Received HeartbeatAck
+18/12/2019 00:11:35 at Gateway Latency = 47 ms
+18/12/2019 00:12:05 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:12:16 at Gateway Sent Heartbeat
+18/12/2019 00:12:16 at Gateway Received HeartbeatAck
+18/12/2019 00:12:16 at Gateway Latency = 47 ms
+18/12/2019 00:12:57 at Gateway Sent Heartbeat
+18/12/2019 00:12:57 at Gateway Received HeartbeatAck
+18/12/2019 00:12:57 at Gateway Latency = 47 ms
+18/12/2019 00:13:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:13:39 at Gateway Sent Heartbeat
+18/12/2019 00:13:39 at Gateway Received HeartbeatAck
+18/12/2019 00:13:39 at Gateway Latency = 47 ms
+18/12/2019 00:14:20 at Gateway Sent Heartbeat
+18/12/2019 00:15:03 at Gateway Sent Heartbeat
+18/12/2019 00:15:03 at Gateway Received HeartbeatAck
+18/12/2019 00:15:03 at Gateway Latency = 47 ms
+18/12/2019 00:15:06 at Gateway A LatencyUpdated handler is blocking the gateway task.
+18/12/2019 00:15:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:15:44 at Gateway Sent Heartbeat
+18/12/2019 00:15:44 at Gateway Received HeartbeatAck
+18/12/2019 00:15:44 at Gateway Latency = 297 ms
+18/12/2019 00:16:29 at Gateway Sent Heartbeat
+18/12/2019 00:17:10 at Gateway Sent Heartbeat
+18/12/2019 00:17:10 at Gateway Received HeartbeatAck
+18/12/2019 00:17:10 at Gateway Latency = 47 ms
+18/12/2019 00:17:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:17:52 at Gateway Sent Heartbeat
+18/12/2019 00:18:36 at Gateway Sent Heartbeat
+18/12/2019 00:19:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:19:20 at Gateway Sent Heartbeat
+18/12/2019 00:20:06 at Gateway Sent Heartbeat
+18/12/2019 00:20:23 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:20:49 at Gateway Sent Heartbeat
+18/12/2019 00:21:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:21:33 at Gateway Sent Heartbeat
+18/12/2019 00:22:14 at Gateway Sent Heartbeat
+18/12/2019 00:22:14 at Gateway Received HeartbeatAck
+18/12/2019 00:22:14 at Gateway Latency = 31 ms
+18/12/2019 00:22:56 at Gateway Sent Heartbeat
+18/12/2019 00:23:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:23:37 at Gateway Sent Heartbeat
+18/12/2019 00:24:19 at Gateway Sent Heartbeat
+18/12/2019 00:25:01 at Gateway Received HeartbeatAck
+18/12/2019 00:25:01 at Gateway Latency = 172 ms
+18/12/2019 00:25:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:25:44 at Gateway Sent Heartbeat
+18/12/2019 00:26:26 at Gateway Sent Heartbeat
+18/12/2019 00:27:08 at Gateway Sent Heartbeat
+18/12/2019 00:27:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:27:49 at Gateway Sent Heartbeat
+18/12/2019 00:27:50 at Gateway Received HeartbeatAck
+18/12/2019 00:27:50 at Gateway Latency = 203 ms
+18/12/2019 00:27:54 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:28:31 at Gateway Sent Heartbeat
+18/12/2019 00:28:31 at Gateway Received HeartbeatAck
+18/12/2019 00:28:31 at Gateway Latency = 46 ms
+18/12/2019 00:29:12 at Gateway Sent Heartbeat
+18/12/2019 00:29:12 at Gateway Received HeartbeatAck
+18/12/2019 00:29:12 at Gateway Latency = 46 ms
+18/12/2019 00:29:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:29:46 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:29:54 at Gateway Sent Heartbeat
+18/12/2019 00:29:54 at Gateway Received HeartbeatAck
+18/12/2019 00:29:54 at Gateway Latency = 31 ms
+18/12/2019 00:30:35 at Gateway Sent Heartbeat
+18/12/2019 00:30:35 at Gateway Received HeartbeatAck
+18/12/2019 00:30:35 at Gateway Latency = 31 ms
+18/12/2019 00:31:16 at Gateway Sent Heartbeat
+18/12/2019 00:31:16 at Gateway Received HeartbeatAck
+18/12/2019 00:31:16 at Gateway Latency = 47 ms
+18/12/2019 00:31:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:31:57 at Gateway Sent Heartbeat
+18/12/2019 00:31:57 at Gateway Received HeartbeatAck
+18/12/2019 00:31:57 at Gateway Latency = 31 ms
+18/12/2019 00:32:39 at Gateway Sent Heartbeat
+18/12/2019 00:32:39 at Gateway Received HeartbeatAck
+18/12/2019 00:32:39 at Gateway Latency = 46 ms
+18/12/2019 00:33:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:33:22 at Gateway Received HeartbeatAck
+18/12/2019 00:33:23 at Gateway Latency = 1031 ms
+18/12/2019 00:34:03 at Gateway Sent Heartbeat
+18/12/2019 00:34:44 at Gateway Sent Heartbeat
+18/12/2019 00:34:45 at Gateway Received HeartbeatAck
+18/12/2019 00:34:45 at Gateway Latency = 31 ms
+18/12/2019 00:35:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:35:26 at Gateway Sent Heartbeat
+18/12/2019 00:35:26 at Gateway Received HeartbeatAck
+18/12/2019 00:35:26 at Gateway Latency = 359 ms
+18/12/2019 00:36:07 at Gateway Sent Heartbeat
+18/12/2019 00:36:07 at Gateway Received HeartbeatAck
+18/12/2019 00:36:07 at Gateway Latency = 32 ms
+18/12/2019 00:36:49 at Gateway Sent Heartbeat
+18/12/2019 00:36:49 at Gateway Received HeartbeatAck
+18/12/2019 00:36:49 at Gateway Latency = 31 ms
+18/12/2019 00:37:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:37:30 at Gateway Sent Heartbeat
+18/12/2019 00:37:30 at Gateway Received HeartbeatAck
+18/12/2019 00:37:30 at Gateway Latency = 32 ms
+18/12/2019 00:37:58 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:38:11 at Gateway Sent Heartbeat
+18/12/2019 00:38:11 at Gateway Received HeartbeatAck
+18/12/2019 00:38:11 at Gateway Latency = 31 ms
+18/12/2019 00:38:12 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:38:56 at Gateway Sent Heartbeat
+18/12/2019 00:39:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:39:37 at Gateway Sent Heartbeat
+18/12/2019 00:39:37 at Gateway Received HeartbeatAck
+18/12/2019 00:39:37 at Gateway Latency = 47 ms
+18/12/2019 00:40:18 at Gateway Sent Heartbeat
+18/12/2019 00:40:18 at Gateway Received HeartbeatAck
+18/12/2019 00:40:18 at Gateway Latency = 32 ms
+18/12/2019 00:41:00 at Gateway Sent Heartbeat
+18/12/2019 00:41:00 at Gateway Received HeartbeatAck
+18/12/2019 00:41:00 at Gateway Latency = 31 ms
+18/12/2019 00:41:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:41:42 at Gateway Sent Heartbeat
+18/12/2019 00:42:23 at Gateway Sent Heartbeat
+18/12/2019 00:43:05 at Gateway Sent Heartbeat
+18/12/2019 00:43:05 at Gateway Received HeartbeatAck
+18/12/2019 00:43:05 at Gateway Latency = 62 ms
+18/12/2019 00:43:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:43:48 at Gateway Sent Heartbeat
+18/12/2019 00:44:29 at Gateway Sent Heartbeat
+18/12/2019 00:44:56 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:45:11 at Gateway Sent Heartbeat
+18/12/2019 00:45:11 at Gateway Received HeartbeatAck
+18/12/2019 00:45:11 at Gateway Latency = 594 ms
+18/12/2019 00:45:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:45:52 at Gateway Sent Heartbeat
+18/12/2019 00:45:52 at Gateway Received HeartbeatAck
+18/12/2019 00:45:52 at Gateway Latency = 32 ms
+18/12/2019 00:46:33 at Gateway Sent Heartbeat
+18/12/2019 00:46:33 at Gateway Received HeartbeatAck
+18/12/2019 00:46:34 at Gateway Latency = 313 ms
+18/12/2019 00:46:57 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:47:15 at Gateway Sent Heartbeat
+18/12/2019 00:47:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:47:58 at Gateway Sent Heartbeat
+18/12/2019 00:48:41 at Gateway Sent Heartbeat
+18/12/2019 00:49:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:49:24 at Gateway Sent Heartbeat
+18/12/2019 00:49:24 at Gateway Received HeartbeatAck
+18/12/2019 00:49:24 at Gateway Latency = 32 ms
+18/12/2019 00:49:59 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:50:06 at Gateway Sent Heartbeat
+18/12/2019 00:50:47 at Gateway Sent Heartbeat
+18/12/2019 00:50:47 at Gateway Received HeartbeatAck
+18/12/2019 00:50:47 at Gateway Latency = 219 ms
+18/12/2019 00:50:57 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:51:19 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:51:29 at Gateway Sent Heartbeat
+18/12/2019 00:51:59 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:52:13 at Gateway Sent Heartbeat
+18/12/2019 00:52:54 at Gateway Sent Heartbeat
+18/12/2019 00:53:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:53:35 at Gateway Sent Heartbeat
+18/12/2019 00:53:36 at Gateway Received HeartbeatAck
+18/12/2019 00:53:36 at Gateway Latency = 47 ms
+18/12/2019 00:54:18 at Gateway Sent Heartbeat
+18/12/2019 00:55:00 at Gateway Sent Heartbeat
+18/12/2019 00:55:00 at Gateway Received HeartbeatAck
+18/12/2019 00:55:00 at Gateway Latency = 31 ms
+18/12/2019 00:55:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:55:41 at Gateway Sent Heartbeat
+18/12/2019 00:55:42 at Gateway Received HeartbeatAck
+18/12/2019 00:55:42 at Gateway Latency = 234 ms
+18/12/2019 00:56:25 at Gateway Sent Heartbeat
+18/12/2019 00:57:07 at Gateway Sent Heartbeat
+18/12/2019 00:57:07 at Gateway Received HeartbeatAck
+18/12/2019 00:57:07 at Gateway Latency = 203 ms
+18/12/2019 00:57:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:57:49 at Gateway Sent Heartbeat
+18/12/2019 00:57:49 at Gateway Received HeartbeatAck
+18/12/2019 00:57:49 at Gateway Latency = 47 ms
+18/12/2019 00:57:54 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:58:30 at Gateway Sent Heartbeat
+18/12/2019 00:59:11 at Gateway Sent Heartbeat
+18/12/2019 00:59:11 at Gateway Received HeartbeatAck
+18/12/2019 00:59:11 at Gateway Latency = 31 ms
+18/12/2019 00:59:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 00:59:54 at Gateway Sent Heartbeat
+18/12/2019 01:00:35 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:00:36 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:00:36 at Gateway Sent Heartbeat
+18/12/2019 01:00:36 at Gateway Received HeartbeatAck
+18/12/2019 01:00:36 at Gateway Latency = 141 ms
+18/12/2019 01:01:18 at Gateway Sent Heartbeat
+18/12/2019 01:01:59 at Gateway Sent Heartbeat
+18/12/2019 01:02:41 at Gateway Sent Heartbeat
+18/12/2019 01:03:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:03:24 at Gateway Sent Heartbeat
+18/12/2019 01:04:09 at Gateway Sent Heartbeat
+18/12/2019 01:04:09 at Gateway Received HeartbeatAck
+18/12/2019 01:04:09 at Gateway Latency = 78 ms
+18/12/2019 01:04:51 at Gateway Sent Heartbeat
+18/12/2019 01:05:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:05:33 at Gateway Sent Heartbeat
+18/12/2019 01:06:16 at Gateway Sent Heartbeat
+18/12/2019 01:07:00 at Gateway Sent Heartbeat
+18/12/2019 01:07:00 at Gateway Received HeartbeatAck
+18/12/2019 01:07:00 at Gateway Latency = 32 ms
+18/12/2019 01:07:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:07:42 at Gateway Sent Heartbeat
+18/12/2019 01:08:13 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:08:25 at Gateway Sent Heartbeat
+18/12/2019 01:09:09 at Gateway Received HeartbeatAck
+18/12/2019 01:09:14 at Gateway Latency = 4093 ms
+18/12/2019 01:09:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:09:49 at Gateway Sent Heartbeat
+18/12/2019 01:10:31 at Gateway Sent Heartbeat
+18/12/2019 01:10:31 at Gateway Received HeartbeatAck
+18/12/2019 01:10:32 at Gateway Latency = 219 ms
+18/12/2019 01:10:53 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:11:13 at Gateway Sent Heartbeat
+18/12/2019 01:11:13 at Gateway Received HeartbeatAck
+18/12/2019 01:11:13 at Gateway Latency = 484 ms
+18/12/2019 01:11:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:11:54 at Gateway Sent Heartbeat
+18/12/2019 01:11:54 at Gateway Received HeartbeatAck
+18/12/2019 01:11:54 at Gateway Latency = 31 ms
+18/12/2019 01:12:35 at Gateway Sent Heartbeat
+18/12/2019 01:12:35 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:13:17 at Gateway Sent Heartbeat
+18/12/2019 01:13:17 at Gateway Received HeartbeatAck
+18/12/2019 01:13:17 at Gateway Latency = 297 ms
+18/12/2019 01:13:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:13:59 at Gateway Sent Heartbeat
+18/12/2019 01:14:12 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:14:41 at Gateway Sent Heartbeat
+18/12/2019 01:15:19 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:15:23 at Gateway Sent Heartbeat
+18/12/2019 01:16:05 at Gateway Sent Heartbeat
+18/12/2019 01:16:48 at Gateway Sent Heartbeat
+18/12/2019 01:17:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:17:31 at Gateway Sent Heartbeat
+18/12/2019 01:18:14 at Gateway Sent Heartbeat
+18/12/2019 01:18:55 at Gateway Sent Heartbeat
+18/12/2019 01:19:12 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:19:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:19:37 at Gateway Sent Heartbeat
+18/12/2019 01:19:37 at Gateway Received HeartbeatAck
+18/12/2019 01:19:37 at Gateway Latency = 47 ms
+18/12/2019 01:20:19 at Gateway Received HeartbeatAck
+18/12/2019 01:20:20 at Gateway Latency = 1594 ms
+18/12/2019 01:21:01 at Gateway Sent Heartbeat
+18/12/2019 01:21:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:21:23 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:21:44 at Gateway Sent Heartbeat
+18/12/2019 01:21:45 at Gateway Received HeartbeatAck
+18/12/2019 01:21:45 at Gateway Latency = 766 ms
+18/12/2019 01:22:26 at Gateway Sent Heartbeat
+18/12/2019 01:23:15 at Gateway Sent Heartbeat
+18/12/2019 01:23:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:23:56 at Gateway Sent Heartbeat
+18/12/2019 01:23:56 at Gateway Received HeartbeatAck
+18/12/2019 01:23:57 at Gateway Latency = 109 ms
+18/12/2019 01:24:39 at Gateway Sent Heartbeat
+18/12/2019 01:25:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:25:21 at Gateway Sent Heartbeat
+18/12/2019 01:25:21 at Gateway Received HeartbeatAck
+18/12/2019 01:25:21 at Gateway Latency = 31 ms
+18/12/2019 01:26:02 at Gateway Sent Heartbeat
+18/12/2019 01:26:02 at Gateway Received HeartbeatAck
+18/12/2019 01:26:02 at Gateway Latency = 47 ms
+18/12/2019 01:26:43 at Gateway Sent Heartbeat
+18/12/2019 01:26:43 at Gateway Received HeartbeatAck
+18/12/2019 01:26:43 at Gateway Latency = 31 ms
+18/12/2019 01:27:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:27:24 at Gateway Sent Heartbeat
+18/12/2019 01:27:24 at Gateway Received HeartbeatAck
+18/12/2019 01:27:24 at Gateway Latency = 31 ms
+18/12/2019 01:28:06 at Gateway Sent Heartbeat
+18/12/2019 01:28:06 at Gateway Received HeartbeatAck
+18/12/2019 01:28:06 at Gateway Latency = 47 ms
+18/12/2019 01:28:47 at Gateway Sent Heartbeat
+18/12/2019 01:28:47 at Gateway Received HeartbeatAck
+18/12/2019 01:28:47 at Gateway Latency = 47 ms
+18/12/2019 01:29:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:29:28 at Gateway Sent Heartbeat
+18/12/2019 01:29:28 at Gateway Received HeartbeatAck
+18/12/2019 01:29:28 at Gateway Latency = 47 ms
+18/12/2019 01:30:09 at Gateway Sent Heartbeat
+18/12/2019 01:30:09 at Gateway Received HeartbeatAck
+18/12/2019 01:30:09 at Gateway Latency = 47 ms
+18/12/2019 01:30:51 at Gateway Sent Heartbeat
+18/12/2019 01:30:51 at Gateway Received HeartbeatAck
+18/12/2019 01:30:51 at Gateway Latency = 32 ms
+18/12/2019 01:31:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:31:32 at Gateway Sent Heartbeat
+18/12/2019 01:31:32 at Gateway Received HeartbeatAck
+18/12/2019 01:31:32 at Gateway Latency = 31 ms
+18/12/2019 01:32:13 at Gateway Sent Heartbeat
+18/12/2019 01:32:13 at Gateway Received HeartbeatAck
+18/12/2019 01:32:13 at Gateway Latency = 47 ms
+18/12/2019 01:32:54 at Gateway Sent Heartbeat
+18/12/2019 01:32:55 at Gateway Received HeartbeatAck
+18/12/2019 01:32:55 at Gateway Latency = 31 ms
+18/12/2019 01:33:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:33:36 at Gateway Sent Heartbeat
+18/12/2019 01:33:36 at Gateway Received HeartbeatAck
+18/12/2019 01:33:36 at Gateway Latency = 31 ms
+18/12/2019 01:34:17 at Gateway Sent Heartbeat
+18/12/2019 01:34:17 at Gateway Received HeartbeatAck
+18/12/2019 01:34:17 at Gateway Latency = 47 ms
+18/12/2019 01:34:58 at Gateway Sent Heartbeat
+18/12/2019 01:34:58 at Gateway Received HeartbeatAck
+18/12/2019 01:34:58 at Gateway Latency = 31 ms
+18/12/2019 01:35:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:35:40 at Gateway Sent Heartbeat
+18/12/2019 01:35:40 at Gateway Received HeartbeatAck
+18/12/2019 01:35:40 at Gateway Latency = 31 ms
+18/12/2019 01:36:21 at Gateway Sent Heartbeat
+18/12/2019 01:36:21 at Gateway Received HeartbeatAck
+18/12/2019 01:36:21 at Gateway Latency = 47 ms
+18/12/2019 01:36:25 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:36:32 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:37:02 at Gateway Sent Heartbeat
+18/12/2019 01:37:02 at Gateway Received HeartbeatAck
+18/12/2019 01:37:02 at Gateway Latency = 47 ms
+18/12/2019 01:37:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:37:43 at Gateway Sent Heartbeat
+18/12/2019 01:37:43 at Gateway Received HeartbeatAck
+18/12/2019 01:37:43 at Gateway Latency = 31 ms
+18/12/2019 01:37:58 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:38:25 at Gateway Sent Heartbeat
+18/12/2019 01:38:25 at Gateway Received HeartbeatAck
+18/12/2019 01:38:25 at Gateway Latency = 31 ms
+18/12/2019 01:39:06 at Gateway Sent Heartbeat
+18/12/2019 01:39:06 at Gateway Received HeartbeatAck
+18/12/2019 01:39:06 at Gateway Latency = 32 ms
+18/12/2019 01:39:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:39:47 at Gateway Sent Heartbeat
+18/12/2019 01:39:47 at Gateway Received HeartbeatAck
+18/12/2019 01:39:47 at Gateway Latency = 47 ms
+18/12/2019 01:40:28 at Gateway Sent Heartbeat
+18/12/2019 01:40:28 at Gateway Received HeartbeatAck
+18/12/2019 01:40:28 at Gateway Latency = 47 ms
+18/12/2019 01:41:10 at Gateway Sent Heartbeat
+18/12/2019 01:41:10 at Gateway Received HeartbeatAck
+18/12/2019 01:41:10 at Gateway Latency = 32 ms
+18/12/2019 01:41:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:41:51 at Gateway Sent Heartbeat
+18/12/2019 01:41:51 at Gateway Received HeartbeatAck
+18/12/2019 01:41:51 at Gateway Latency = 47 ms
+18/12/2019 01:42:32 at Gateway Sent Heartbeat
+18/12/2019 01:42:32 at Gateway Received HeartbeatAck
+18/12/2019 01:42:32 at Gateway Latency = 46 ms
+18/12/2019 01:43:14 at Gateway Sent Heartbeat
+18/12/2019 01:43:14 at Gateway Received HeartbeatAck
+18/12/2019 01:43:14 at Gateway Latency = 31 ms
+18/12/2019 01:43:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:43:55 at Gateway Sent Heartbeat
+18/12/2019 01:43:55 at Gateway Received HeartbeatAck
+18/12/2019 01:43:55 at Gateway Latency = 32 ms
+18/12/2019 01:44:30 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:44:36 at Gateway Sent Heartbeat
+18/12/2019 01:44:36 at Gateway Received HeartbeatAck
+18/12/2019 01:44:36 at Gateway Latency = 47 ms
+18/12/2019 01:45:17 at Gateway Sent Heartbeat
+18/12/2019 01:45:17 at Gateway Received HeartbeatAck
+18/12/2019 01:45:17 at Gateway Latency = 31 ms
+18/12/2019 01:45:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:45:59 at Gateway Sent Heartbeat
+18/12/2019 01:45:59 at Gateway Received HeartbeatAck
+18/12/2019 01:45:59 at Gateway Latency = 32 ms
+18/12/2019 01:46:40 at Gateway Sent Heartbeat
+18/12/2019 01:46:40 at Gateway Received HeartbeatAck
+18/12/2019 01:46:40 at Gateway Latency = 47 ms
+18/12/2019 01:47:06 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:47:12 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:47:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:47:21 at Gateway Sent Heartbeat
+18/12/2019 01:47:21 at Gateway Received HeartbeatAck
+18/12/2019 01:47:21 at Gateway Latency = 46 ms
+18/12/2019 01:48:02 at Gateway Sent Heartbeat
+18/12/2019 01:48:02 at Gateway Received HeartbeatAck
+18/12/2019 01:48:02 at Gateway Latency = 31 ms
+18/12/2019 01:48:44 at Gateway Sent Heartbeat
+18/12/2019 01:48:44 at Gateway Received HeartbeatAck
+18/12/2019 01:48:44 at Gateway Latency = 32 ms
+18/12/2019 01:49:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:49:25 at Gateway Sent Heartbeat
+18/12/2019 01:49:25 at Gateway Received HeartbeatAck
+18/12/2019 01:49:25 at Gateway Latency = 31 ms
+18/12/2019 01:50:06 at Gateway Sent Heartbeat
+18/12/2019 01:50:06 at Gateway Received HeartbeatAck
+18/12/2019 01:50:06 at Gateway Latency = 32 ms
+18/12/2019 01:50:47 at Gateway Sent Heartbeat
+18/12/2019 01:50:47 at Gateway Received HeartbeatAck
+18/12/2019 01:50:48 at Gateway Latency = 47 ms
+18/12/2019 01:51:06 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:51:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:51:29 at Gateway Sent Heartbeat
+18/12/2019 01:51:29 at Gateway Received HeartbeatAck
+18/12/2019 01:51:29 at Gateway Latency = 31 ms
+18/12/2019 01:52:10 at Gateway Sent Heartbeat
+18/12/2019 01:52:10 at Gateway Received HeartbeatAck
+18/12/2019 01:52:10 at Gateway Latency = 47 ms
+18/12/2019 01:52:51 at Gateway Sent Heartbeat
+18/12/2019 01:52:51 at Gateway Received HeartbeatAck
+18/12/2019 01:52:51 at Gateway Latency = 32 ms
+18/12/2019 01:53:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:53:33 at Gateway Sent Heartbeat
+18/12/2019 01:53:33 at Gateway Received HeartbeatAck
+18/12/2019 01:53:33 at Gateway Latency = 47 ms
+18/12/2019 01:54:14 at Gateway Sent Heartbeat
+18/12/2019 01:54:14 at Gateway Received HeartbeatAck
+18/12/2019 01:54:14 at Gateway Latency = 32 ms
+18/12/2019 01:54:55 at Gateway Sent Heartbeat
+18/12/2019 01:54:55 at Gateway Received HeartbeatAck
+18/12/2019 01:54:55 at Gateway Latency = 31 ms
+18/12/2019 01:55:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:55:36 at Gateway Sent Heartbeat
+18/12/2019 01:55:36 at Gateway Received HeartbeatAck
+18/12/2019 01:55:36 at Gateway Latency = 47 ms
+18/12/2019 01:56:18 at Gateway Sent Heartbeat
+18/12/2019 01:56:18 at Gateway Received HeartbeatAck
+18/12/2019 01:56:18 at Gateway Latency = 31 ms
+18/12/2019 01:56:59 at Gateway Sent Heartbeat
+18/12/2019 01:56:59 at Gateway Received HeartbeatAck
+18/12/2019 01:56:59 at Gateway Latency = 31 ms
+18/12/2019 01:57:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:57:40 at Gateway Sent Heartbeat
+18/12/2019 01:57:40 at Gateway Received HeartbeatAck
+18/12/2019 01:57:40 at Gateway Latency = 329 ms
+18/12/2019 01:58:21 at Gateway Sent Heartbeat
+18/12/2019 01:58:21 at Gateway Received HeartbeatAck
+18/12/2019 01:58:21 at Gateway Latency = 31 ms
+18/12/2019 01:59:03 at Gateway Sent Heartbeat
+18/12/2019 01:59:03 at Gateway Received HeartbeatAck
+18/12/2019 01:59:03 at Gateway Latency = 47 ms
+18/12/2019 01:59:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:59:30 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 01:59:44 at Gateway Sent Heartbeat
+18/12/2019 01:59:44 at Gateway Received HeartbeatAck
+18/12/2019 01:59:44 at Gateway Latency = 47 ms
+18/12/2019 02:00:25 at Gateway Sent Heartbeat
+18/12/2019 02:00:25 at Gateway Received HeartbeatAck
+18/12/2019 02:00:25 at Gateway Latency = 31 ms
+18/12/2019 02:01:06 at Gateway Sent Heartbeat
+18/12/2019 02:01:07 at Gateway Received HeartbeatAck
+18/12/2019 02:01:07 at Gateway Latency = 46 ms
+18/12/2019 02:01:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:01:48 at Gateway Sent Heartbeat
+18/12/2019 02:01:48 at Gateway Received HeartbeatAck
+18/12/2019 02:01:48 at Gateway Latency = 31 ms
+18/12/2019 02:02:29 at Gateway Sent Heartbeat
+18/12/2019 02:02:29 at Gateway Received HeartbeatAck
+18/12/2019 02:02:29 at Gateway Latency = 47 ms
+18/12/2019 02:03:10 at Gateway Sent Heartbeat
+18/12/2019 02:03:10 at Gateway Received HeartbeatAck
+18/12/2019 02:03:10 at Gateway Latency = 32 ms
+18/12/2019 02:03:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:03:52 at Gateway Sent Heartbeat
+18/12/2019 02:03:52 at Gateway Received HeartbeatAck
+18/12/2019 02:03:52 at Gateway Latency = 47 ms
+18/12/2019 02:04:33 at Gateway Sent Heartbeat
+18/12/2019 02:04:33 at Gateway Received HeartbeatAck
+18/12/2019 02:04:33 at Gateway Latency = 47 ms
+18/12/2019 02:05:14 at Gateway Sent Heartbeat
+18/12/2019 02:05:14 at Gateway Received HeartbeatAck
+18/12/2019 02:05:14 at Gateway Latency = 46 ms
+18/12/2019 02:05:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:05:46 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:05:47 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:05:55 at Gateway Sent Heartbeat
+18/12/2019 02:05:55 at Gateway Received HeartbeatAck
+18/12/2019 02:05:55 at Gateway Latency = 47 ms
+18/12/2019 02:06:37 at Gateway Sent Heartbeat
+18/12/2019 02:06:37 at Gateway Received HeartbeatAck
+18/12/2019 02:06:37 at Gateway Latency = 31 ms
+18/12/2019 02:07:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:07:18 at Gateway Sent Heartbeat
+18/12/2019 02:07:18 at Gateway Received HeartbeatAck
+18/12/2019 02:07:18 at Gateway Latency = 32 ms
+18/12/2019 02:07:59 at Gateway Sent Heartbeat
+18/12/2019 02:07:59 at Gateway Received HeartbeatAck
+18/12/2019 02:07:59 at Gateway Latency = 47 ms
+18/12/2019 02:08:40 at Gateway Sent Heartbeat
+18/12/2019 02:08:40 at Gateway Received HeartbeatAck
+18/12/2019 02:08:40 at Gateway Latency = 31 ms
+18/12/2019 02:09:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:09:22 at Gateway Sent Heartbeat
+18/12/2019 02:09:22 at Gateway Received HeartbeatAck
+18/12/2019 02:09:22 at Gateway Latency = 32 ms
+18/12/2019 02:10:03 at Gateway Sent Heartbeat
+18/12/2019 02:10:03 at Gateway Received HeartbeatAck
+18/12/2019 02:10:03 at Gateway Latency = 47 ms
+18/12/2019 02:10:44 at Gateway Sent Heartbeat
+18/12/2019 02:10:44 at Gateway Received HeartbeatAck
+18/12/2019 02:10:44 at Gateway Latency = 31 ms
+18/12/2019 02:11:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:11:25 at Gateway Sent Heartbeat
+18/12/2019 02:11:26 at Gateway Received HeartbeatAck
+18/12/2019 02:11:26 at Gateway Latency = 47 ms
+18/12/2019 02:12:07 at Gateway Sent Heartbeat
+18/12/2019 02:12:07 at Gateway Received HeartbeatAck
+18/12/2019 02:12:07 at Gateway Latency = 47 ms
+18/12/2019 02:12:48 at Gateway Sent Heartbeat
+18/12/2019 02:12:48 at Gateway Received HeartbeatAck
+18/12/2019 02:12:48 at Gateway Latency = 31 ms
+18/12/2019 02:13:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:13:29 at Gateway Sent Heartbeat
+18/12/2019 02:13:29 at Gateway Received HeartbeatAck
+18/12/2019 02:13:29 at Gateway Latency = 32 ms
+18/12/2019 02:14:11 at Gateway Sent Heartbeat
+18/12/2019 02:14:11 at Gateway Received HeartbeatAck
+18/12/2019 02:14:11 at Gateway Latency = 31 ms
+18/12/2019 02:14:52 at Gateway Sent Heartbeat
+18/12/2019 02:14:52 at Gateway Received HeartbeatAck
+18/12/2019 02:14:52 at Gateway Latency = 46 ms
+18/12/2019 02:15:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:15:33 at Gateway Sent Heartbeat
+18/12/2019 02:15:33 at Gateway Received HeartbeatAck
+18/12/2019 02:15:33 at Gateway Latency = 63 ms
+18/12/2019 02:16:14 at Gateway Sent Heartbeat
+18/12/2019 02:16:14 at Gateway Received HeartbeatAck
+18/12/2019 02:16:14 at Gateway Latency = 31 ms
+18/12/2019 02:16:56 at Gateway Sent Heartbeat
+18/12/2019 02:16:56 at Gateway Received HeartbeatAck
+18/12/2019 02:16:56 at Gateway Latency = 47 ms
+18/12/2019 02:17:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:17:37 at Gateway Sent Heartbeat
+18/12/2019 02:17:37 at Gateway Received HeartbeatAck
+18/12/2019 02:17:37 at Gateway Latency = 47 ms
+18/12/2019 02:18:18 at Gateway Sent Heartbeat
+18/12/2019 02:18:18 at Gateway Received HeartbeatAck
+18/12/2019 02:18:18 at Gateway Latency = 47 ms
+18/12/2019 02:18:59 at Gateway Sent Heartbeat
+18/12/2019 02:18:59 at Gateway Received HeartbeatAck
+18/12/2019 02:18:59 at Gateway Latency = 32 ms
+18/12/2019 02:19:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:19:41 at Gateway Sent Heartbeat
+18/12/2019 02:19:41 at Gateway Received HeartbeatAck
+18/12/2019 02:19:41 at Gateway Latency = 62 ms
+18/12/2019 02:20:22 at Gateway Sent Heartbeat
+18/12/2019 02:20:22 at Gateway Received HeartbeatAck
+18/12/2019 02:20:22 at Gateway Latency = 31 ms
+18/12/2019 02:21:03 at Gateway Sent Heartbeat
+18/12/2019 02:21:03 at Gateway Received HeartbeatAck
+18/12/2019 02:21:03 at Gateway Latency = 32 ms
+18/12/2019 02:21:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:21:45 at Gateway Sent Heartbeat
+18/12/2019 02:22:26 at Gateway Sent Heartbeat
+18/12/2019 02:22:26 at Gateway Received HeartbeatAck
+18/12/2019 02:22:26 at Gateway Latency = 46 ms
+18/12/2019 02:23:07 at Gateway Sent Heartbeat
+18/12/2019 02:23:07 at Gateway Received HeartbeatAck
+18/12/2019 02:23:07 at Gateway Latency = 31 ms
+18/12/2019 02:23:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:23:48 at Gateway Sent Heartbeat
+18/12/2019 02:23:48 at Gateway Received HeartbeatAck
+18/12/2019 02:23:48 at Gateway Latency = 94 ms
+18/12/2019 02:24:30 at Gateway Sent Heartbeat
+18/12/2019 02:24:30 at Gateway Received HeartbeatAck
+18/12/2019 02:24:30 at Gateway Latency = 47 ms
+18/12/2019 02:25:11 at Gateway Sent Heartbeat
+18/12/2019 02:25:11 at Gateway Received HeartbeatAck
+18/12/2019 02:25:11 at Gateway Latency = 47 ms
+18/12/2019 02:25:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:25:23 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:25:52 at Gateway Sent Heartbeat
+18/12/2019 02:25:52 at Gateway Received HeartbeatAck
+18/12/2019 02:25:52 at Gateway Latency = 32 ms
+18/12/2019 02:26:33 at Gateway Sent Heartbeat
+18/12/2019 02:26:33 at Gateway Received HeartbeatAck
+18/12/2019 02:26:34 at Gateway Latency = 47 ms
+18/12/2019 02:27:15 at Gateway Sent Heartbeat
+18/12/2019 02:27:15 at Gateway Received HeartbeatAck
+18/12/2019 02:27:15 at Gateway Latency = 31 ms
+18/12/2019 02:27:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:27:56 at Gateway Sent Heartbeat
+18/12/2019 02:27:56 at Gateway Received HeartbeatAck
+18/12/2019 02:27:56 at Gateway Latency = 31 ms
+18/12/2019 02:28:37 at Gateway Sent Heartbeat
+18/12/2019 02:28:37 at Gateway Received HeartbeatAck
+18/12/2019 02:28:37 at Gateway Latency = 31 ms
+18/12/2019 02:29:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:29:19 at Gateway Sent Heartbeat
+18/12/2019 02:29:19 at Gateway Received HeartbeatAck
+18/12/2019 02:29:19 at Gateway Latency = 47 ms
+18/12/2019 02:29:40 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:30:00 at Gateway Sent Heartbeat
+18/12/2019 02:30:00 at Gateway Received HeartbeatAck
+18/12/2019 02:30:00 at Gateway Latency = 31 ms
+18/12/2019 02:30:41 at Gateway Sent Heartbeat
+18/12/2019 02:30:41 at Gateway Received HeartbeatAck
+18/12/2019 02:30:41 at Gateway Latency = 47 ms
+18/12/2019 02:31:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:31:22 at Gateway Sent Heartbeat
+18/12/2019 02:31:22 at Gateway Received HeartbeatAck
+18/12/2019 02:31:22 at Gateway Latency = 47 ms
+18/12/2019 02:31:40 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:32:04 at Gateway Sent Heartbeat
+18/12/2019 02:32:04 at Gateway Received HeartbeatAck
+18/12/2019 02:32:04 at Gateway Latency = 47 ms
+18/12/2019 02:32:04 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:32:06 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:32:45 at Gateway Sent Heartbeat
+18/12/2019 02:32:45 at Gateway Received HeartbeatAck
+18/12/2019 02:32:45 at Gateway Latency = 31 ms
+18/12/2019 02:33:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:33:26 at Gateway Sent Heartbeat
+18/12/2019 02:33:26 at Gateway Received HeartbeatAck
+18/12/2019 02:33:26 at Gateway Latency = 31 ms
+18/12/2019 02:34:05 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:34:08 at Gateway Sent Heartbeat
+18/12/2019 02:34:08 at Gateway Received HeartbeatAck
+18/12/2019 02:34:08 at Gateway Latency = 31 ms
+18/12/2019 02:34:49 at Gateway Sent Heartbeat
+18/12/2019 02:34:49 at Gateway Received HeartbeatAck
+18/12/2019 02:34:49 at Gateway Latency = 31 ms
+18/12/2019 02:35:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:35:30 at Gateway Sent Heartbeat
+18/12/2019 02:35:30 at Gateway Received HeartbeatAck
+18/12/2019 02:35:30 at Gateway Latency = 47 ms
+18/12/2019 02:36:11 at Gateway Sent Heartbeat
+18/12/2019 02:36:11 at Gateway Received HeartbeatAck
+18/12/2019 02:36:11 at Gateway Latency = 47 ms
+18/12/2019 02:36:53 at Gateway Sent Heartbeat
+18/12/2019 02:36:53 at Gateway Received HeartbeatAck
+18/12/2019 02:36:53 at Gateway Latency = 31 ms
+18/12/2019 02:37:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:37:34 at Gateway Sent Heartbeat
+18/12/2019 02:37:34 at Gateway Received HeartbeatAck
+18/12/2019 02:37:34 at Gateway Latency = 31 ms
+18/12/2019 02:37:42 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:37:58 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:38:05 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:38:15 at Gateway Sent Heartbeat
+18/12/2019 02:38:15 at Gateway Received HeartbeatAck
+18/12/2019 02:38:15 at Gateway Latency = 47 ms
+18/12/2019 02:38:56 at Gateway Sent Heartbeat
+18/12/2019 02:38:56 at Gateway Received HeartbeatAck
+18/12/2019 02:38:56 at Gateway Latency = 31 ms
+18/12/2019 02:39:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:39:38 at Gateway Sent Heartbeat
+18/12/2019 02:39:38 at Gateway Received HeartbeatAck
+18/12/2019 02:39:38 at Gateway Latency = 47 ms
+18/12/2019 02:40:05 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:40:19 at Gateway Sent Heartbeat
+18/12/2019 02:40:19 at Gateway Received HeartbeatAck
+18/12/2019 02:40:19 at Gateway Latency = 32 ms
+18/12/2019 02:41:00 at Gateway Sent Heartbeat
+18/12/2019 02:41:00 at Gateway Received HeartbeatAck
+18/12/2019 02:41:00 at Gateway Latency = 47 ms
+18/12/2019 02:41:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:41:41 at Gateway Sent Heartbeat
+18/12/2019 02:41:42 at Gateway Received HeartbeatAck
+18/12/2019 02:41:42 at Gateway Latency = 31 ms
+18/12/2019 02:42:23 at Gateway Sent Heartbeat
+18/12/2019 02:42:23 at Gateway Received HeartbeatAck
+18/12/2019 02:42:23 at Gateway Latency = 31 ms
+18/12/2019 02:43:04 at Gateway Sent Heartbeat
+18/12/2019 02:43:04 at Gateway Received HeartbeatAck
+18/12/2019 02:43:04 at Gateway Latency = 47 ms
+18/12/2019 02:43:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:43:45 at Gateway Sent Heartbeat
+18/12/2019 02:43:45 at Gateway Received HeartbeatAck
+18/12/2019 02:43:45 at Gateway Latency = 47 ms
+18/12/2019 02:44:27 at Gateway Sent Heartbeat
+18/12/2019 02:44:27 at Gateway Received HeartbeatAck
+18/12/2019 02:44:27 at Gateway Latency = 47 ms
+18/12/2019 02:45:08 at Gateway Sent Heartbeat
+18/12/2019 02:45:08 at Gateway Received HeartbeatAck
+18/12/2019 02:45:08 at Gateway Latency = 46 ms
+18/12/2019 02:45:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:45:49 at Gateway Sent Heartbeat
+18/12/2019 02:45:49 at Gateway Received HeartbeatAck
+18/12/2019 02:45:49 at Gateway Latency = 47 ms
+18/12/2019 02:46:30 at Gateway Sent Heartbeat
+18/12/2019 02:46:30 at Gateway Received HeartbeatAck
+18/12/2019 02:46:30 at Gateway Latency = 47 ms
+18/12/2019 02:47:12 at Gateway Sent Heartbeat
+18/12/2019 02:47:12 at Gateway Received HeartbeatAck
+18/12/2019 02:47:12 at Gateway Latency = 47 ms
+18/12/2019 02:47:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:47:53 at Gateway Sent Heartbeat
+18/12/2019 02:47:53 at Gateway Received HeartbeatAck
+18/12/2019 02:47:53 at Gateway Latency = 62 ms
+18/12/2019 02:48:34 at Gateway Sent Heartbeat
+18/12/2019 02:48:34 at Gateway Received HeartbeatAck
+18/12/2019 02:48:34 at Gateway Latency = 31 ms
+18/12/2019 02:49:16 at Gateway Sent Heartbeat
+18/12/2019 02:49:16 at Gateway Received HeartbeatAck
+18/12/2019 02:49:16 at Gateway Latency = 47 ms
+18/12/2019 02:49:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:49:57 at Gateway Sent Heartbeat
+18/12/2019 02:50:38 at Gateway Sent Heartbeat
+18/12/2019 02:50:38 at Gateway Received HeartbeatAck
+18/12/2019 02:50:38 at Gateway Latency = 31 ms
+18/12/2019 02:51:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:51:19 at Gateway Sent Heartbeat
+18/12/2019 02:51:19 at Gateway Received HeartbeatAck
+18/12/2019 02:51:19 at Gateway Latency = 47 ms
+18/12/2019 02:51:23 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:51:47 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:52:01 at Gateway Sent Heartbeat
+18/12/2019 02:52:01 at Gateway Received HeartbeatAck
+18/12/2019 02:52:01 at Gateway Latency = 47 ms
+18/12/2019 02:52:42 at Gateway Sent Heartbeat
+18/12/2019 02:52:42 at Gateway Received HeartbeatAck
+18/12/2019 02:52:42 at Gateway Latency = 46 ms
+18/12/2019 02:53:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:53:23 at Gateway Sent Heartbeat
+18/12/2019 02:53:23 at Gateway Received HeartbeatAck
+18/12/2019 02:53:23 at Gateway Latency = 47 ms
+18/12/2019 02:53:47 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:54:05 at Gateway Sent Heartbeat
+18/12/2019 02:54:05 at Gateway Received HeartbeatAck
+18/12/2019 02:54:05 at Gateway Latency = 32 ms
+18/12/2019 02:54:46 at Gateway Sent Heartbeat
+18/12/2019 02:54:46 at Gateway Received HeartbeatAck
+18/12/2019 02:54:46 at Gateway Latency = 31 ms
+18/12/2019 02:55:03 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:55:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:55:27 at Gateway Sent Heartbeat
+18/12/2019 02:55:27 at Gateway Received HeartbeatAck
+18/12/2019 02:55:27 at Gateway Latency = 31 ms
+18/12/2019 02:56:08 at Gateway Sent Heartbeat
+18/12/2019 02:56:08 at Gateway Received HeartbeatAck
+18/12/2019 02:56:08 at Gateway Latency = 47 ms
+18/12/2019 02:56:50 at Gateway Sent Heartbeat
+18/12/2019 02:56:50 at Gateway Received HeartbeatAck
+18/12/2019 02:56:50 at Gateway Latency = 47 ms
+18/12/2019 02:57:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:57:31 at Gateway Sent Heartbeat
+18/12/2019 02:57:31 at Gateway Received HeartbeatAck
+18/12/2019 02:57:31 at Gateway Latency = 47 ms
+18/12/2019 02:58:12 at Gateway Sent Heartbeat
+18/12/2019 02:58:12 at Gateway Received HeartbeatAck
+18/12/2019 02:58:12 at Gateway Latency = 31 ms
+18/12/2019 02:58:23 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:58:53 at Gateway Sent Heartbeat
+18/12/2019 02:58:53 at Gateway Received HeartbeatAck
+18/12/2019 02:58:53 at Gateway Latency = 31 ms
+18/12/2019 02:59:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 02:59:35 at Gateway Sent Heartbeat
+18/12/2019 02:59:35 at Gateway Received HeartbeatAck
+18/12/2019 02:59:35 at Gateway Latency = 32 ms
+18/12/2019 03:00:16 at Gateway Sent Heartbeat
+18/12/2019 03:00:16 at Gateway Received HeartbeatAck
+18/12/2019 03:00:16 at Gateway Latency = 31 ms
+18/12/2019 03:00:57 at Gateway Sent Heartbeat
+18/12/2019 03:00:57 at Gateway Received HeartbeatAck
+18/12/2019 03:00:57 at Gateway Latency = 31 ms
+18/12/2019 03:01:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 03:01:38 at Gateway Sent Heartbeat
+18/12/2019 03:01:39 at Gateway Received HeartbeatAck
+18/12/2019 03:01:39 at Gateway Latency = 47 ms
+18/12/2019 03:02:20 at Gateway Sent Heartbeat
+18/12/2019 03:02:20 at Gateway Received HeartbeatAck
+18/12/2019 03:02:20 at Gateway Latency = 47 ms
+18/12/2019 03:03:01 at Gateway Sent Heartbeat
+18/12/2019 03:03:01 at Gateway Received HeartbeatAck
+18/12/2019 03:03:01 at Gateway Latency = 47 ms
+18/12/2019 03:03:11 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 03:03:18 at Gateway Received Dispatch (PRESENCE_UPDATE)
+18/12/2019 03:03:42 at Gateway Sent Heartbeat
+18/12/2019 03:03:42 at Gateway Received HeartbeatAck
+18/12/2019 03:03:42 at Gateway Latency = 31 ms
+18/12/2019 03:04:24 at Gateway Sent Heartbeat
+18/12/2019 03:04:24 at Gateway Received HeartbeatAck
+18/12/2019 03:04:24 at Gateway Latency = 47 ms

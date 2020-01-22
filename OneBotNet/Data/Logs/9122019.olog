@@ -1,0 +1,42 @@
+
+09/12/2019 23:58:41 at Discord Discord.Net v2.1.1 (API v6)
+09/12/2019 23:58:44 at Rest GET voice/regions: 2257,79 ms
+09/12/2019 23:58:45 at Rest GET users/@me: 68,87 ms
+09/12/2019 23:58:45 at Gateway Connecting
+09/12/2019 23:58:45 at Gateway Connecting ApiClient
+09/12/2019 23:58:45 at Rest GET gateway: 28,43 ms
+09/12/2019 23:58:47 at Gateway Received Hello
+09/12/2019 23:58:47 at Gateway Heartbeat Started
+09/12/2019 23:58:47 at Gateway Identifying
+09/12/2019 23:58:47 at Gateway Received HeartbeatAck
+09/12/2019 23:58:47 at Gateway Sent Identify
+09/12/2019 23:58:47 at Gateway Latency = 422 ms
+09/12/2019 23:58:47 at Gateway Received Dispatch (READY)
+09/12/2019 23:58:47 at Gateway GuildDownloader Started
+09/12/2019 23:58:47 at Gateway Sending Status
+09/12/2019 23:58:48 at Gateway Sent StatusUpdate
+09/12/2019 23:58:48 at Gateway Connected
+09/12/2019 23:58:48 at Gateway Raising Event
+09/12/2019 23:58:48 at Gateway Received Dispatch (GUILD_AVAILABLE)
+09/12/2019 23:58:48 at Gateway Connected to ServeurTest
+09/12/2019 23:58:48 at Gateway Received Dispatch (GUILD_AVAILABLE)
+09/12/2019 23:58:48 at Gateway Connected to One Piece | Nouvelle odyssée | RP
+09/12/2019 23:58:48 at Gateway GuildDownloader Stopped
+09/12/2019 23:58:48 at Gateway Sent StatusUpdate
+09/12/2019 23:58:48 StartTimer
+09/12/2019 23:58:48 at Gateway Ready
+09/12/2019 23:59:09 at Gateway Received Dispatch (TYPING_START)
+09/12/2019 23:59:16 at Gateway Received Dispatch (MESSAGE_CREATE)
+09/12/2019 23:59:17 Aujourd'hui: 10/12/2019 04:59:17
+Fin d'affichage: 07/04/2002 08:08:08
+Plus tôt ajd?: False
+09/12/2019 23:59:17 at Gateway Received Dispatch (MESSAGE_CREATE)
+09/12/2019 23:59:17 at Rest POST channels/601131062378364950/messages: 108,87 ms
+09/12/2019 23:59:28 at Gateway Sent Heartbeat
+09/12/2019 23:59:28 at Gateway Received HeartbeatAck
+09/12/2019 23:59:28 at Gateway Latency = 31 ms
+09/12/2019 23:59:39 at Gateway Received Dispatch (PRESENCE_UPDATE)
+09/12/2019 23:59:59 at Gateway Received Dispatch (PRESENCE_UPDATE)
+10/12/2019 00:00:10 at Gateway Sent Heartbeat
+10/12/2019 00:00:10 at Gateway Received HeartbeatAck
+10/12/2019 00:00:10 at Gateway Latency = 47 ms

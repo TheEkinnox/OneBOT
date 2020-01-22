@@ -22,6 +22,7 @@ namespace OneBotNet.Core.Data.Classes
 
         public string Nom { get; set; }
         public string Description { get; set; }
+        public int Quantite { get; set; }
         public decimal PrixAchat { get; set; }
         public decimal PrixVente { get; set; }
 
@@ -36,7 +37,6 @@ namespace OneBotNet.Core.Data.Classes
         internal string NomVendeur { get; set; }
         internal DateTime DateAjout { get; set; }
         internal TimeSpan TempsAffichage { get; set; }
-        internal int Quantite { get; set; }
 
 
         #endregion
