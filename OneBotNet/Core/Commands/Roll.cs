@@ -11,13 +11,13 @@
 
 using System;
 using System.Threading.Tasks;
-using OneBotNet.Core.Data.Classes;
 using Discord.Commands;
 using MathParserTK;
+using ShinoBotNet.Core.Data.Classes;
 
 #endregion
 
-namespace AlterBotNet.Core.Commands
+namespace ShinoBotNet.Core.Commands
 {
     public class Roll : ModuleBase<SocketCommandContext>
     {
@@ -40,6 +40,7 @@ namespace AlterBotNet.Core.Commands
             int sumResultats = 0;
             bool valide = true;
             bool containsCalcul = input.Contains('+') || input.Contains('-') || input.Contains('*') || input.Contains('/');
+            string calculString;
 
             if (input == "help")
             {
@@ -90,7 +91,9 @@ namespace AlterBotNet.Core.Commands
                     if (containsCalcul)
                     {
                         Logs.WriteLine(sumResultats.ToString());
-                        sumResultats = (int) parser.Parse(sumResultats.ToString(), false);
+                        calculString = input.Replace(nbDes.ToString() + "d" + max.ToString(),"");
+                        sumResultats = (int) parser.Parse(sumResultats.ToString()+calculString, false);
+                        msgResultat += calculString;
                         Logs.WriteLine("Calcul effectué");
                         Logs.WriteLine(sumResultats.ToString());
                     }
